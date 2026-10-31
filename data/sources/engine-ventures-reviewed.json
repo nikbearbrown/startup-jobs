@@ -1,0 +1,1216 @@
+{
+  "id": "engine-ventures-reviewed",
+  "checked_on": "2026-10-31",
+  "companies": [
+    {
+      "id": "addis-energy",
+      "name": "Addis Energy",
+      "website": "https://addisenergy.com/",
+      "careers_url": "https://addisenergy.com/careers/",
+      "industries": [
+        "Clean energy"
+      ],
+      "summary": "Develops subsurface chemical processes for producing hydrogen and ammonia.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/addis-energy",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://addisenergy.com/",
+          "publisher": "Addis Energy",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://addisenergy.com/contact/",
+          "publisher": "Addis Energy",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 100 Chestnut Street, Somerville, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "amide",
+      "name": "Amide",
+      "website": "https://www.amidetech.com/",
+      "careers_url": "https://www.amidetech.com/careers/",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops automated synthesis and manufacturing of complex peptides.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/amide",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.amidetech.com/",
+          "publisher": "Amide",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.amidetech.com/contact/",
+          "publisher": "Amide",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 300 2nd Avenue, Waltham, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "anthology",
+      "name": "Anthology",
+      "website": "https://anthology.bio/",
+      "careers_url": "https://anthology.bio/careers/",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops genome engineering tools for biomanufacturing.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/anthology",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://anthology.bio/",
+          "publisher": "Anthology",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://anthology.bio/",
+          "publisher": "Anthology",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "commonwealth-fusion-systems",
+      "name": "Commonwealth Fusion Systems",
+      "website": "https://www.cfs.energy/",
+      "careers_url": "https://www.cfs.energy/careers/",
+      "industries": [
+        "Clean energy"
+      ],
+      "summary": "Develops superconducting magnets and tokamak fusion energy systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Devens",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/commonwealth-fusion-systems",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.cfs.energy/",
+          "publisher": "Commonwealth Fusion Systems",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.cfs.energy/devens-campus/overview/",
+          "publisher": "Commonwealth Fusion Systems",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 117 Hospital Road, Devens, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "copernic-catalysts",
+      "name": "Copernic Catalysts",
+      "website": "https://coperniccatalysts.com/",
+      "careers_url": "https://coperniccatalysts.com/careers/",
+      "industries": [
+        "Industrial technology"
+      ],
+      "summary": "Develops computationally designed catalysts for ammonia and other chemicals.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/copernic",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://coperniccatalysts.com/",
+          "publisher": "Copernic Catalysts",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://coperniccatalysts.com/",
+          "publisher": "Copernic Catalysts",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Cambridge local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "emvolon",
+      "name": "Emvolon",
+      "website": "https://www.emvolon.com/",
+      "careers_url": null,
+      "industries": [
+        "Clean energy"
+      ],
+      "summary": "Develops distributed systems that convert methane into liquid fuels and chemicals.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/emvolon",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.emvolon.com/",
+          "publisher": "Emvolon",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.emvolon.com/contact",
+          "publisher": "Emvolon",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 30 Sixth Road, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "finwave",
+      "name": "Finwave",
+      "website": "https://finwavesemi.com/",
+      "careers_url": "https://finwavesemi.com/about-us/#career",
+      "industries": [
+        "Semiconductors"
+      ],
+      "summary": "Develops gallium nitride radio-frequency switches and power amplifiers.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/finwave",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://finwavesemi.com/",
+          "publisher": "Finwave",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://finwavesemi.com/contact-us/",
+          "publisher": "Finwave",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 465 Waverley Oaks Road, Waltham, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "hyperlight",
+      "name": "HyperLight",
+      "website": "https://hyperlightcorp.com/home",
+      "careers_url": "https://hyperlightcorp.com/company#career",
+      "industries": [
+        "Photonics"
+      ],
+      "summary": "Develops integrated lithium niobate photonics for optical communications.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/hyperlight",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://hyperlightcorp.com/home",
+          "publisher": "HyperLight",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://hyperlightcorp.com/contact",
+          "publisher": "HyperLight",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 675 Massachusetts Avenue, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "isee",
+      "name": "ISEE",
+      "website": "https://www.isee.ai/",
+      "careers_url": "https://www.isee.ai/careers",
+      "industries": [
+        "Robotics"
+      ],
+      "summary": "Develops autonomous yard truck systems for logistics operations.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/isee",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.isee.ai/",
+          "publisher": "ISEE",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.isee.ai/contact",
+          "publisher": "ISEE",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 501 Massachusetts Avenue, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "kano",
+      "name": "Kano",
+      "website": "https://kanotherapeutics.com/",
+      "careers_url": "https://kanotherapeutics.com/careers/",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops circular single-stranded DNA payloads for genetic medicine.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/kano-therapeutics",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://kanotherapeutics.com/",
+          "publisher": "Kano",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://kanotherapeutics.com/contact/",
+          "publisher": "Kano",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 238 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "kytopen",
+      "name": "Kytopen",
+      "website": "https://www.kytopen.com/",
+      "careers_url": "https://www.kytopen.com/join-us",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops nonviral gene delivery tools for cell engineering and manufacturing.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/kytopen",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.kytopen.com/",
+          "publisher": "Kytopen",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.kytopen.com/contact-us",
+          "publisher": "Kytopen",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "matrisome-bio",
+      "name": "Matrisome Bio",
+      "website": "https://matrisomebio.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops therapies targeting the extracellular matrix of tumors.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/matrisome-bio",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://matrisomebio.com/",
+          "publisher": "Matrisome Bio",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://matrisomebio.com/contact/",
+          "publisher": "Matrisome Bio",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 700 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "predicta",
+      "name": "Predicta",
+      "website": "https://www.predictabiosciences.com",
+      "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/15c2d5ba-73b9-4282-8a1f-87956c3d423c/Predicta-Biosciences",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops molecular diagnostics and genomic insights for blood cancer care.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/predicta",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.predictabiosciences.com",
+          "publisher": "Predicta",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.predictabiosciences.com/contact/",
+          "publisher": "Predicta",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "rise-robotics",
+      "name": "RISE Robotics",
+      "website": "https://www.riserobotics.com/",
+      "careers_url": "https://apply.workable.com/rise-robotics/",
+      "industries": [
+        "Robotics"
+      ],
+      "summary": "Develops electric mechanical actuation systems for industrial machinery.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/rise-robotics",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.riserobotics.com/",
+          "publisher": "RISE Robotics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.riserobotics.com/",
+          "publisher": "RISE Robotics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Somerville local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "sublime-systems",
+      "name": "Sublime Systems",
+      "website": "https://sublime-systems.com/",
+      "careers_url": null,
+      "industries": [
+        "Clean technology"
+      ],
+      "summary": "Develops electrochemical processes to manufacture cement.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/sublime-systems",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://sublime-systems.com/",
+          "publisher": "Sublime Systems",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://sublime-systems.com/",
+          "publisher": "Sublime Systems",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 28 Park Street, Somerville, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "teradar",
+      "name": "Teradar",
+      "website": "https://teradar.com/",
+      "careers_url": "https://teradar.com/careers/",
+      "industries": [
+        "Sensing technology"
+      ],
+      "summary": "Develops terahertz sensing systems for vehicles.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/terada",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://teradar.com/",
+          "publisher": "Teradar",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://teradar.com/contact-us/",
+          "publisher": "Teradar",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 88 Black Falcon Avenue, Boston, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "terrestrial-bio",
+      "name": "Terrestrial Bio",
+      "website": "https://www.terrestrialbio.com/",
+      "careers_url": "https://www.terrestrialbio.com/careers",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops microarray patches for delivery of therapeutics through skin.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. Contact page lists 30 and 11 Cummings Park Drive; selected main contact address 30. Both are retained in local source evidence. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/terrestrial-bio",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.terrestrialbio.com/",
+          "publisher": "Terrestrial Bio",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.terrestrialbio.com/contact",
+          "publisher": "Terrestrial Bio",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 30 Cummings Park Drive, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "veir",
+      "name": "VEIR",
+      "website": "https://veir.com/",
+      "careers_url": "https://veir.com/careers",
+      "industries": [
+        "Clean energy"
+      ],
+      "summary": "Develops superconducting power delivery systems for data centers and grids.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/veir",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://veir.com/",
+          "publisher": "VEIR",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://veir.com/contact-us",
+          "publisher": "VEIR",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 3 Gill Street, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "via-separations",
+      "name": "Via Separations",
+      "website": "https://viaseparations.com/",
+      "careers_url": "https://viaseparations.com/careers/",
+      "industries": [
+        "Industrial technology"
+      ],
+      "summary": "Develops membrane filtration systems for industrial separation processes.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Watertown",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/via-separations",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://viaseparations.com/",
+          "publisher": "Via Separations",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://viaseparations.com/",
+          "publisher": "Via Separations",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Watertown local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    }
+  ]
+}

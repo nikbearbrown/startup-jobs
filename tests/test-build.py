@@ -22,4 +22,16 @@ class BuildTests(unittest.TestCase):
    other=copy.deepcopy(self.row);other['id']='other-company'
    (root/'data/sources/test.json').write_text(json.dumps(dict(checked_on='2026-10-31',companies=[self.row,other])))
    with self.assertRaises(ValueError): b.build(root)
+ def test_hiring_routes_do_not_claim_live_vacancies(self):
+  rows=json.loads((b.ROOT/'data/companies.json').read_text())
+  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),55)
+  for r in rows:
+   for q in r.get('hiring_routes',[]):
+    self.assertEqual(q['scope'],'company');self.assertEqual(q['vacancy_status'],'not-verified');b.domain(q['source_url']);b.date(q['checked_on'])
+ def test_unknown_hiring_entity_rejected(self):
+  with tempfile.TemporaryDirectory() as d:
+   root=Path(d);(root/'data/sources').mkdir(parents=True);(root/'data/enrichment').mkdir()
+   (root/'data/sources/test.json').write_text(json.dumps(dict(checked_on='2026-10-31',companies=[self.row])))
+   (root/'data/enrichment/hiring-routes.json').write_text(json.dumps([dict(company_id='unknown-company',routes=[])]))
+   with self.assertRaises(ValueError):b.build(root)
 if __name__=='__main__':unittest.main()

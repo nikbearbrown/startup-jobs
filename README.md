@@ -6,9 +6,11 @@ The aim is broad discovery across regions and industries. **This is not a census
 
 ## Coverage — 2026-10-31
 
-85 company records: **84 identity/site/sector reviews and one unresolved launch record**. This expansion adds 78 reviewed identities from 97 MassRobotics directory candidates; 19 remain pending. The reviewed batch includes 35 career-navigation links, not verified open jobs.
+104 company records: **103 identity/site/sector reviews and one unresolved launch record**. The MassRobotics batch adds 78 reviewed identities from 97 candidates. The Engine Ventures batch adds 19 independently corroborated identities with explicit company-stated Boston-region presence; other portfolio candidates remain separate. Investor membership never establishes a local office.
 
-Eighteen new companies state local addresses; the jobs-site evidence overlay maps 15 of them with approximate Census geocodes and holds three ambiguous/unmatched addresses. Sixty new records retain only a directory-reported resident affiliation: Boston is not a verified office or headquarters for those records, and they have no precise map pin. This repository's location export remains city-level; precise location decisions live in the [jobs-site expansion evidence](https://github.com/nikbearbrown/jobs.humanitarians.ai/blob/feat/startup-research-map/docs/ecosystem-expansion.md). Across both batches, 84 records have some city/affiliation evidence and Boston Metal remains unresolved.
+All 104 have source website references. The jobs-site review retrieved 99 of those sites; the remaining five retain prior source evidence. **55 companies have reviewed hiring navigation**, stored with source, date, scope and destination-check status in `data/enrichment/hiring-routes.json` and included in JSON/CSV exports. There are **zero verified live-vacancy counts**. A careers page is not a promise of hiring.
+
+Thirty-five companies have reviewed map locations in the jobs-site overlay, up from 16. The 19-company Engine batch contributes 16 mapped contact addresses; its other three records have city-only evidence. The three earlier company geocode cases are resolved with municipal address data. Sixty MassRobotics records still retain resident affiliation only, without precise markers. This repository's location export remains city-level; precise decisions and evidence live in the [map evidence](https://github.com/nikbearbrown/jobs.humanitarians.ai/blob/feat/startup-research-map/docs/ecosystem-hiring-expansion.md). Boston Metal's city remains unresolved.
 
 The collection is selection-biased and does not establish current operations, founding age, ownership, hiring or total ecosystem coverage. MassRobotics descriptions may be member-supplied; cross-publisher corroboration is not an independent operational audit. Names/domains are deduplicated, and unknown fields stay null.
 
@@ -55,3 +57,7 @@ Work source-by-source and region-by-region; avoid paying for a directory merely 
 The site imports a pinned research Git commit and a SHA-256 of the startup export through `scripts/import-ecosystem.py` in the jobs site repository. Review and rebuild the static snapshot when data changes; publishing this repository alone does not refresh the site.
 
 Facts and source links are supplied for research. Source pages and third-party content remain with their owners; no license to republish their text is implied. This repository does not change those source terms.
+
+## Reproduce the additional review
+
+`python3 scripts/import-engine-review.py ../jobs-site` imports only the 19 explicit decisions in `data/engine-ventures-review.tsv`, using cached company and investor evidence. `python3 scripts/import-hiring-review.py ../jobs-site/public/ecosystem/directory.json` copies the reviewed company hiring routes. Run `python3 scripts/build.py` and `python3 tests/test-build.py` afterward. Raw HTML stays local; public receipts retain URLs, dates, hashes and failed/blocked outcomes. The separate Engine resident adapter is held pending its operative terms; it is not the source of this investor batch.

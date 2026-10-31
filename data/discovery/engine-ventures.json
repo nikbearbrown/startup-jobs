@@ -1,0 +1,458 @@
+[
+  {
+    "name": "Addis Energy",
+    "website": "https://addisenergy.com/",
+    "source_url": "https://engineventures.com/companies/addis-energy",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Amide",
+    "website": "https://www.amidetech.com/",
+    "source_url": "https://engineventures.com/companies/amide",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Anthology",
+    "website": "https://anthology.bio/",
+    "source_url": "https://engineventures.com/companies/anthology",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Atlantic Quantum",
+    "website": "https://www.atlantic-qc.com",
+    "source_url": "https://engineventures.com/companies/atlantic-quantum",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "AtmosZero",
+    "website": "https://atmoszero.energy/",
+    "source_url": "https://engineventures.com/companies/atmoszero",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Axiomatic AI",
+    "website": "https://axiomatic-ai.com",
+    "source_url": "https://engineventures.com/companies/axiomatic-ai",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Axoft",
+    "website": null,
+    "source_url": "https://engineventures.com/companies/axoft",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Bexorg",
+    "website": "https://bexorg.com/",
+    "source_url": "https://engineventures.com/companies/bexorg",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Biobot Analytics",
+    "website": "https://biobot.io/",
+    "source_url": "https://engineventures.com/companies/biobot-analytics",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Blue Energy",
+    "website": "https://blueenergy.co",
+    "source_url": "https://engineventures.com/companies/blue-energy",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Boston Metal",
+    "website": "https://www.bostonmetal.com/",
+    "source_url": "https://engineventures.com/companies/boston-metal",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Already in collection; no duplicate added"
+  },
+  {
+    "name": "Celestial AI",
+    "website": "https://www.celestial.ai/",
+    "source_url": "https://engineventures.com/companies/celestial-ai",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Cellino",
+    "website": "https://www.cellinobio.com/",
+    "source_url": "https://engineventures.com/companies/cellino",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "website": "https://www.cfs.energy/",
+    "source_url": "https://engineventures.com/companies/commonwealth-fusion-systems",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Copernic Catalysts",
+    "website": "https://coperniccatalysts.com/",
+    "source_url": "https://engineventures.com/companies/copernic",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "CorePower Magnetics",
+    "website": "https://www.corepowermagnetics.com/",
+    "source_url": "https://engineventures.com/companies/corepower-magnetics",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "DBOS",
+    "website": null,
+    "source_url": "https://engineventures.com/companies/dbos",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "DG Matrix",
+    "website": "https://www.dgmatrix.com/",
+    "source_url": "https://engineventures.com/companies/dg-matrix",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Droplet Biosciences",
+    "website": "https://dropletbiosci.com/",
+    "source_url": "https://engineventures.com/companies/droplet-biosciences",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Emvolon",
+    "website": "https://www.emvolon.com/",
+    "source_url": "https://engineventures.com/companies/emvolon",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "EVOLOH",
+    "website": "https://evoloh.com/",
+    "source_url": "https://engineventures.com/companies/evoloh",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Finwave",
+    "website": "https://www.finwavesemi.com/",
+    "source_url": "https://engineventures.com/companies/finwave",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Foray Bioscience",
+    "website": "https://www.foraybio.com/",
+    "source_url": "https://engineventures.com/companies/foray-bioscience",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Form Energy",
+    "website": "https://formenergy.com/",
+    "source_url": "https://engineventures.com/companies/form-energy",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Already in collection; no duplicate added"
+  },
+  {
+    "name": "Foundation Alloy",
+    "website": "https://www.foundationalloy.com/",
+    "source_url": "https://engineventures.com/companies/foundation-alloy",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Genomines",
+    "website": "https://www.genomines.com/",
+    "source_url": "https://engineventures.com/companies/genomines",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "HyperLight",
+    "website": "https://hyperlightcorp.com/",
+    "source_url": "https://engineventures.com/companies/hyperlight",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "ISEE",
+    "website": "https://www.isee.ai/",
+    "source_url": "https://engineventures.com/companies/isee",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Kano",
+    "website": "https://www.kanotherapeutics.com/",
+    "source_url": "https://engineventures.com/companies/kano-therapeutics",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Kytopen",
+    "website": "http://kytopen.com/",
+    "source_url": "https://engineventures.com/companies/kytopen",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Lilac Solutions",
+    "website": "http://www.lilacsolutions.com/",
+    "source_url": "https://engineventures.com/companies/lilac-solutions",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Mantel",
+    "website": "https://mantelcapture.com/",
+    "source_url": "https://engineventures.com/companies/mantel",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Matrisome Bio",
+    "website": "https://www.matrisomebio.com/",
+    "source_url": "https://engineventures.com/companies/matrisome-bio",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Mori",
+    "website": "https://www.mori.com/",
+    "source_url": "https://engineventures.com/companies/mori",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Osmoses",
+    "website": "https://osmoses.com/",
+    "source_url": "https://engineventures.com/companies/osmoses",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Oso Semiconductor",
+    "website": "https://www.ososemi.com/",
+    "source_url": "https://engineventures.com/companies/oso-semiconductor",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Overview Energy",
+    "website": "http://www.overviewenergy.com",
+    "source_url": "https://engineventures.com/companies/overview-energy",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Pascal",
+    "website": "https://pascaltechnology.com/",
+    "source_url": "https://engineventures.com/companies/pascal-2",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Predicta",
+    "website": "https://www.predictabiosciences.com",
+    "source_url": "https://engineventures.com/companies/predicta",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Quaise",
+    "website": "https://www.quaise.energy/",
+    "source_url": "https://engineventures.com/companies/quaise",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Resonant Link",
+    "website": "https://www.resonant-link.com/",
+    "source_url": "https://engineventures.com/companies/resonant-link",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "ReynKo",
+    "website": null,
+    "source_url": "https://engineventures.com/companies/reynko",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "RISE Robotics",
+    "website": "https://www.riserobotics.com/",
+    "source_url": "https://engineventures.com/companies/rise-robotics",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Seaspire Skincare",
+    "website": "https://www.seaspireskincare.com/",
+    "source_url": "https://engineventures.com/companies/seaspire-skincare",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Sora Fuel",
+    "website": "https://www.sorafuel.com/",
+    "source_url": "https://engineventures.com/companies/sora-fuels",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Sublime Systems",
+    "website": "https://sublime-systems.com/",
+    "source_url": "https://engineventures.com/companies/sublime-systems",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Superlight",
+    "website": "https://superlight.auto/",
+    "source_url": "https://engineventures.com/companies/superlight",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Sync Computing",
+    "website": "https://synccomputing.com/",
+    "source_url": "https://engineventures.com/companies/sync-computing",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official website redirects to Capital One Software; acquisition/lifecycle reconciliation required"
+  },
+  {
+    "name": "Syzygy Plasmonics",
+    "website": "http://plasmonics.tech/",
+    "source_url": "https://engineventures.com/companies/syzygy-plasmonics",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Teradar",
+    "website": "http://www.teradar.com",
+    "source_url": "https://engineventures.com/companies/terada",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Terragia",
+    "website": "https://terragiabiofuel.com/",
+    "source_url": "https://engineventures.com/companies/terragia",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "The Routing Company",
+    "website": "https://theroutingcompany.com/",
+    "source_url": "https://engineventures.com/companies/the-routing-company",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "Terrestrial Bio",
+    "website": "https://www.terrestrialbio.com/",
+    "source_url": "https://engineventures.com/companies/terrestrial-bio",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Trener Robotics",
+    "website": "https://trener.ai/",
+    "source_url": "https://engineventures.com/companies/t-robotics",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  },
+  {
+    "name": "VEIR",
+    "website": "https://veir.com/",
+    "source_url": "https://engineventures.com/companies/veir",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "Via Separations",
+    "website": "http://www.viaseparations.com",
+    "source_url": "https://engineventures.com/companies/via-separations",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
+  },
+  {
+    "name": "WoHo",
+    "website": "https://www.woho.us",
+    "source_url": "https://engineventures.com/companies/woho",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+  }
+]

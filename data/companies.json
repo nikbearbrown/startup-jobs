@@ -53,7 +53,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "ableinnovations.com"
+    "canonical_domain": "ableinnovations.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.ableinnovations.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.ableinnovations.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "2793933d8a71d4fb3c18b01fb21f6c484aa4d8dadffcf6c778a2f6e5b3864180",
+        "target_status": "fetched",
+        "target_sha256": "6e177325c1a9507d77caf48dd7dea6b26d9cc0e876d51c0f94fa56b844352b18",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "activ-surgical",
@@ -109,7 +125,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "activsurgical.com"
+    "canonical_domain": "activsurgical.com",
+    "hiring_routes": [
+      {
+        "url": "https://apply.workable.com/activ-2/?lng=en",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.activsurgical.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "6073dccded41c6599e526983d7c31f4ae83c51b0079de2aef8e87942a89d2583",
+        "target_status": "fetched",
+        "target_sha256": "bbf9a91721a2ae76e4c8547a65b79cb598a92ff9f39b3b3881371872bd56a1d3",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "acumino",
@@ -175,7 +207,105 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "acumino.ai"
+    "canonical_domain": "acumino.ai",
+    "hiring_routes": [
+      {
+        "url": "https://acumino.ai/jobs/",
+        "scope": "company",
+        "label": "Jobs",
+        "source_url": "https://acumino.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "6514c3518de3e965f74611776a1147e63f688ed9b79d032890fae74cbeb545ef",
+        "target_status": "fetched",
+        "target_sha256": "045b4edaa597b1a28c00cc4da472bc093f6f3e8d740ce76235a2240045494f60",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "addis-energy",
+    "name": "Addis Energy",
+    "website": "https://addisenergy.com/",
+    "careers_url": "https://addisenergy.com/careers/",
+    "industries": [
+      "Clean energy"
+    ],
+    "summary": "Develops subsurface chemical processes for producing hydrogen and ammonia.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Somerville",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/addis-energy",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://addisenergy.com/",
+        "publisher": "Addis Energy",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://addisenergy.com/contact/",
+        "publisher": "Addis Energy",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 100 Chestnut Street, Somerville, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "addisenergy.com",
+    "hiring_routes": [
+      {
+        "url": "https://addisenergy.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://addisenergy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0552c571ef2712bf08cb56c311bfc7aa989094f46cec0a1e87922c1789d89083",
+        "target_status": "fetched",
+        "target_sha256": "43be1950870a7b4a0f2fe3209ff2ae7487aaec4735e16f9a33a208f4acc88aac",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "air-robotics",
@@ -286,7 +416,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "algorized.com"
+    "canonical_domain": "algorized.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.algorized.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.algorized.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "81b5b4a6a8b325564c027e0fc7200b51d7fae133fd13714ccb1228543fb59563",
+        "target_status": "fetched",
+        "target_sha256": "a3ee0357c0eadb8a11f747e47a193dd84511e8b3a09a8572296e13b5b88c6f43",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "almetra",
@@ -342,7 +488,187 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "almetra.ai"
+    "canonical_domain": "almetra.ai",
+    "hiring_routes": [
+      {
+        "url": "https://www.almetra.ai/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.almetra.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b4e89ecb628aaf3ffbf34f2bf7e149a4f1b81b973179ff678de8af875671dc8e",
+        "target_status": "fetched",
+        "target_sha256": "57dd75d5424ee77770e5c7a44b2bf3671e4fed68d5cefa56ff2b07ddd5102790",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "amide",
+    "name": "Amide",
+    "website": "https://www.amidetech.com/",
+    "careers_url": "https://www.amidetech.com/careers/",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops automated synthesis and manufacturing of complex peptides.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Waltham",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/amide",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.amidetech.com/",
+        "publisher": "Amide",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.amidetech.com/contact/",
+        "publisher": "Amide",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 300 2nd Avenue, Waltham, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "amidetech.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.amidetech.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.amidetech.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "8494d6895f726aa0630233448d125b74029872d282a14f847f980899fca7e847",
+        "target_status": "fetched",
+        "target_sha256": "dec030b199c97a7f9dff9c49a60e8f40192a3e992c70b0e94709c5eb48407c37",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "anthology",
+    "name": "Anthology",
+    "website": "https://anthology.bio/",
+    "careers_url": "https://anthology.bio/careers/",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops genome engineering tools for biomanufacturing.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/anthology",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://anthology.bio/",
+        "publisher": "Anthology",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://anthology.bio/",
+        "publisher": "Anthology",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "anthology.bio",
+    "hiring_routes": [
+      {
+        "url": "https://anthology.bio/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://anthology.bio/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b95580a62a416c52022ae6c21f0fd76f218d47c2bfe2baf1728be5daea81726f",
+        "target_status": "fetched",
+        "target_sha256": "93650d555db54a9c9170761fa09f290026d4649e8446f3279dabf64bb2a5a91c",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "apparel-robotics-corporation",
@@ -528,7 +854,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "assistivetech.dev"
+    "canonical_domain": "assistivetech.dev",
+    "hiring_routes": [
+      {
+        "url": "https://assistivetech.dev/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://assistivetech.dev/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "cd75bb99dfc868cddf2fb1d870363d0e8769c964b92621430ef5d6f591bf820b",
+        "target_status": "fetched",
+        "target_sha256": "3aba3de653709aec8e42f0f550ac7e98026d297e0466f36caedd01175dbb3053",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "aura-intelligent-systems",
@@ -845,7 +1187,23 @@
     ],
     "notes": "Location held out of map pending review: official pages list Woburn, but a February 2026 closure report conflicts. Later company update does not explicitly resolve which facilities remain open.",
     "source_file": "data/sources/boston-launch.json",
-    "canonical_domain": "bostonmetal.com"
+    "canonical_domain": "bostonmetal.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.bostonmetal.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.bostonmetal.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b630ec6d35110c824a68f75b6049bc88f4abda2d01469a616e34c84fd4d6ead9",
+        "target_status": "fetched",
+        "target_sha256": "38d32f2da2620657e7b2c5e444fe85a1426253406e3f37f77b1811e71d741802",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "brecourt-solutions",
@@ -956,7 +1314,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "bridgeappliances.com"
+    "canonical_domain": "bridgeappliances.com",
+    "hiring_routes": [
+      {
+        "url": "https://jobs.gusto.com/boards/bridge-appliances-inc-0f169944-d5cf-43ba-9902-192ce11cb16b",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.bridgeappliances.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "bb9273d8c0447eb79a8f946a1542a5b54f4cf5099e4c11de3fc2d49ac4de24e9",
+        "target_status": "fetched",
+        "target_sha256": "8b1c534a532c0db21da6efa942d4bbbd84ade30c32257fbfe9650644132dfd86",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "canvair",
@@ -1187,7 +1561,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "cleorobotics.com"
+    "canonical_domain": "cleorobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://ats.rippling.com/cleo-robotics/jobs",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://cleorobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0224c41fa2ab463525a165b902068db0929c564d6f0678247173b43fc370762d",
+        "target_status": "fetched",
+        "target_sha256": "be87affa3e89a4014a0e57822182d5ec5db043424b62ede15a1434a590a0d734",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "cobionix",
@@ -1307,7 +1697,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "codemetal.ai"
+    "canonical_domain": "codemetal.ai",
+    "hiring_routes": [
+      {
+        "url": "https://www.codemetal.ai/company#open-roles",
+        "scope": "company",
+        "label": "Explore careers",
+        "source_url": "https://www.codemetal.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "c209797e331815fc9fec07866973f51a1aa0a8a45581125e0782711f0a632a85",
+        "target_status": "fetched",
+        "target_sha256": "00f748bda2e132c8893b8c19ccf80a2f077166169f26148c0bb07eec40f8daba",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "cogniteam",
@@ -1375,6 +1781,88 @@
     "canonical_domain": "cogniteam.com"
   },
   {
+    "id": "commonwealth-fusion-systems",
+    "name": "Commonwealth Fusion Systems",
+    "website": "https://www.cfs.energy/",
+    "careers_url": "https://www.cfs.energy/careers/",
+    "industries": [
+      "Clean energy"
+    ],
+    "summary": "Develops superconducting magnets and tokamak fusion energy systems.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Devens",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/commonwealth-fusion-systems",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.cfs.energy/",
+        "publisher": "Commonwealth Fusion Systems",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.cfs.energy/devens-campus/overview/",
+        "publisher": "Commonwealth Fusion Systems",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 117 Hospital Road, Devens, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "cfs.energy",
+    "hiring_routes": [
+      {
+        "url": "https://www.cfs.energy/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.cfs.energy/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d6d312cbe0541c6491c814aee3e2f784a82879522cc7a3ef5f6ab46b29d68fee",
+        "target_status": "fetched",
+        "target_sha256": "b09d742bb0ce3c5e3801d1ed66b49d4bdc185f9ec36b8e9bc7c58175d620706c",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "contactile",
     "name": "Contactile",
     "website": "https://contactile.com",
@@ -1428,7 +1916,104 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "contactile.com"
+    "canonical_domain": "contactile.com",
+    "hiring_routes": [
+      {
+        "url": "https://contactile.com/careers-at-contactile/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://contactile.com",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d278025c89266ff91bb767accdcf1c13803616c949df007cdc62ff2519f32352",
+        "target_status": "fetched",
+        "target_sha256": "b9cf7055e29fa350803afe152a3ae10e48c80611ca5053f2487f603ab4192f78",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "copernic-catalysts",
+    "name": "Copernic Catalysts",
+    "website": "https://coperniccatalysts.com/",
+    "careers_url": "https://coperniccatalysts.com/careers/",
+    "industries": [
+      "Industrial technology"
+    ],
+    "summary": "Develops computationally designed catalysts for ammonia and other chemicals.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/copernic",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://coperniccatalysts.com/",
+        "publisher": "Copernic Catalysts",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://coperniccatalysts.com/",
+        "publisher": "Copernic Catalysts",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies Cambridge local presence. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "coperniccatalysts.com",
+    "hiring_routes": [
+      {
+        "url": "https://coperniccatalysts.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://coperniccatalysts.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "5874b9ee03be0e049943e13b0d6e7fb6cff33bbe172e289b0daf9ed0ef58d3b6",
+        "target_status": "fetched",
+        "target_sha256": "748de0b858d4b11068c5e4f71555007b912243883139466cb78a6ce5f4cef5d1",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "cor-platform",
@@ -1539,7 +2124,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "crabi-robotics.com"
+    "canonical_domain": "crabi-robotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.crabi-robotics.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.crabi-robotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0cdbc78c77e94b6d9b434341460cdc0a0e56cf8a46aa4e8ead0b9002956117e0",
+        "target_status": "fetched",
+        "target_sha256": "1037c0bdd51917044ee8c036c5fab5895c2f06b18d37efe238cdf76d4b5c6c5d",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "dawn-industries",
@@ -1650,7 +2251,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "dephy.com"
+    "canonical_domain": "dephy.com",
+    "hiring_routes": [
+      {
+        "url": "https://apply.workable.com/dephy/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://dephy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "c4232b54da007b1d1dcd26e20b259c03847e046bdac2d0bc69484bda8bfdebc6",
+        "target_status": "fetched",
+        "target_sha256": "da4bd554ded1622cbf4cef5a23b1a39e81a79f9bd5bccb4db7143c41ca85e525",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "dusty-robotics",
@@ -1706,7 +2323,170 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "dustyrobotics.com"
+    "canonical_domain": "dustyrobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.dustyrobotics.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.dustyrobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "e1bdb36e994775ab8712ea5aec8b9cc32ff9550f5823926ff51cb92176ff52ea",
+        "target_status": "fetched",
+        "target_sha256": "162abbb3f29dea01660a3bddcd1bb3b7700d681249c6108eb8ee87f31a2c6c00",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "emvolon",
+    "name": "Emvolon",
+    "website": "https://www.emvolon.com/",
+    "careers_url": null,
+    "industries": [
+      "Clean energy"
+    ],
+    "summary": "Develops distributed systems that convert methane into liquid fuels and chemicals.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Woburn",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/emvolon",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.emvolon.com/",
+        "publisher": "Emvolon",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.emvolon.com/contact",
+        "publisher": "Emvolon",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 30 Sixth Road, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "emvolon.com"
+  },
+  {
+    "id": "finwave",
+    "name": "Finwave",
+    "website": "https://finwavesemi.com/",
+    "careers_url": "https://finwavesemi.com/about-us/#career",
+    "industries": [
+      "Semiconductors"
+    ],
+    "summary": "Develops gallium nitride radio-frequency switches and power amplifiers.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Waltham",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/finwave",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://finwavesemi.com/",
+        "publisher": "Finwave",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://finwavesemi.com/contact-us/",
+        "publisher": "Finwave",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 465 Waverley Oaks Road, Waltham, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "finwavesemi.com",
+    "hiring_routes": [
+      {
+        "url": "https://finwavesemi.com/about-us/#career",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://finwavesemi.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "791e93fa0c7f17c0d7f67d5b89d33e3079a94ebc9c60fca0805f2626eee8018e",
+        "target_status": "fetched",
+        "target_sha256": "aaf5ca947dbab7bfa8a2127fac92d5516df4f79389bc57f11518482f4d156af5",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "flexxbotics",
@@ -1772,7 +2552,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "flexxbotics.com"
+    "canonical_domain": "flexxbotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://flexxbotics.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://flexxbotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "248ea77ba9a6455b4261824621f529fba10a2e6ff39e086b9365c7d35e4f60b3",
+        "target_status": "fetched",
+        "target_sha256": "52f0849b82725fdb2d154161d8ffc9f6319f652007465aa2a852f8f7cebef06a",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "form-energy",
@@ -1831,7 +2627,37 @@
     ],
     "notes": "Somerville is one company office, not the sole operating location. Includes a later-stage private company.",
     "source_file": "data/sources/boston-launch.json",
-    "canonical_domain": "formenergy.com"
+    "canonical_domain": "formenergy.com",
+    "hiring_routes": [
+      {
+        "url": "https://formenergy.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://formenergy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "5ab6da0f1ab1a2fce510567789a6ff9e276005578a27d7a125053c76d08da007",
+        "target_status": "fetched",
+        "target_sha256": "ca4fba4fe37c2d3a3cf448f58fef4c814abd148e4bbc076f114af707be2ba7a8",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      },
+      {
+        "url": "https://formenergy.com/form-factory-1/#jobs",
+        "scope": "company",
+        "label": "Jobs",
+        "source_url": "https://formenergy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "5ab6da0f1ab1a2fce510567789a6ff9e276005578a27d7a125053c76d08da007",
+        "target_status": "fetched",
+        "target_sha256": "e7b332b591c7dac15e1f7dfa98372fb23e11db60225feeea80f61d98099347c6",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "gaia-ai",
@@ -2007,7 +2833,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "glidance.io"
+    "canonical_domain": "glidance.io",
+    "hiring_routes": [
+      {
+        "url": "https://jobs.gusto.com/boards/glidance-inc-04116ff7-bba9-4edd-a1c1-bc4cb9b71f56",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.glidance.io/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "f0609db9039ab5fcce68eb472f73e9fb1dcd6ac51bffb2a9d607ab911a1289cb",
+        "target_status": "fetched",
+        "target_sha256": "ddbdab0a3bb01cc51d5459182f6c9ae21e4b27359413cdc5cc3e83d358ef2d5e",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "greensight",
@@ -2073,7 +2915,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "greensightag.com"
+    "canonical_domain": "greensightag.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.greensightag.com/career/career",
+        "scope": "company",
+        "label": "Career",
+        "source_url": "https://www.greensightag.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "9186e8c74ea8fb5bb9c603db921233b2ed7e1b7997b68c10ea2ad53f4364ea29",
+        "target_status": "fetched",
+        "target_sha256": "c8c0c40d5885e5f648fed0ce5b406b0d4e195b3e38827c48197de70474e40ac0",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "haply-robotics",
@@ -2129,7 +2987,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "haply.co"
+    "canonical_domain": "haply.co",
+    "hiring_routes": [
+      {
+        "url": "https://www.haply.co/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.haply.co/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "2b5ab595221235cd0e5bc4d8e5f671479356887c2964a1b7d94612bb915c636e",
+        "target_status": "fetched",
+        "target_sha256": "c16149f590193d730ffe10dd402230ce7e1d25f570b7610cac87cc5608a0a4a8",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "humanoid",
@@ -2185,7 +3059,105 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "thehumanoid.ai"
+    "canonical_domain": "thehumanoid.ai",
+    "hiring_routes": [
+      {
+        "url": "https://thehumanoid.ai/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://thehumanoid.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "a3292fdd68147210f789c1b00f98a9c80351d5848c12ede787a4ba3bc87ded31",
+        "target_status": "fetched",
+        "target_sha256": "776cd77eb7d3eaad9b3c32079155da0124ed1d34bd57f7abeb69aa709f598d50",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "hyperlight",
+    "name": "HyperLight",
+    "website": "https://hyperlightcorp.com/home",
+    "careers_url": "https://hyperlightcorp.com/company#career",
+    "industries": [
+      "Photonics"
+    ],
+    "summary": "Develops integrated lithium niobate photonics for optical communications.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/hyperlight",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://hyperlightcorp.com/home",
+        "publisher": "HyperLight",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://hyperlightcorp.com/contact",
+        "publisher": "HyperLight",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 675 Massachusetts Avenue, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "hyperlightcorp.com",
+    "hiring_routes": [
+      {
+        "url": "https://hyperlightcorp.com/company#career",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://hyperlightcorp.com/home",
+        "checked_on": "2026-10-31",
+        "source_sha256": "a6b64bd5989388435abce4096ec88b05c740277c3d2845cb01ddea75ec799ffe",
+        "target_status": "fetched",
+        "target_sha256": "93b88be70ca4791cef6daf207d21aa694410c158190b0d0ae20bdddd963241bd",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "hypervend",
@@ -2253,6 +3225,88 @@
     "canonical_domain": "hypervend.com"
   },
   {
+    "id": "isee",
+    "name": "ISEE",
+    "website": "https://www.isee.ai/",
+    "careers_url": "https://www.isee.ai/careers",
+    "industries": [
+      "Robotics"
+    ],
+    "summary": "Develops autonomous yard truck systems for logistics operations.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/isee",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.isee.ai/",
+        "publisher": "ISEE",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.isee.ai/contact",
+        "publisher": "ISEE",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 501 Massachusetts Avenue, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "isee.ai",
+    "hiring_routes": [
+      {
+        "url": "https://www.isee.ai/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.isee.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "1e99be95c55daffcb58d699e0d20eeb1c847f8469aba9aa65318ed63e67320eb",
+        "target_status": "fetched",
+        "target_sha256": "9fe3e91455023e29b975cb17bb47578cf304c3c3f3483585b6d7a30b523feb56",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "kairox-systems",
     "name": "Kairox Systems",
     "website": "https://www.kairoxsys.com/",
@@ -2306,6 +3360,88 @@
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
     "canonical_domain": "kairoxsys.com"
+  },
+  {
+    "id": "kano",
+    "name": "Kano",
+    "website": "https://kanotherapeutics.com/",
+    "careers_url": "https://kanotherapeutics.com/careers/",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops circular single-stranded DNA payloads for genetic medicine.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/kano-therapeutics",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://kanotherapeutics.com/",
+        "publisher": "Kano",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://kanotherapeutics.com/contact/",
+        "publisher": "Kano",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 238 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "kanotherapeutics.com",
+    "hiring_routes": [
+      {
+        "url": "https://kanotherapeutics.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://kanotherapeutics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "991a8ad5f6c19113c5dd2f4000b6a99d705157d7e026ea3b39b31855152c423e",
+        "target_status": "fetched",
+        "target_sha256": "cdf0feaf949087909c1c7ccb4b4c925fa35510a01e89ff317d554e0a92d08ac6",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "kernal-biologics",
@@ -2432,7 +3568,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "kineticblocks.com"
+    "canonical_domain": "kineticblocks.com",
+    "hiring_routes": [
+      {
+        "url": "https://kineticblocks.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://kineticblocks.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "147bbf879c93fd4eeb06568a1d95ab3cdbde4009c2a683efec37082234523303",
+        "target_status": "fetched",
+        "target_sha256": "ce161dd395fb3aa435a1cc2cfd59acdf94abfcb7faee72490c9dc6305b8e1936",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "kraken-robotics",
@@ -2488,7 +3640,105 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "krakenrobotics.com"
+    "canonical_domain": "krakenrobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.krakenrobotics.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.krakenrobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "f6a624a25b2aecb412f6d09768596b761e0becd7197862e65a317104110ddf46",
+        "target_status": "fetched",
+        "target_sha256": "339a28e90bb83bc87b3c0813e3cde58861497dfa611bb4460f4043fa56404769",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "kytopen",
+    "name": "Kytopen",
+    "website": "https://www.kytopen.com/",
+    "careers_url": "https://www.kytopen.com/join-us",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops nonviral gene delivery tools for cell engineering and manufacturing.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/kytopen",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.kytopen.com/",
+        "publisher": "Kytopen",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.kytopen.com/contact-us",
+        "publisher": "Kytopen",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "kytopen.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.kytopen.com/join-us",
+        "scope": "company",
+        "label": "JOIN US",
+        "source_url": "https://www.kytopen.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "50a266da20e774b3e9775db98ff2914c251c51a22cba62e6879a8cc42ab4712e",
+        "target_status": "fetched",
+        "target_sha256": "7f6eac9f1eb78ee39ff254605a783b7095966cef93b2464c66f76c465844e3be",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "labyrinthai",
@@ -2654,7 +3904,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "luminousrobotics.com"
+    "canonical_domain": "luminousrobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.luminousrobotics.com/career",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.luminousrobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "923860ed32e669641b4b7528b0364916f85730e97f97bf0e699b770ddbc7d8ce",
+        "target_status": "fetched",
+        "target_sha256": "33a451c6f941ec96d778521e4418317ef2bb500f2db6fcf35081577d34690afe",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "maglev-aero",
@@ -2710,6 +3976,71 @@
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
     "canonical_domain": "maglevaero.com"
+  },
+  {
+    "id": "matrisome-bio",
+    "name": "Matrisome Bio",
+    "website": "https://matrisomebio.com/",
+    "careers_url": null,
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops therapies targeting the extracellular matrix of tumors.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/matrisome-bio",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://matrisomebio.com/",
+        "publisher": "Matrisome Bio",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://matrisomebio.com/contact/",
+        "publisher": "Matrisome Bio",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 700 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "matrisomebio.com"
   },
   {
     "id": "mente",
@@ -2820,7 +4151,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "modalai.com"
+    "canonical_domain": "modalai.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.modalai.com/pages/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.modalai.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "c95bc026fe5fac1aab2700ff65c59b44efffd71729c5b465255cd00e13be32ba",
+        "target_status": "fetched",
+        "target_sha256": "5d0eb4f168b6b4b07d935915fd6daa7fcd2ad68b0cb787aff721f8ae34382ce4",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "mvp-robotics",
@@ -2876,7 +4223,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "mvprobotics.com"
+    "canonical_domain": "mvprobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.mvprobotics.com/join-our-team",
+        "scope": "company",
+        "label": "JOIN OUR TEAM",
+        "source_url": "https://www.mvprobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "fcfd7ca436bd900d9e9f8a68aed21240ca40c33c0802e422c2cbe9223f5b94d5",
+        "target_status": "fetched",
+        "target_sha256": "499f03fb811cdfdf9c72b8fb242da7718a7ebb052acc88d68ce89e943459b2b6",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "nabla-bio",
@@ -3045,7 +4408,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "onyxresearch.ai"
+    "canonical_domain": "onyxresearch.ai",
+    "hiring_routes": [
+      {
+        "url": "https://www.onyxresearch.ai/company#careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.onyxresearch.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "50e65c8841c84974dc18b0df414cd9d5f7f301be3b201d24892c79410b4708d6",
+        "target_status": "fetched",
+        "target_sha256": "251b17ab410fd5e0ae7bdbd5521734b5886bead5fb7f5b2fc498f510a6b7dbf3",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "ori",
@@ -3101,7 +4480,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "oriliving.com"
+    "canonical_domain": "oriliving.com",
+    "hiring_routes": [
+      {
+        "url": "https://angel.co/company/oriliving/jobs",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.oriliving.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "9be1cd4889778ca451cd87bacfecd7ce1a3f6e7ac938e62d2b9e15bf387d14a0",
+        "target_status": "blocked-or-failed",
+        "target_sha256": null,
+        "target_note": "HTTP 403; stopped",
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "palmr",
@@ -3337,6 +4732,88 @@
     "canonical_domain": "postera.ai"
   },
   {
+    "id": "predicta",
+    "name": "Predicta",
+    "website": "https://www.predictabiosciences.com",
+    "careers_url": "https://recruiting.paylocity.com/recruiting/jobs/All/15c2d5ba-73b9-4282-8a1f-87956c3d423c/Predicta-Biosciences",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops molecular diagnostics and genomic insights for blood cancer care.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/predicta",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.predictabiosciences.com",
+        "publisher": "Predicta",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.predictabiosciences.com/contact/",
+        "publisher": "Predicta",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 750 Main Street, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "predictabiosciences.com",
+    "hiring_routes": [
+      {
+        "url": "https://recruiting.paylocity.com/recruiting/jobs/All/15c2d5ba-73b9-4282-8a1f-87956c3d423c/Predicta-Biosciences",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.predictabiosciences.com",
+        "checked_on": "2026-10-31",
+        "source_sha256": "cf4ef78c9e1e56d71bee72b5a646ed9c045218e839d307c5f92061a12a55936f",
+        "target_status": "fetched",
+        "target_sha256": "5b43e0e5d8cb18d000bd91482ea28ccf3104e230fdccdd87d333b2c059940aa0",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "prosperous-robotics",
     "name": "Prosperous Robotics",
     "website": "https://prosperousrobotics.com/",
@@ -3510,7 +4987,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "rtr.ai"
+    "canonical_domain": "rtr.ai",
+    "hiring_routes": [
+      {
+        "url": "https://rtr.ai/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://rtr.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "393bdff7c4d6afc48b62cce301e34e4309c39f9db1c4f74b0cf8e1196ffb04c6",
+        "target_status": "fetched",
+        "target_sha256": "6101507f246963530a8003702537f67a017df2ce0e6c4e5e421e4d0d3d15f717",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "retail-robotics-solutions-rrs",
@@ -3796,7 +5289,104 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "riibotics.io"
+    "canonical_domain": "riibotics.io",
+    "hiring_routes": [
+      {
+        "url": "https://riibotics.career.greetinghr.com/ko/intro",
+        "scope": "company",
+        "label": "Career",
+        "source_url": "https://www.riibotics.io",
+        "checked_on": "2026-10-31",
+        "source_sha256": "5de4085836f86f01daedc4b82030e5d26fd79c268f26d2bea2b532c33c920b96",
+        "target_status": "fetched",
+        "target_sha256": "5b584b627f6bdd32ba95b64b0bc65508124b5e93688c2f90d141f570ed2b35fe",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "rise-robotics",
+    "name": "RISE Robotics",
+    "website": "https://www.riserobotics.com/",
+    "careers_url": "https://apply.workable.com/rise-robotics/",
+    "industries": [
+      "Robotics"
+    ],
+    "summary": "Develops electric mechanical actuation systems for industrial machinery.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Somerville",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/rise-robotics",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.riserobotics.com/",
+        "publisher": "RISE Robotics",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.riserobotics.com/",
+        "publisher": "RISE Robotics",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies Somerville local presence. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "riserobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://apply.workable.com/rise-robotics/",
+        "scope": "company",
+        "label": "CAREERS",
+        "source_url": "https://www.riserobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "be88bb49c528ebeacd39e16229f714f50e557b0baf41eaa2ed3eebb9f1900665",
+        "target_status": "fetched",
+        "target_sha256": "6e828a3588ca314ee1e7ab9792110b5c2c5293e86ccebf6dcb85b92885743cda",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "robot-on-rails",
@@ -3862,7 +5452,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "robotonrails.com"
+    "canonical_domain": "robotonrails.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.robotonrails.com/pages/careers.html",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.robotonrails.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "548e62705b06a1eb52f1bf2febd3efa91ab5a074c0fc58d2be944b77718351af",
+        "target_status": "fetched",
+        "target_sha256": "89ecb2e1cf0ad9efa175415b0ea18dc034e5dab2a476dac9b0645511caed620b",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "rowbot-systems",
@@ -3973,7 +5579,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "scalablerobotics.ai"
+    "canonical_domain": "scalablerobotics.ai",
+    "hiring_routes": [
+      {
+        "url": "https://scalablerobotics.ai/about-us/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://scalablerobotics.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "4929cff0c841d658429844c76084a74301795b64404296f2ed54e9a6d898599e",
+        "target_status": "fetched",
+        "target_sha256": "ba7f6a5f548c448eaca0b17a47a58db7174f2eeb6c44766efb3c70c0975be286",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "sereact",
@@ -4029,7 +5651,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "sereact.ai"
+    "canonical_domain": "sereact.ai",
+    "hiring_routes": [
+      {
+        "url": "https://sereact.ai/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://sereact.ai/en",
+        "checked_on": "2026-10-31",
+        "source_sha256": "16aba065b1a66d821f8f3fa0cc3d8fcabb25bdcc4852a7ec97874917251f60f3",
+        "target_status": "fetched",
+        "target_sha256": "2bc512ebe7da9eec59d7b429f499987a5fac474f15a7282a5a76472df75691f8",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "simpl-automation",
@@ -4095,7 +5733,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "simplautomation.com"
+    "canonical_domain": "simplautomation.com",
+    "hiring_routes": [
+      {
+        "url": "https://simplautomation.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "http://simplautomation.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "6808b715f0e2baefafba7289770ef8cd13c57a89923b70ed6a83d9963207b033",
+        "target_status": "fetched",
+        "target_sha256": "2461793d6935e8a07d7c72219d6842db9dae553018cfedac5628be7b06979d02",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "smartdrone",
@@ -4153,6 +5807,87 @@
     "canonical_domain": "smartdrone.com"
   },
   {
+    "id": "sublime-systems",
+    "name": "Sublime Systems",
+    "website": "https://sublime-systems.com/",
+    "careers_url": null,
+    "industries": [
+      "Clean technology"
+    ],
+    "summary": "Develops electrochemical processes to manufacture cement.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Somerville",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/sublime-systems",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://sublime-systems.com/",
+        "publisher": "Sublime Systems",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://sublime-systems.com/",
+        "publisher": "Sublime Systems",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 28 Park Street, Somerville, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "sublime-systems.com",
+    "hiring_routes": [
+      {
+        "url": "https://jobs.lever.co/SublimeSystems",
+        "scope": "company",
+        "label": "View open positions",
+        "source_url": "https://sublime-systems.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "ffe481baf4ed1ea4e8297547c395c3d1b3cc999324e020225a902c7733038b01",
+        "target_status": "fetched",
+        "target_sha256": "d135ea92cae23b7605de596775e7e3ea867d18a1a45236a98aee9146e93b0c56",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "synthium",
     "name": "Synthium",
     "website": "https://www.synthium.xyz/",
@@ -4206,7 +5941,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "synthium.xyz"
+    "canonical_domain": "synthium.xyz",
+    "hiring_routes": [
+      {
+        "url": "https://www.synthium.xyz/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.synthium.xyz/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "2629d38f58e0022250fec23010ec87a29749022aa73fb48fbe21bb513045c598",
+        "target_status": "fetched",
+        "target_sha256": "2a1c2b6b403f1dffe552eec776d8c7bf5ecbefd4ee0aa9ddad9aa9efc4445641",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "tatum-robotics",
@@ -4327,6 +6078,170 @@
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
     "canonical_domain": "tennibot.com"
+  },
+  {
+    "id": "teradar",
+    "name": "Teradar",
+    "website": "https://teradar.com/",
+    "careers_url": "https://teradar.com/careers/",
+    "industries": [
+      "Sensing technology"
+    ],
+    "summary": "Develops terahertz sensing systems for vehicles.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Boston",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/terada",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://teradar.com/",
+        "publisher": "Teradar",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://teradar.com/contact-us/",
+        "publisher": "Teradar",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 88 Black Falcon Avenue, Boston, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "teradar.com",
+    "hiring_routes": [
+      {
+        "url": "https://teradar.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://teradar.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0e35f92f0e44ba8bbcfea0bae4690bfe19c062a52489f792fe7b367ff1570bbd",
+        "target_status": "fetched",
+        "target_sha256": "c84f06f410f7861cd9898f3d684f2eed595da73ccdcd47bc57041b7585953093",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "terrestrial-bio",
+    "name": "Terrestrial Bio",
+    "website": "https://www.terrestrialbio.com/",
+    "careers_url": "https://www.terrestrialbio.com/careers",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops microarray patches for delivery of therapeutics through skin.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Woburn",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. Contact page lists 30 and 11 Cummings Park Drive; selected main contact address 30. Both are retained in local source evidence. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/terrestrial-bio",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.terrestrialbio.com/",
+        "publisher": "Terrestrial Bio",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://www.terrestrialbio.com/contact",
+        "publisher": "Terrestrial Bio",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 30 Cummings Park Drive, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "terrestrialbio.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.terrestrialbio.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.terrestrialbio.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "8c9cccca83ba2319baaa69cc7324e705e4f06443e0b414de620ebca36d646fd6",
+        "target_status": "fetched",
+        "target_sha256": "423c8ef0498503670e5b15b234eea7fcc8af3ba62a58449ad18fb3a4bd1e2c75",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "thinking-robots",
@@ -4547,7 +6462,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "tutorintelligence.com"
+    "canonical_domain": "tutorintelligence.com",
+    "hiring_routes": [
+      {
+        "url": "https://tutorintelligence.com/careers",
+        "scope": "company",
+        "label": "careers",
+        "source_url": "https://tutorintelligence.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d7d3375f7260675f339edc097dd35973ca547867d484482e0af6a1bb3ce996d9",
+        "target_status": "fetched",
+        "target_sha256": "0264876db74fc87b0a697fbab0c0bed391247032df5111184d2a26b9e6160c93",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "ubiros",
@@ -4658,6 +6589,169 @@
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
     "canonical_domain": "untill.ag"
+  },
+  {
+    "id": "veir",
+    "name": "VEIR",
+    "website": "https://veir.com/",
+    "careers_url": "https://veir.com/careers",
+    "industries": [
+      "Clean energy"
+    ],
+    "summary": "Develops superconducting power delivery systems for data centers and grids.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Woburn",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/veir",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://veir.com/",
+        "publisher": "VEIR",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://veir.com/contact-us",
+        "publisher": "VEIR",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies 3 Gill Street, Woburn, MA. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "veir.com",
+    "hiring_routes": [
+      {
+        "url": "https://veir.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://veir.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "7f28f858d75f70728edf109ea6c55793ea39b54a35c316140c00733c522d1c96",
+        "target_status": "fetched",
+        "target_sha256": "024d25c7a579869431ebdcc30bac1d8f9528c9c8095c50e6f7e7505f7f308183",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "via-separations",
+    "name": "Via Separations",
+    "website": "https://viaseparations.com/",
+    "careers_url": "https://viaseparations.com/careers/",
+    "industries": [
+      "Industrial technology"
+    ],
+    "summary": "Develops membrane filtration systems for industrial separation processes.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Watertown",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/via-separations",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://viaseparations.com/",
+        "publisher": "Via Separations",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://viaseparations.com/",
+        "publisher": "Via Separations",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page explicitly identifies Watertown local presence. Presence does not establish headquarters or the full operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "viaseparations.com",
+    "hiring_routes": [
+      {
+        "url": "https://viaseparations.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://viaseparations.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "daa0ebb922bf7b0b5dca5b9eba6203e2869b3e30849711d0c08d3714e476a474",
+        "target_status": "fetched",
+        "target_sha256": "d57f8a7b36996d6082caa0604636ceeb941105567c844b8e53771406784e790b",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "volta-labs",
@@ -4772,7 +6866,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "whelix.com"
+    "canonical_domain": "whelix.com",
+    "hiring_routes": [
+      {
+        "url": "https://whelix.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://whelix.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "7586392ea1f2b3b84e7e1db7355a3454bf43dd46bbeab1e7ada11298f91f6826",
+        "target_status": "fetched",
+        "target_sha256": "6f159b47c783f5997837d8282c1b37270b83f748deee32c4ff9e01b1a46e5161",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "wibotic",
@@ -4828,7 +6938,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "wibotic.com"
+    "canonical_domain": "wibotic.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.wibotic.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.wibotic.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "006f41483b9636068f6601b7e93a8bfeb280cb1377b0a7801987beb51a23ca4f",
+        "target_status": "fetched",
+        "target_sha256": "79bc8c917b7922e4fdfe5bb5aab96295f6603e58231cf63d11c1eea8d50be4fe",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "xyz-robotics",
@@ -4884,7 +7010,23 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "xyzrobotics.com"
+    "canonical_domain": "xyzrobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://xyzrobotics.jobs.feishu.cn/2026/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.xyzrobotics.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "2fa145eff1d2a5e710ffa7f3f22f0d9fb08b20fb5694776142ba18b1d9827645",
+        "target_status": "blocked-or-failed",
+        "target_sha256": null,
+        "target_note": "HTTP 404; stopped",
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
   },
   {
     "id": "zulusolar",

@@ -26,5 +26,19 @@
     "url": "https://greentown.org/terms-of-service",
     "checked_on": "2026-10-31",
     "decision": "Reviewed response did not expose operative reuse terms; awaiting clarification. No new batch published."
+  },
+  {
+    "source": "Engine Ventures",
+    "status": "partial",
+    "url": "https://engineventures.com/companies",
+    "checked_on": "2026-10-31",
+    "decision": "Public portfolio and official company pages checked with robots-aware identified client. No operative terms link found in reviewed homepage navigation. 19 factual identities with explicit company-stated Boston-region presence published; no profile prose republished. Other profiles retained as candidates; acquired/global/inaccessible records not asserted as active Boston startups."
+  },
+  {
+    "source": "The Engine resident directory",
+    "status": "held",
+    "url": "https://engine.xyz/privacy-policy",
+    "checked_on": "2026-10-31",
+    "decision": "Separate from Engine Ventures. Privacy page refers to Terms of Service not located in reviewed navigation. Resident adapter held; no hidden API extraction or new resident batch."
   }
 ]
