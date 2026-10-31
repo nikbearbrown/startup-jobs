@@ -1211,6 +1211,257 @@
           "note": "Official company page explicitly identifies Watertown local presence. Presence does not establish headquarters or the full operating footprint."
         }
       ]
+    },
+    {
+      "id": "axiomatic-ai",
+      "name": "Axiomatic AI",
+      "website": "https://axiomatic.ai/",
+      "careers_url": "https://axiomatic.ai/careers/",
+      "industries": [
+        "Artificial intelligence"
+      ],
+      "summary": "Develops AI tools for verifiable scientific and engineering workflows.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The company describes a team across Boston, Barcelona and Toronto; this verifies city-level team presence, not a Boston office address. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/axiomatic-ai",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://axiomatic.ai/",
+          "publisher": "Axiomatic AI",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://axiomatic.ai/about/",
+          "publisher": "Axiomatic AI",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Boston local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "droplet-biosciences",
+      "name": "Droplet Biosciences",
+      "website": "https://dropletbiosci.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops lymphatic-fluid molecular diagnostics for detecting residual cancer after surgery.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/droplet-biosciences",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://dropletbiosci.com/",
+          "publisher": "Droplet Biosciences",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://dropletbiosci.com/about/leadership-team/",
+          "publisher": "Droplet Biosciences",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Cambridge local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "pascal",
+      "name": "Pascal",
+      "website": "https://www.pascaltechnology.com/",
+      "careers_url": "https://www.pascaltechnology.com/careers",
+      "industries": [
+        "Industrial technology"
+      ],
+      "summary": "Develops cooling systems using solid refrigerants.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Watertown",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The official careers page says the company is based in Watertown; no street address has been verified. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/pascal-2",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.pascaltechnology.com/",
+          "publisher": "Pascal",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.pascaltechnology.com/careers",
+          "publisher": "Pascal",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies Watertown local presence. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
+    },
+    {
+      "id": "woho",
+      "name": "WoHo",
+      "website": "https://www.woho.us",
+      "careers_url": null,
+      "industries": [
+        "Construction technology"
+      ],
+      "summary": "Develops building systems for architecture and construction.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The official contact page labels the Cambridge address headquarters and spells Massachusetts as Massachussetts. The normalized street spelling is used for address matching; the source observation is retained. ",
+      "evidence": [
+        {
+          "url": "https://engineventures.com/companies/woho",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+        },
+        {
+          "url": "https://www.woho.us",
+          "publisher": "WoHo",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+        },
+        {
+          "url": "https://www.woho.us/contact",
+          "publisher": "WoHo",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "checked_on": "2026-10-31",
+          "note": "Official company page explicitly identifies 501 Massachusetts Avenue, Cambridge, MA. Presence does not establish headquarters or the full operating footprint."
+        }
+      ]
     }
   ]
 }

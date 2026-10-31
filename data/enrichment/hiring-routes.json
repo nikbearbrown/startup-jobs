@@ -171,6 +171,25 @@
     ]
   },
   {
+    "company_id": "axiomatic-ai",
+    "routes": [
+      {
+        "url": "https://axiomatic.ai/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://axiomatic.ai/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "e636b4c1002403dd86f4ae4a850e27bc0b9fba171f1338f3896ebacc0f43af5f",
+        "target_status": "fetched",
+        "target_sha256": "3d142662abb55da680b1c8437e418b30db69005c4e0841d5d1e64cd6a8a6421a",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "boston-metal",
     "routes": [
       {
@@ -565,6 +584,25 @@
     ]
   },
   {
+    "company_id": "kernal-biologics",
+    "routes": [
+      {
+        "url": "https://www.kernalbio.com/careers",
+        "scope": "company",
+        "label": "Kernal Biologics careers",
+        "source_url": "https://www.kernalbio.com/careers",
+        "checked_on": "2026-10-31",
+        "source_sha256": "eea645dfee4c3e17e0f010957b7283c394bffc1f5d616080bf18c02036233c07",
+        "target_status": "fetched",
+        "target_sha256": "eea645dfee4c3e17e0f010957b7283c394bffc1f5d616080bf18c02036233c07",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "kinetic-blocks",
     "routes": [
       {
@@ -679,6 +717,25 @@
     ]
   },
   {
+    "company_id": "nabla-bio",
+    "routes": [
+      {
+        "url": "https://www.nabla.bio/careers",
+        "scope": "company",
+        "label": "Nabla Bio careers",
+        "source_url": "https://www.nabla.bio/careers",
+        "checked_on": "2026-10-31",
+        "source_sha256": "3c7b1bbbeb2c1bae7cadaba26e6f3b18e21089e1ed574403f04aff915bb4da13",
+        "target_status": "fetched",
+        "target_sha256": "3c7b1bbbeb2c1bae7cadaba26e6f3b18e21089e1ed574403f04aff915bb4da13",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "onyx",
     "routes": [
       {
@@ -717,6 +774,44 @@
     ]
   },
   {
+    "company_id": "pascal",
+    "routes": [
+      {
+        "url": "https://www.pascaltechnology.com/careers",
+        "scope": "company",
+        "label": "CAREERS",
+        "source_url": "https://www.pascaltechnology.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "e3150f6ca102cd34d1c6d737c4f57ee02a4fd91e1c3bddb734237c3cafb0acd6",
+        "target_status": "fetched",
+        "target_sha256": "37c2a37d63dea0746ca97bbbf6104bc28ca6d5d8e6b58cf05b702d40986bc699",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "postera",
+    "routes": [
+      {
+        "url": "https://postera.ai/team/",
+        "scope": "company",
+        "label": "PostEra \u2014 Join the Team",
+        "source_url": "https://postera.ai/team/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "f7c9a4527c833cdf615a486929dde36c17f61d23b3555d3d350d1ff26fa6d8f1",
+        "target_status": "fetched",
+        "target_sha256": "f7c9a4527c833cdf615a486929dde36c17f61d23b3555d3d350d1ff26fa6d8f1",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "predicta",
     "routes": [
       {
@@ -736,6 +831,25 @@
     ]
   },
   {
+    "company_id": "ras-labs",
+    "routes": [
+      {
+        "url": "https://raslabs.com/recruiting",
+        "scope": "company",
+        "label": "Company recruiting",
+        "source_url": "https://raslabs.com/recruiting",
+        "checked_on": "2026-10-31",
+        "source_sha256": "ea2b57785f7a1062ad9ed711bf9bfb18ecffc5f249cfbfa7817aca8d167dae04",
+        "target_status": "fetched",
+        "target_sha256": "ea2b57785f7a1062ad9ed711bf9bfb18ecffc5f249cfbfa7817aca8d167dae04",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "realtime-robotics",
     "routes": [
       {
@@ -747,6 +861,25 @@
         "source_sha256": "393bdff7c4d6afc48b62cce301e34e4309c39f9db1c4f74b0cf8e1196ffb04c6",
         "target_status": "fetched",
         "target_sha256": "6101507f246963530a8003702537f67a017df2ce0e6c4e5e421e4d0d3d15f717",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "revolute-robotics",
+    "routes": [
+      {
+        "url": "https://revoluterobotics.com/careers",
+        "scope": "company",
+        "label": "Company recruiting",
+        "source_url": "https://revoluterobotics.com/careers",
+        "checked_on": "2026-10-31",
+        "source_sha256": "262adddd125e4f9d77e9f0eacd4a4a77d967d8105d80a57e83bfeca572751202",
+        "target_status": "fetched",
+        "target_sha256": "262adddd125e4f9d77e9f0eacd4a4a77d967d8105d80a57e83bfeca572751202",
         "target_note": null,
         "method": "official-navigation-review",
         "via_entity_id": null,
@@ -907,6 +1040,25 @@
     ]
   },
   {
+    "company_id": "tennibot",
+    "routes": [
+      {
+        "url": "https://www.tennibot.com/careers/",
+        "scope": "company",
+        "label": "Tennibot careers",
+        "source_url": "https://www.tennibot.com/careers/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "488d71ae5f03fcfa9a29d62baf8ebffcb2bef730bf96566b2f62a640805cf91d",
+        "target_status": "fetched",
+        "target_sha256": "488d71ae5f03fcfa9a29d62baf8ebffcb2bef730bf96566b2f62a640805cf91d",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "company_id": "teradar",
     "routes": [
       {
@@ -994,6 +1146,25 @@
         "source_sha256": "daa0ebb922bf7b0b5dca5b9eba6203e2869b3e30849711d0c08d3714e476a474",
         "target_status": "fetched",
         "target_sha256": "d57f8a7b36996d6082caa0604636ceeb941105567c844b8e53771406784e790b",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "volta-labs",
+    "routes": [
+      {
+        "url": "https://www.voltalabs.com/careers",
+        "scope": "company",
+        "label": "Volta Labs careers",
+        "source_url": "https://www.voltalabs.com/careers",
+        "checked_on": "2026-10-31",
+        "source_sha256": "ccbea918efc6a2311f0af89689b61a4a5bdf5a2cb022e6a10f499e44487736a3",
+        "target_status": "fetched",
+        "target_sha256": "ccbea918efc6a2311f0af89689b61a4a5bdf5a2cb022e6a10f499e44487736a3",
         "target_note": null,
         "method": "official-navigation-review",
         "via_entity_id": null,

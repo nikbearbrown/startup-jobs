@@ -44,8 +44,8 @@
     "website": "https://axiomatic-ai.com",
     "source_url": "https://engineventures.com/companies/axiomatic-ai",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Axoft",
@@ -148,8 +148,8 @@
     "website": "https://dropletbiosci.com/",
     "source_url": "https://engineventures.com/companies/droplet-biosciences",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Emvolon",
@@ -300,8 +300,8 @@
     "website": "https://pascaltechnology.com/",
     "source_url": "https://engineventures.com/companies/pascal-2",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Predicta",
@@ -452,7 +452,7 @@
     "website": "https://www.woho.us",
     "source_url": "https://engineventures.com/companies/woho",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   }
 ]
