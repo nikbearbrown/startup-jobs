@@ -1,0 +1,778 @@
+[
+  {
+    "name": "ACUMINO",
+    "website": "https://acumino.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "AIR Robotics",
+    "website": "https://www.airoboticstudio.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "ATDev",
+    "website": "https://assistivetech.dev/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Able Innovations",
+    "website": "https://www.ableinnovations.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Activ Surgical",
+    "website": "https://www.activsurgical.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "AirShare",
+    "website": "http://www.airshare.ca/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Algorized",
+    "website": "https://www.algorized.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Almetra",
+    "website": "https://www.almetra.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Apparel Robotics Corporation",
+    "website": "https://apparelrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Ascend Robotics",
+    "website": "https://ascendrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Aura Intelligent Systems",
+    "website": "https://www.auraisystems.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Ava Robotics",
+    "website": "http://avarobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Black-I Robotics",
+    "website": "http://blackirobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Bobbin Embedded",
+    "website": "http://bobbin.io/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Brecourt Solutions",
+    "website": "https://brecourtsolutions.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Bridge Appliances",
+    "website": "https://www.bridgeappliances.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "COR-Platform",
+    "website": "https://www.corp-ldig.com/home",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "CRABI Robotics",
+    "website": "https://www.crabi-robotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Canvair",
+    "website": "https://www.canvair.co/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Cerulion",
+    "website": "https://www.cerulion.com",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "ChronoSpace",
+    "website": "https://chronospace.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Cleo",
+    "website": "http://cleorobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Cobionix",
+    "website": "https://www.cobionix.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Code Metal",
+    "website": "https://codemetal.ai",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Cogniteam",
+    "website": "https://cogniteam.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Collabots",
+    "website": "http://collabots.net/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Compotics",
+    "website": "https://compotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Contactile",
+    "website": "https://contactile.com",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Dawn Industries",
+    "website": "https://www.dawnxr.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Dephy",
+    "website": "https://www.dephy.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Dusty Robotics",
+    "website": "https://www.dustyrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Flexxbotics",
+    "website": "http://flexxbotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Gaia AI",
+    "website": "https://www.gaia-ai.eco/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "General Robotics",
+    "website": "https://www.general-robotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Glidance",
+    "website": "https://glidance.io/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "GreenSight",
+    "website": "http://greensightag.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Haply Robotics",
+    "website": "https://www.haply.co/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Hathaway Robotics",
+    "website": "https://hathaway.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Haystack Ag",
+    "website": "https://www.haystackag.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Humanoid",
+    "website": "https://thehumanoid.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "HyperVend",
+    "website": "http://hypervend.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "IntuitiveMotion AI Inc.",
+    "website": "https://intuitivemotion.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Kairox Systems",
+    "website": "https://www.kairoxsys.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Kinetic Blocks",
+    "website": "https://kineticblocks.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Kraken Robotics",
+    "website": "http://krakenrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "LMI Technologies (Formerly Fringe AI)",
+    "website": "https://lmi3d.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "LabyrinthAI",
+    "website": "http://www.labyrinthai.co/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Logicboots",
+    "website": "https://logicboots.com",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Luminous",
+    "website": "https://www.luminous.solar/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "MVP Robotics",
+    "website": "http://mvprobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Maglev Aero",
+    "website": "http://maglevaero.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Mapless AI",
+    "website": "http://mapless.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Mente",
+    "website": "http://mentemedical.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "ModalAI",
+    "website": "https://modalai.com",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "NeXtera",
+    "website": "http://nexterarobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Nexobot",
+    "website": "https://nexobot.com.au/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Nexterity",
+    "website": "https://www.nexterity.tech/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Oligo",
+    "website": "https://oligo.space/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Onyx",
+    "website": "https://www.onyx-robotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Ori",
+    "website": "https://www.oriliving.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "PSYONIC",
+    "website": "https://www.psyonic.io/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Palmr",
+    "website": "https://palmr.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "PeKe Labs",
+    "website": "https://www.pekelabs.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Pison Technology",
+    "website": "http://pisontechnology.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Prosperous Robotics",
+    "website": "https://www.prosperousrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Ras Labs",
+    "website": "http://raslabs.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "RayLife",
+    "website": "https://raylife.co/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "RealBotics",
+    "website": "http://realbotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Realtime Robotics",
+    "website": "http://rtr.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Retail Robotics Solutions (RRS)",
+    "website": "https://rrs-catering.eu/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "ReviMo",
+    "website": "https://www.revimo.care/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Revolute Robotics",
+    "website": "https://www.revoluterobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Rhoman Aerospace",
+    "website": "https://www.rhoman.aero/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Riibotics",
+    "website": "https://www.riibotics.io",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Robot on Rails",
+    "website": "https://www.robotonrails.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Rowbot Systems",
+    "website": "https://www.rowbot.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Scalable Robotics",
+    "website": "http://scalablerobotics.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Simpl Automation",
+    "website": "http://simplautomation.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "SmartDrone",
+    "website": "https://www.smartdrone.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Spiral Technology",
+    "website": "https://www.spector.vision/ ",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Super Robotics",
+    "website": "https://www.superobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Synthium",
+    "website": "https://www.synthium.xyz/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "TP7 AI Robotics",
+    "website": "https://tp7.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Tatum Robotics",
+    "website": "http://tatumrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Tennibot",
+    "website": "http://tennibot.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Thinking Robots",
+    "website": "http://thinkingrobots.ai/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Tombot",
+    "website": "https://tombot.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "Transcend Mechanics",
+    "website": "https://transcendmechanics.com",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Tutor Intelligence",
+    "website": "http://tutorintelligence.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Ubiros",
+    "website": "http://ubiros.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Whelix",
+    "website": "https://www.whelix.co/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "WiBotic",
+    "website": "http://wibotic.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "XYZ Robotics",
+    "website": "https://www.xyzrobotics.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "Yard",
+    "website": "https://yard.bot/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "needs-review",
+    "reason": "Official content incomplete, inaccessible, ambiguous identity/lifecycle, or not reviewed sufficiently"
+  },
+  {
+    "name": "ZuluSolar",
+    "website": "https://www.zulusolar.com/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "sereact",
+    "website": "https://sereact.ai/en",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  },
+  {
+    "name": "untill",
+    "website": "http://untill.ag/",
+    "source_url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "status": "accepted-identity",
+    "reason": "See reviewed source record"
+  }
+]

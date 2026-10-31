@@ -1,0 +1,4355 @@
+{
+  "id": "massrobotics-reviewed",
+  "checked_on": "2026-10-31",
+  "companies": [
+    {
+      "id": "able-innovations",
+      "name": "Able Innovations",
+      "website": "https://www.ableinnovations.com/",
+      "careers_url": "https://www.ableinnovations.com/careers",
+      "industries": [
+        "Medical robotics"
+      ],
+      "summary": "Develops robotic systems for patient transfers.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.ableinnovations.com/",
+          "publisher": "Able Innovations",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "activ-surgical",
+      "name": "Activ Surgical",
+      "website": "https://www.activsurgical.com/",
+      "careers_url": "https://apply.workable.com/activ-2/?lng=en",
+      "industries": [
+        "Surgical technology"
+      ],
+      "summary": "Develops imaging and software for surgical guidance.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.activsurgical.com/",
+          "publisher": "Activ Surgical",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "acumino",
+      "name": "ACUMINO",
+      "website": "https://acumino.ai/",
+      "careers_url": "https://acumino.ai/jobs",
+      "industries": [
+        "Industrial automation"
+      ],
+      "summary": "Develops AI systems for teaching and deploying industrial robots.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://acumino.ai/",
+          "publisher": "ACUMINO",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://acumino.ai/",
+          "publisher": "ACUMINO",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated Boston office."
+        }
+      ]
+    },
+    {
+      "id": "air-robotics",
+      "name": "AIR Robotics",
+      "website": "https://www.airoboticstudio.com/",
+      "careers_url": null,
+      "industries": [
+        "Robotics engineering"
+      ],
+      "summary": "Provides robotics design and development services.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.airoboticstudio.com/",
+          "publisher": "AIR Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "algorized",
+      "name": "Algorized",
+      "website": "https://www.algorized.com/",
+      "careers_url": "https://www.algorized.com/careers",
+      "industries": [
+        "Robotics sensing"
+      ],
+      "summary": "Develops sensing and perception software for physical AI.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.algorized.com/",
+          "publisher": "Algorized",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "almetra",
+      "name": "Almetra",
+      "website": "https://www.almetra.ai/",
+      "careers_url": "https://www.almetra.ai/careers",
+      "industries": [
+        "Manufacturing software"
+      ],
+      "summary": "Uses computer vision to analyze factory production.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.almetra.ai/",
+          "publisher": "Almetra",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "apparel-robotics-corporation",
+      "name": "Apparel Robotics Corporation",
+      "website": "https://www.apparelrobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Textile automation"
+      ],
+      "summary": "Develops automated textile manufacturing systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.apparelrobotics.com/",
+          "publisher": "Apparel Robotics Corporation",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.apparelrobotics.com/contact",
+          "publisher": "Apparel Robotics Corporation",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated location."
+        }
+      ]
+    },
+    {
+      "id": "ascend-robotics",
+      "name": "Ascend Robotics",
+      "website": "https://www.ascendrobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops collaborative robotics for industrial tasks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.ascendrobotics.com/",
+          "publisher": "Ascend Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.ascendrobotics.com/contact",
+          "publisher": "Ascend Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 245 First Street, Cambridge, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "atdev",
+      "name": "ATDev",
+      "website": "https://assistivetech.dev/",
+      "careers_url": "https://assistivetech.dev/careers",
+      "industries": [
+        "Assistive robotics"
+      ],
+      "summary": "Develops robotic mobility and rehabilitation technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://assistivetech.dev/",
+          "publisher": "ATDev",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "aura-intelligent-systems",
+      "name": "Aura Intelligent Systems",
+      "website": "https://www.auraisystems.com/",
+      "careers_url": null,
+      "industries": [
+        "Radar sensing"
+      ],
+      "summary": "Develops digital imaging radar systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.auraisystems.com/",
+          "publisher": "Aura Intelligent Systems",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.auraisystems.com/contact",
+          "publisher": "Aura Intelligent Systems",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated address."
+        }
+      ]
+    },
+    {
+      "id": "black-i-robotics",
+      "name": "Black-I Robotics",
+      "website": "https://www.blackirobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops mobile robotic arms for handling and palletizing.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Tyngsborough",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.blackirobotics.com/",
+          "publisher": "Black-I Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.blackirobotics.com/contact/",
+          "publisher": "Black-I Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 141 Middlesex Road, Tyngsborough, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "bobbin-embedded",
+      "name": "Bobbin Embedded",
+      "website": "http://www.bobbin.io/",
+      "careers_url": null,
+      "industries": [
+        "Embedded software"
+      ],
+      "summary": "Develops tools for embedded programming in Rust.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "http://www.bobbin.io/",
+          "publisher": "Bobbin Embedded",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "brecourt-solutions",
+      "name": "Brecourt Solutions",
+      "website": "https://brecourtsolutions.com/",
+      "careers_url": null,
+      "industries": [
+        "Autonomous drones"
+      ],
+      "summary": "Develops drones for first-response applications.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://brecourtsolutions.com/",
+          "publisher": "Brecourt Solutions",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "bridge-appliances",
+      "name": "Bridge Appliances",
+      "website": "https://www.bridgeappliances.com/",
+      "careers_url": "https://jobs.gusto.com/boards/bridge-appliances-inc-0f169944-d5cf-43ba-9902-192ce11cb16b",
+      "industries": [
+        "Kitchen automation"
+      ],
+      "summary": "Develops robotic appliances for commercial kitchens.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.bridgeappliances.com/",
+          "publisher": "Bridge Appliances",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "canvair",
+      "name": "Canvair",
+      "website": "https://www.canvair.co/",
+      "careers_url": null,
+      "industries": [
+        "Aerial display technology"
+      ],
+      "summary": "Develops drone-based aerial display systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.canvair.co/",
+          "publisher": "Canvair",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "cerulion",
+      "name": "Cerulion",
+      "website": "https://cerulion.com",
+      "careers_url": null,
+      "industries": [
+        "Robotics software"
+      ],
+      "summary": "Develops software tools for robot operation and development.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://cerulion.com",
+          "publisher": "Cerulion",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "chronospace",
+      "name": "ChronoSpace",
+      "website": "https://chronospace.ai/",
+      "careers_url": null,
+      "industries": [
+        "Artificial intelligence"
+      ],
+      "summary": "Develops world-model technology for physical environments.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://chronospace.ai/",
+          "publisher": "ChronoSpace",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "cleo",
+      "name": "Cleo",
+      "website": "https://cleorobotics.com/",
+      "careers_url": "https://ats.rippling.com/cleo-robotics/jobs",
+      "industries": [
+        "Autonomous drones"
+      ],
+      "summary": "Develops drones for indoor inspection and related applications.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://cleorobotics.com/",
+          "publisher": "Cleo",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://cleorobotics.com/contact/",
+          "publisher": "Cleo",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "cobionix",
+      "name": "Cobionix",
+      "website": "https://www.cobionix.com/",
+      "careers_url": null,
+      "industries": [
+        "Medical robotics"
+      ],
+      "summary": "Develops autonomous robotic systems for healthcare.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.cobionix.com/",
+          "publisher": "Cobionix",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.cobionix.com/contact",
+          "publisher": "Cobionix",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated US office."
+        }
+      ]
+    },
+    {
+      "id": "code-metal",
+      "name": "Code Metal",
+      "website": "https://www.codemetal.ai/",
+      "careers_url": null,
+      "industries": [
+        "Software engineering"
+      ],
+      "summary": "Develops AI-assisted code translation and verification tools.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.codemetal.ai/",
+          "publisher": "Code Metal",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "cogniteam",
+      "name": "Cogniteam",
+      "website": "https://www.cogniteam.com/",
+      "careers_url": null,
+      "industries": [
+        "Robotics software"
+      ],
+      "summary": "Develops cloud software for robot autonomy and management.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.cogniteam.com/",
+          "publisher": "Cogniteam",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.cogniteam.com/",
+          "publisher": "Cogniteam",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated US office."
+        }
+      ]
+    },
+    {
+      "id": "contactile",
+      "name": "Contactile",
+      "website": "https://contactile.com",
+      "careers_url": "https://contactile.com/careers-at-contactile/",
+      "industries": [
+        "Robotic sensing"
+      ],
+      "summary": "Develops tactile sensors and gripper technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://contactile.com",
+          "publisher": "Contactile",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "cor-platform",
+      "name": "COR-Platform",
+      "website": "https://www.corp-ldig.com/home",
+      "careers_url": null,
+      "industries": [
+        "Robotics education"
+      ],
+      "summary": "Develops remote robotics learning technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.corp-ldig.com/home",
+          "publisher": "COR-Platform",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "crabi-robotics",
+      "name": "CRABI Robotics",
+      "website": "https://www.crabi-robotics.com/",
+      "careers_url": "https://www.crabi-robotics.com/careers.html",
+      "industries": [
+        "Marine robotics"
+      ],
+      "summary": "Develops robotic hull cleaning and inspection systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.crabi-robotics.com/",
+          "publisher": "CRABI Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "dawn-industries",
+      "name": "Dawn Industries",
+      "website": "https://www.dawnxr.com/",
+      "careers_url": null,
+      "industries": [
+        "Industrial automation"
+      ],
+      "summary": "Develops software for diagnosing robot-cell faults.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.dawnxr.com/",
+          "publisher": "Dawn Industries",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "dephy",
+      "name": "Dephy",
+      "website": "https://dephy.com/",
+      "careers_url": "https://apply.workable.com/dephy/",
+      "industries": [
+        "Wearable robotics"
+      ],
+      "summary": "Develops powered wearable mobility technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://dephy.com/",
+          "publisher": "Dephy",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "dusty-robotics",
+      "name": "Dusty Robotics",
+      "website": "https://www.dustyrobotics.com/",
+      "careers_url": "https://www.dustyrobotics.com/careers",
+      "industries": [
+        "Construction robotics"
+      ],
+      "summary": "Develops robotic construction-layout systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.dustyrobotics.com/",
+          "publisher": "Dusty Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "flexxbotics",
+      "name": "Flexxbotics",
+      "website": "https://flexxbotics.com/",
+      "careers_url": "https://flexxbotics.com/careers/",
+      "industries": [
+        "Manufacturing software"
+      ],
+      "summary": "Develops software for coordinating robotic manufacturing.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://flexxbotics.com/",
+          "publisher": "Flexxbotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://flexxbotics.com/contact/",
+          "publisher": "Flexxbotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "gaia-ai",
+      "name": "Gaia AI",
+      "website": "https://www.gaia-ai.eco/",
+      "careers_url": null,
+      "industries": [
+        "Forest sensing"
+      ],
+      "summary": "Develops AI-assisted forest measurement technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.gaia-ai.eco/",
+          "publisher": "Gaia AI",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "general-robotics",
+      "name": "General Robotics",
+      "website": "https://www.general-robotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Robotic actuators"
+      ],
+      "summary": "Develops compact actuators for humanoid and legged robots.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.general-robotics.com/",
+          "publisher": "General Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.general-robotics.com/",
+          "publisher": "General Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated Boston office."
+        }
+      ]
+    },
+    {
+      "id": "glidance",
+      "name": "Glidance",
+      "website": "https://www.glidance.io/",
+      "careers_url": "https://jobs.gusto.com/boards/glidance-inc-04116ff7-bba9-4edd-a1c1-bc4cb9b71f56",
+      "industries": [
+        "Assistive robotics"
+      ],
+      "summary": "Develops robotic guidance technology for people with sight loss.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.glidance.io/",
+          "publisher": "Glidance",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "greensight",
+      "name": "GreenSight",
+      "website": "https://www.greensightag.com/",
+      "careers_url": "https://www.greensightag.com/career/career",
+      "industries": [
+        "Robotics and analytics"
+      ],
+      "summary": "Develops robotic sensing and automation systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.greensightag.com/",
+          "publisher": "GreenSight",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.greensightag.com/contact",
+          "publisher": "GreenSight",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 529 Main Street, Boston, MA. Company-stated headquarters; page has conflicting ZIP codes, street/city agree."
+        }
+      ]
+    },
+    {
+      "id": "haply-robotics",
+      "name": "Haply Robotics",
+      "website": "https://www.haply.co/",
+      "careers_url": "https://www.haply.co/careers",
+      "industries": [
+        "Haptic technology"
+      ],
+      "summary": "Develops force-feedback devices for robotics and simulation.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.haply.co/",
+          "publisher": "Haply Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "humanoid",
+      "name": "Humanoid",
+      "website": "https://thehumanoid.ai/",
+      "careers_url": "https://thehumanoid.ai/careers/",
+      "industries": [
+        "Humanoid robotics"
+      ],
+      "summary": "Develops humanoid robots for labor-intensive work.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://thehumanoid.ai/",
+          "publisher": "Humanoid",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "hypervend",
+      "name": "HyperVend",
+      "website": "https://hypervend.com/",
+      "careers_url": null,
+      "industries": [
+        "Retail automation"
+      ],
+      "summary": "Develops automated vending systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://hypervend.com/",
+          "publisher": "HyperVend",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://hypervend.com/contact-us/",
+          "publisher": "HyperVend",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "kairox-systems",
+      "name": "Kairox Systems",
+      "website": "https://www.kairoxsys.com/",
+      "careers_url": null,
+      "industries": [
+        "Autonomous drones"
+      ],
+      "summary": "Develops drones designed for aerial and underwater operation.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.kairoxsys.com/",
+          "publisher": "Kairox Systems",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "kinetic-blocks",
+      "name": "Kinetic Blocks",
+      "website": "https://kineticblocks.com/",
+      "careers_url": "https://kineticblocks.com/careers",
+      "industries": [
+        "Robotics data"
+      ],
+      "summary": "Operates a marketplace for robot-training data.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://kineticblocks.com/",
+          "publisher": "Kinetic Blocks",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "kraken-robotics",
+      "name": "Kraken Robotics",
+      "website": "https://www.krakenrobotics.com/",
+      "careers_url": "https://www.krakenrobotics.com/careers/",
+      "industries": [
+        "Marine technology"
+      ],
+      "summary": "Develops subsea sensors and robotic technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.krakenrobotics.com/",
+          "publisher": "Kraken Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "labyrinthai",
+      "name": "LabyrinthAI",
+      "website": "http://www.labyrinthai.co/",
+      "careers_url": null,
+      "industries": [
+        "Robotics software"
+      ],
+      "summary": "Develops tools for teaching robots from human expertise.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "http://www.labyrinthai.co/",
+          "publisher": "LabyrinthAI",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "logicboots",
+      "name": "Logicboots",
+      "website": "https://logicboots.com",
+      "careers_url": null,
+      "industries": [
+        "Artificial intelligence"
+      ],
+      "summary": "Develops AI and robotics applications.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://logicboots.com",
+          "publisher": "Logicboots",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "luminous",
+      "name": "Luminous",
+      "website": "https://www.luminousrobotics.com/",
+      "careers_url": "https://www.luminousrobotics.com/career",
+      "industries": [
+        "Construction robotics"
+      ],
+      "summary": "Develops robotic systems for solar construction.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.luminousrobotics.com/",
+          "publisher": "Luminous",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "maglev-aero",
+      "name": "Maglev Aero",
+      "website": "https://maglevaero.com/",
+      "careers_url": null,
+      "industries": [
+        "Electric aviation"
+      ],
+      "summary": "Develops electric propulsion technology for aircraft.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://maglevaero.com/",
+          "publisher": "Maglev Aero",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "mente",
+      "name": "Mente",
+      "website": "https://www.mentemedical.com/",
+      "careers_url": null,
+      "industries": [
+        "Surgical technology"
+      ],
+      "summary": "Develops sensor-based tools for operating-room workflows.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.mentemedical.com/",
+          "publisher": "Mente",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "modalai",
+      "name": "ModalAI",
+      "website": "https://www.modalai.com/",
+      "careers_url": "https://www.modalai.com/pages/careers",
+      "industries": [
+        "Autonomous systems"
+      ],
+      "summary": "Develops computing platforms for drones and robots.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.modalai.com/",
+          "publisher": "ModalAI",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "mvp-robotics",
+      "name": "MVP Robotics",
+      "website": "https://www.mvprobotics.com/",
+      "careers_url": "https://www.mvprobotics.com/join-our-team",
+      "industries": [
+        "Autonomous systems"
+      ],
+      "summary": "Develops robotic systems for sports and tactical training.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.mvprobotics.com/",
+          "publisher": "MVP Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "nexterity",
+      "name": "Nexterity",
+      "website": "https://www.nexterity.tech/",
+      "careers_url": null,
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops robotic automation for industrial construction tasks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.nexterity.tech/",
+          "publisher": "Nexterity",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "onyx",
+      "name": "Onyx",
+      "website": "https://www.onyxresearch.ai/",
+      "careers_url": "https://www.onyxresearch.ai/company#careers",
+      "industries": [
+        "Software engineering"
+      ],
+      "summary": "Develops AI-agent tools for improving hardware-related code.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.onyxresearch.ai/",
+          "publisher": "Onyx",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "ori",
+      "name": "Ori",
+      "website": "https://www.oriliving.com/",
+      "careers_url": "https://angel.co/company/oriliving/jobs",
+      "industries": [
+        "Architectural technology"
+      ],
+      "summary": "Develops technology for adaptable residential spaces.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.oriliving.com/",
+          "publisher": "Ori",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "palmr",
+      "name": "Palmr",
+      "website": "https://palmr.ai/",
+      "careers_url": null,
+      "industries": [
+        "Robotics"
+      ],
+      "summary": "Develops AI-driven robots for business tasks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://palmr.ai/",
+          "publisher": "Palmr",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "peke-labs",
+      "name": "PeKe Labs",
+      "website": "https://pekelabs.com/",
+      "careers_url": null,
+      "industries": [
+        "Human-computer interaction"
+      ],
+      "summary": "Develops wearable input devices for spatial computing.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://pekelabs.com/",
+          "publisher": "PeKe Labs",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "pison-technology",
+      "name": "Pison Technology",
+      "website": "https://pison.com/",
+      "careers_url": null,
+      "industries": [
+        "Wearable sensing"
+      ],
+      "summary": "Develops wearable technology using neuromuscular signals.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://pison.com/",
+          "publisher": "Pison Technology",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://pison.com/contact/",
+          "publisher": "Pison Technology",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 179 Lincoln Street, Boston, MA. Company-stated contact office."
+        }
+      ]
+    },
+    {
+      "id": "prosperous-robotics",
+      "name": "Prosperous Robotics",
+      "website": "https://prosperousrobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Rehabilitation technology"
+      ],
+      "summary": "Develops robotic and digital tools for recovery and caregiving.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://prosperousrobotics.com/",
+          "publisher": "Prosperous Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "ras-labs",
+      "name": "Ras Labs",
+      "website": "https://raslabs.com/",
+      "careers_url": null,
+      "industries": [
+        "Robotic sensing"
+      ],
+      "summary": "Develops tactile sensing technology for robotic grippers.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://raslabs.com/",
+          "publisher": "Ras Labs",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "realtime-robotics",
+      "name": "Realtime Robotics",
+      "website": "https://rtr.ai/",
+      "careers_url": "https://rtr.ai/careers/",
+      "industries": [
+        "Robotics software"
+      ],
+      "summary": "Develops motion-planning and optimization tools for robots.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://rtr.ai/",
+          "publisher": "Realtime Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://rtr.ai/contact/",
+          "publisher": "Realtime Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 27 Wormwood Street, Boston, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "revimo",
+      "name": "ReviMo",
+      "website": "https://www.revimo.care/",
+      "careers_url": null,
+      "industries": [
+        "Assistive robotics"
+      ],
+      "summary": "Develops robotic mobility assistance devices.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.revimo.care/",
+          "publisher": "ReviMo",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "revolute-robotics",
+      "name": "Revolute Robotics",
+      "website": "https://revoluterobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Inspection robotics"
+      ],
+      "summary": "Develops robots combining aerial and ground movement.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://revoluterobotics.com/",
+          "publisher": "Revolute Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "rhoman-aerospace",
+      "name": "Rhoman Aerospace",
+      "website": "https://www.rhoman.aero/",
+      "careers_url": null,
+      "industries": [
+        "Autonomous drones"
+      ],
+      "summary": "Develops vision-based navigation and flight-control technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.rhoman.aero/",
+          "publisher": "Rhoman Aerospace",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "riibotics",
+      "name": "Riibotics",
+      "website": "https://www.riibotics.io",
+      "careers_url": "https://riibotics.career.greetinghr.com/",
+      "industries": [
+        "Warehouse automation"
+      ],
+      "summary": "Develops autonomous equipment for warehouse handling.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.riibotics.io",
+          "publisher": "Riibotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "robot-on-rails",
+      "name": "Robot on Rails",
+      "website": "https://www.robotonrails.com/",
+      "careers_url": "https://www.robotonrails.com/pages/careers.html",
+      "industries": [
+        "Laboratory automation"
+      ],
+      "summary": "Develops robotic systems for scientific laboratory workflows.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.robotonrails.com/",
+          "publisher": "Robot on Rails",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.robotonrails.com/pages/contact.html",
+          "publisher": "Robot on Rails",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 5 Channel Center Street, Boston, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "rowbot-systems",
+      "name": "Rowbot Systems",
+      "website": "https://www.rowbot.com/",
+      "careers_url": null,
+      "industries": [
+        "Agricultural robotics"
+      ],
+      "summary": "Develops robotic technology for row-crop farming.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.rowbot.com/",
+          "publisher": "Rowbot Systems",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "retail-robotics-solutions-rrs",
+      "name": "Retail Robotics Solutions (RRS)",
+      "website": "https://chaickout.com/",
+      "careers_url": null,
+      "industries": [
+        "Retail automation"
+      ],
+      "summary": "Develops computer-vision checkout technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://chaickout.com/",
+          "publisher": "Retail Robotics Solutions (RRS)",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://chaickout.com/",
+          "publisher": "Retail Robotics Solutions (RRS)",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 12 Channel Street, Boston, MA. Company-stated Boston office."
+        }
+      ]
+    },
+    {
+      "id": "scalable-robotics",
+      "name": "Scalable Robotics",
+      "website": "https://scalablerobotics.ai/",
+      "careers_url": "https://scalablerobotics.ai/about-us/careers",
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops simplified robot-programming tools.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://scalablerobotics.ai/",
+          "publisher": "Scalable Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "sereact",
+      "name": "sereact",
+      "website": "https://sereact.ai/en",
+      "careers_url": "https://sereact.ai/careers",
+      "industries": [
+        "Warehouse automation"
+      ],
+      "summary": "Develops AI software for robotic handling.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://sereact.ai/en",
+          "publisher": "sereact",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "simpl-automation",
+      "name": "Simpl Automation",
+      "website": "http://simplautomation.com/",
+      "careers_url": "https://simplautomation.com/careers/",
+      "industries": [
+        "Warehouse automation"
+      ],
+      "summary": "Develops automated storage and retrieval systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "http://simplautomation.com/",
+          "publisher": "Simpl Automation",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://simplautomation.com/contact/",
+          "publisher": "Simpl Automation",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 411 Waverley Oaks Road, Waltham, MA. Company-stated office."
+        }
+      ]
+    },
+    {
+      "id": "smartdrone",
+      "name": "SmartDrone",
+      "website": "https://smartdrone.com/",
+      "careers_url": null,
+      "industries": [
+        "Geospatial technology"
+      ],
+      "summary": "Develops drone mapping technology and services.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://smartdrone.com/",
+          "publisher": "SmartDrone",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "synthium",
+      "name": "Synthium",
+      "website": "https://www.synthium.xyz/",
+      "careers_url": "https://www.synthium.xyz/careers",
+      "industries": [
+        "Robotics data"
+      ],
+      "summary": "Develops simulation-based data for humanoid robot training.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.synthium.xyz/",
+          "publisher": "Synthium",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "tatum-robotics",
+      "name": "Tatum Robotics",
+      "website": "https://tatumrobotics.com/",
+      "careers_url": null,
+      "industries": [
+        "Assistive robotics"
+      ],
+      "summary": "Develops robotic communication technology for DeafBlind users.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Watertown",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Company-stated local address; geocoding is reviewed separately.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://tatumrobotics.com/",
+          "publisher": "Tatum Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://tatumrobotics.com/pages/contact",
+          "publisher": "Tatum Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "city",
+            "address"
+          ],
+          "note": "Official page lists 175 North Beacon Street, Watertown, MA. Company-stated address."
+        }
+      ]
+    },
+    {
+      "id": "tennibot",
+      "name": "Tennibot",
+      "website": "https://www.tennibot.com/",
+      "careers_url": null,
+      "industries": [
+        "Sports robotics"
+      ],
+      "summary": "Develops robotic tennis and racket-sport equipment.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.tennibot.com/",
+          "publisher": "Tennibot",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "thinking-robots",
+      "name": "Thinking Robots",
+      "website": "https://thinkingrobots.ai/",
+      "careers_url": null,
+      "industries": [
+        "Robotics software"
+      ],
+      "summary": "Develops software for instructing robots to perform tasks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://thinkingrobots.ai/",
+          "publisher": "Thinking Robots",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "tp7-ai-robotics",
+      "name": "TP7 AI Robotics",
+      "website": "https://tp7.ai/",
+      "careers_url": null,
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops mobile robotic systems for industrial work.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://tp7.ai/",
+          "publisher": "TP7 AI Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "transcend-mechanics",
+      "name": "Transcend Mechanics",
+      "website": "https://transcendmechanics.com",
+      "careers_url": null,
+      "industries": [
+        "Robotic hardware"
+      ],
+      "summary": "Develops robotic grippers.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://transcendmechanics.com",
+          "publisher": "Transcend Mechanics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "tutor-intelligence",
+      "name": "Tutor Intelligence",
+      "website": "https://tutorintelligence.com/",
+      "careers_url": "https://tutorintelligence.com/careers",
+      "industries": [
+        "Industrial robotics"
+      ],
+      "summary": "Develops AI-enabled robotic workers for handling tasks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://tutorintelligence.com/",
+          "publisher": "Tutor Intelligence",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "ubiros",
+      "name": "Ubiros",
+      "website": "https://www.ubiros.com/",
+      "careers_url": null,
+      "industries": [
+        "Robotic hardware"
+      ],
+      "summary": "Develops soft robotic grippers.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.ubiros.com/",
+          "publisher": "Ubiros",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "untill",
+      "name": "untill",
+      "website": "https://untill.ag/",
+      "careers_url": null,
+      "industries": [
+        "Agricultural technology"
+      ],
+      "summary": "Develops automated growing technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://untill.ag/",
+          "publisher": "untill",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "whelix",
+      "name": "Whelix",
+      "website": "https://whelix.com/",
+      "careers_url": "https://whelix.com/careers",
+      "industries": [
+        "Laboratory automation"
+      ],
+      "summary": "Develops robotic cell-culture automation systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://whelix.com/",
+          "publisher": "Whelix",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "wibotic",
+      "name": "WiBotic",
+      "website": "https://www.wibotic.com/",
+      "careers_url": "https://www.wibotic.com/careers/",
+      "industries": [
+        "Robotics power systems"
+      ],
+      "summary": "Develops wireless charging for autonomous systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.wibotic.com/",
+          "publisher": "WiBotic",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "xyz-robotics",
+      "name": "XYZ Robotics",
+      "website": "https://www.xyzrobotics.com/",
+      "careers_url": "https://xyzrobotics.jobs.feishu.cn/2026/",
+      "industries": [
+        "Warehouse robotics"
+      ],
+      "summary": "Develops robotic manipulation systems for logistics.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.xyzrobotics.com/",
+          "publisher": "XYZ Robotics",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    },
+    {
+      "id": "zulusolar",
+      "name": "ZuluSolar",
+      "website": "https://www.zulusolar.com/",
+      "careers_url": null,
+      "industries": [
+        "Solar energy technology"
+      ],
+      "summary": "Develops integrated solar-energy management systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "evidence": [
+        {
+          "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+          "publisher": "MassRobotics",
+          "checked_on": "2026-10-31",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "note": "Resident directory identifies this company and links its website. Company descriptions may be supplied by members; this is not an independent operational audit."
+        },
+        {
+          "url": "https://www.zulusolar.com/",
+          "publisher": "ZuluSolar",
+          "checked_on": "2026-10-31",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        }
+      ]
+    }
+  ]
+}

@@ -11,6 +11,7 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 opener=urllib.request.build_opener(NoRedirect)
 def check_url(url):
  p=urllib.parse.urlsplit(url)
+ if any(p.hostname==h or (p.hostname or '').endswith('.'+h) for h in ('ycombinator.com','massbio.org','greentown.org')):raise ValueError('Source held by reviewed access/reuse policy; no automated collection')
  if p.scheme not in ('http','https') or not p.hostname or p.username or p.password:raise ValueError('Only public HTTP(S) URLs allowed')
  if p.port not in (None,80,443):raise ValueError('Non-web port')
  for a in socket.getaddrinfo(p.hostname,p.port or 443):
@@ -40,7 +41,9 @@ def main(url):
  receipt={'requested_url':url,'checked_on':datetime.date.today().isoformat(),'method':'identified-http-client'}
  cache=ROOT/'cache';cache.mkdir(exist_ok=True)
  key=hashlib.sha256(url.encode()).hexdigest();file=cache/(key+'.html');meta=cache/(key+'.json')
- if file.exists() and meta.exists():print(json.dumps(json.loads(meta.read_text())));return
+ if file.exists() and meta.exists():
+  check_url(url)
+  print(json.dumps(json.loads(meta.read_text())));return
  try:
   current=url
   for _ in range(6):

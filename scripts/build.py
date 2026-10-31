@@ -50,13 +50,13 @@ def build(root=ROOT):
     records.sort(key=lambda r:r['id'])
     (root/'data/companies.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n')
     out=io.StringIO(); fields=['id','name','website','industries','cities','review_status','checked_on','source_urls','notes']
-    writer=csv.DictWriter(out,fieldnames=fields);writer.writeheader()
+    writer=csv.DictWriter(out,fieldnames=fields,lineterminator='\n');writer.writeheader()
     for r in records:
         values={k:r[k] for k in ('id','name','website','review_status','checked_on','notes')}
         values.update(industries='; '.join(r['industries']),cities='; '.join(f'{l["city"]}, {l["region"]}, {l["country"]}' for l in r['locations']),source_urls='; '.join(e['url'] for e in r['evidence']))
         # Neutralize spreadsheet formula injection while retaining canonical JSON text.
         writer.writerow({k:("'"+v if isinstance(v,str) and v.startswith(('=','+','-','@')) else v) for k,v in values.items()})
     (root/'data/companies.csv').write_text(out.getvalue())
-    coverage=dict(total=len(records),reviewed=sum(r['review_status']=='reviewed' for r in records),needs_review=sum(r['review_status']=='needs-review' for r in records),with_city=sum(bool(r['locations']) for r in records),street_verified=sum(any(l['precision']=='street' for l in r['locations']) for r in records),latest_check=max((r['checked_on'] for r in records),default=None),scope='Manually reviewed Boston-area launch sample; no estimate of total ecosystem coverage. Includes startups and private growth companies.')
+    coverage=dict(total=len(records),reviewed=sum(r['review_status']=='reviewed' for r in records),needs_review=sum(r['review_status']=='needs-review' for r in records),with_city=sum(bool(r['locations']) for r in records),street_verified=sum(any(l['precision']=='street' for l in r['locations']) for r in records),latest_check=max((r['checked_on'] for r in records),default=None),scope='Growing Boston-area and directory-affiliated company collection; affiliation is not a verified office or active-startup assertion. No estimate of total ecosystem coverage.')
     (root/'data/coverage.json').write_text(json.dumps(coverage,indent=2)+'\n'); return coverage
 if __name__=='__main__': print(json.dumps(build(),indent=2))

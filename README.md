@@ -1,16 +1,18 @@
 # startup-jobs
 
-A growing, evidence-backed directory of startups and private growth companies, beginning in greater Boston. Built on the [Research Jobs](https://github.com/nikbearbrown/research-jobs) model for the [Humanitarians AI startup and research map](https://jobs.humanitarians.ai/ecosystem).
+A growing, evidence-backed directory of startups and other companies with relevant ecosystem affiliations, beginning in greater Boston. Built on the [Research Jobs](https://github.com/nikbearbrown/research-jobs) model for the [Humanitarians AI startup and research map](https://jobs.humanitarians.ai/ecosystem).
 
 The aim is broad discovery across regions and industries. **This is not a census or a complete list of Boston startups.** Names, websites, industries and city locations are useful without street addresses. Inclusion does not imply a current job opening, active business status, or sponsorship.
 
 ## Coverage — 2026-10-31
 
-50 company-profile links discovered from the permitted public YC Boston HTML (a partial page, not full enumeration), with 5 already reviewed and 45 awaiting review.
+85 company records: **84 identity/site/sector reviews and one unresolved launch record**. This expansion adds 78 reviewed identities from 97 MassRobotics directory candidates; 19 remain pending. The reviewed batch includes 35 career-navigation links, not verified open jobs.
 
-7 initial company records; 6 cross-source identity/website/industry reviews; 6 city-level locations; 0 verified street locations; 1 unresolved location held off the map (Boston Metal). Boston Metal's official location pages conflict with a facility-closure report; evidence and the unresolved decision are retained. Research data is imported separately from Research Jobs, never counted as startups.
+Eighteen new companies state local addresses; the jobs-site evidence overlay maps 15 of them with approximate Census geocodes and holds three ambiguous/unmatched addresses. Sixty new records retain only a directory-reported resident affiliation: Boston is not a verified office or headquarters for those records, and they have no precise map pin. This repository's location export remains city-level; precise location decisions live in the [jobs-site expansion evidence](https://github.com/nikbearbrown/jobs.humanitarians.ai/blob/feat/startup-research-map/docs/ecosystem-expansion.md). Across both batches, 84 records have some city/affiliation evidence and Boston Metal remains unresolved.
 
-The launch sample intentionally spans biotech, AI, robotics, energy storage and metals. It is small and selection-biased; no total ecosystem coverage percentage is justified. Some city labels come from directories, not company statements. See each record and `data/coverage.json`.
+The collection is selection-biased and does not establish current operations, founding age, ownership, hiring or total ecosystem coverage. MassRobotics descriptions may be member-supplied; cross-publisher corroboration is not an independent operational audit. Names/domains are deduplicated, and unknown fields stay null.
+
+**Access update:** New YC automated collection is held because its legal terms prohibit scraping. New MassBio publication is held under its reuse terms; Greentown reuse conditions remain unresolved. No newly collected data from these three sources is in this expansion. The earlier YC discovery/launch evidence remains historical; it is not permission to resume scraping. See [source policy](data/source-policy.json).
 
 ## Repository model
 
@@ -24,7 +26,8 @@ The launch sample intentionally spans biotech, AI, robotics, energy storage and 
 | `data/raw/fetch-receipts.jsonl` | Public fetch outcomes and hashes; full cached HTML stays ignored |
 | `scripts/seed.py` | Reproduces the manual launch batch from documented observations; do not rerun over enriched records |
 | `scripts/fetch.py` | Optional identified, robots-aware, rate-limited public-page collector |
-| `scripts/discover.py` | YC profile-link extractor from permitted local HTML |
+| `scripts/discover.py` | Historical YC extractor; held under current access policy |
+| `scripts/import-massrobotics-review.py` | Offline assembly from explicit review decisions and cached company evidence in the jobs-site checkout |
 | `scripts/build.py` | Validation, duplicate rejection, JSON/CSV exports, coverage |
 | `tests/test-build.py` | Source integrity, URL, precision and identity tests |
 
@@ -40,8 +43,7 @@ The launch sample intentionally spans biotech, AI, robotics, energy storage and 
 python3 scripts/build.py
 python3 tests/test-build.py
 # Optional permitted public-page collection; inspect terms first:
-python3 scripts/fetch.py https://www.ycombinator.com/companies/location/boston
-# Then pass the printed cache_path to scripts/discover.py.
+python3 scripts/fetch.py https://www.massrobotics.org/startups/massrobotics-resident-startups/
 ```
 
 The fetcher fails closed when robots cannot be established (except an explicit 404), checks redirects, and records blocks. A blocked page remains a blocked target. It never rotates identities or circumvents restrictions. The extractor only queues links; it does not scrape hidden APIs or assert current company details.

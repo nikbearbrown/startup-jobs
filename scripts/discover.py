@@ -1,3 +1,4 @@
+raise SystemExit("YC automated discovery held under reviewed legal terms; see data/source-policy.json. Historical outputs retained.")
 """Extract YC company-profile links from an already permitted cached HTML page.
 python3 scripts/discover.py cache/<hash>.html
 Discovery is a queue, NOT a verified company record. No network requests.

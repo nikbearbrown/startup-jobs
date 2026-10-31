@@ -1,0 +1,30 @@
+[
+  {
+    "source": "MassRobotics",
+    "status": "partial",
+    "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
+    "checked_on": "2026-10-31",
+    "decision": "97 identities enumerated; 78 reviewed with company website; factual observations only, not full member descriptions. No claim of independent operational audit."
+  },
+  {
+    "source": "YC",
+    "status": "held",
+    "url": "https://www.ycombinator.com/legal",
+    "checked_on": "2026-10-31",
+    "decision": "Automated scraping/data mining prohibited. No new batch published; historical launch evidence retained. Fetchers deny this domain."
+  },
+  {
+    "source": "MassBio",
+    "status": "held",
+    "url": "https://www.massbio.org/privacy-policy/",
+    "checked_on": "2026-10-31",
+    "decision": "External redistribution restricted. New collection/publication stopped; no new batch published."
+  },
+  {
+    "source": "Greentown",
+    "status": "held",
+    "url": "https://greentown.org/terms-of-service",
+    "checked_on": "2026-10-31",
+    "decision": "Reviewed response did not expose operative reuse terms; awaiting clarification. No new batch published."
+  }
+]

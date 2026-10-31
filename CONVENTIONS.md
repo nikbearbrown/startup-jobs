@@ -10,6 +10,8 @@
 - City precision has no organization coordinates or street address. Street precision requires explicit address AND coordinate evidence. Missing or conflicted locations remain unlocated.
 - Canonical website host (lowercase, leading www removed) catches duplicates. Merge manually, retaining evidence and aliases; shared-host edge cases require a documented identity decision, never silent merging.
 - `needs-review` retains contradictory or incomplete candidates. Never convert `todo` to `done` just because a page was fetched. `done` means the defined source scope has been enumerated and reviewed; `partial` records remaining work.
-- Collection scope includes startups and private growth companies. Do not silently mix listed, acquired or closed organizations into an active-startup total; retain lifecycle evidence when found. This launch sample makes no active-status assertion.
+- Collection scope includes startups and other companies with relevant ecosystem affiliations, while verified public/private/young-startup classifications remain separate. Do not silently mix listed, acquired or closed organizations into an active-startup total; retain lifecycle evidence when found. This launch sample makes no active-status assertion.
 - Automated collection is opt-in. Inspect source terms, honor robots.txt and rate limits, use the identifying client, stop on access restrictions. No bypasses, login scraping, or republishing full page/article text. Raw HTML is local and ignored; receipts store hashes/outcomes.
 - Rebuild and run tests before publishing. Source evidence, not generated output, is the review boundary.
+
+- A directory-reported resident affiliation does not verify physical presence or headquarters. Explicitly label affiliation-only records and never turn them into precise markers. Reviewed company identity alone does not verify current operations.
