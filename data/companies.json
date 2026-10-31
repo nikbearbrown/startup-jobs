@@ -1,0 +1,439 @@
+[
+  {
+    "id": "boost-robotics",
+    "name": "Boost Robotics",
+    "website": "https://www.boostrobotics.ai/",
+    "industries": [
+      "Robotics",
+      "Artificial intelligence"
+    ],
+    "summary": "Builds autonomous robots for data-center inspection and maintenance.",
+    "locations": [
+      {
+        "city": "Boston",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "corroborated-directories"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://www.ycombinator.com/companies/location/boston",
+        "publisher": "Y Combinator",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Boost Robotics in Boston and describes data-center robotics.",
+        "primary": false,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.boostrobotics.ai/",
+        "publisher": "Boost Robotics",
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Describes autonomous inspection and maintenance robots.",
+        "primary": true,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://jobs.aihub.masstech.org/companies/boost-robotics",
+        "publisher": "MA AI Hub",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists both Boston and San Francisco.",
+        "primary": false,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "Boston presence is directory-reported; MA AI Hub also lists San Francisco. Headquarters not established.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "boostrobotics.ai"
+  },
+  {
+    "id": "boston-metal",
+    "name": "Boston Metal",
+    "website": "https://www.bostonmetal.com/",
+    "industries": [
+      "Metals manufacturing",
+      "Climate technology"
+    ],
+    "summary": "Develops molten oxide electrolysis for metals production.",
+    "locations": [],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "needs-review",
+    "evidence": [
+      {
+        "url": "https://www.bostonmetal.com/contact-us/",
+        "publisher": "Boston Metal",
+        "fields": [
+          "name",
+          "website",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Contact page lists Woburn.",
+        "primary": true,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.bostonmetal.com/news/boston-metal-scaling-the-future-of-critical-metals/",
+        "publisher": "Boston Metal",
+        "fields": [
+          "name",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "June 2026 company update describes critical metals focus and Woburn headquarters.",
+        "primary": true,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.boston.com/news/business/2026/02/24/layoffs-hit-boston-metal-as-company-plans-woburn-shutdown/",
+        "publisher": "Boston.com",
+        "fields": [
+          "name",
+          "city",
+          "operating_status"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "February 2026 report describes planned Woburn facility closures.",
+        "primary": false,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "Location held out of map pending review: official pages list Woburn, but a February 2026 closure report conflicts. Later company update does not explicitly resolve which facilities remain open.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "bostonmetal.com"
+  },
+  {
+    "id": "form-energy",
+    "name": "Form Energy",
+    "website": "https://formenergy.com/",
+    "industries": [
+      "Energy storage",
+      "Climate technology"
+    ],
+    "summary": "Develops iron-air batteries for multi-day grid energy storage.",
+    "locations": [
+      {
+        "city": "Somerville",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "company-stated"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://formenergy.com/contact/",
+        "publisher": "Form Energy",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Somerville alongside Weirton and Berkeley and describes iron-air storage.",
+        "primary": true,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/regenerative-metal-fuels-energy-transmission-without-wires",
+        "publisher": "ARPA-E",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Form Energy in Somerville for an active energy storage project.",
+        "primary": false,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "Somerville is one company office, not the sole operating location. Includes a later-stage private company.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "formenergy.com"
+  },
+  {
+    "id": "kernal-biologics",
+    "name": "Kernal Biologics",
+    "website": "https://www.kernalbio.com/",
+    "industries": [
+      "Biotechnology",
+      "RNA therapeutics"
+    ],
+    "summary": "Develops targeted mRNA delivery and selective cell therapies.",
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "corroborated-directories"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://www.kernalbio.com/",
+        "publisher": "Kernal Biologics",
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Describes targeted mRNA therapeutics and selective translation.",
+        "primary": true,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://jobs.massdigitalhealth.org/companies/kernal-biologics",
+        "publisher": "Mass Digital Health",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Cambridge and biotechnology/therapeutics.",
+        "primary": false,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.builtinboston.com/company/kernal-biologics-inc",
+        "publisher": "Built In Boston",
+        "fields": [
+          "name",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Cambridge headquarters and biotech.",
+        "primary": false,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "Cambridge is corroborated by two directories; no street location verified.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "kernalbio.com"
+  },
+  {
+    "id": "nabla-bio",
+    "name": "Nabla Bio",
+    "website": "https://www.nabla.bio/",
+    "industries": [
+      "Biotechnology",
+      "Artificial intelligence"
+    ],
+    "summary": "Combines AI and experimental testing to design protein medicines.",
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "company-stated"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://www.ycombinator.com/companies/nabla-bio",
+        "publisher": "Y Combinator",
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists an active antibody-design company under Boston.",
+        "primary": false,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.nabla.bio/",
+        "publisher": "Nabla Bio",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Describes drug design; states the team is based in Cambridge, MA.",
+        "primary": true,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "YC uses Boston; the company explicitly identifies Cambridge. Company city takes precedence.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "nabla.bio"
+  },
+  {
+    "id": "postera",
+    "name": "PostEra",
+    "website": "https://postera.ai/",
+    "industries": [
+      "Biotechnology",
+      "Artificial intelligence"
+    ],
+    "summary": "Uses machine learning for medicinal chemistry and drug discovery.",
+    "locations": [
+      {
+        "city": "Boston",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "directory-reported"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://www.ycombinator.com/companies/postera/jobs",
+        "publisher": "Y Combinator",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists PostEra in Boston with a medicinal chemistry focus.",
+        "primary": false,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://postera.ai/",
+        "publisher": "PostEra",
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Describes its AI platform for medicinal chemistry.",
+        "primary": true,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "Boston is directory-reported; the company homepage reviewed did not establish an office city.",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "postera.ai"
+  },
+  {
+    "id": "volta-labs",
+    "name": "Volta Labs",
+    "website": "https://www.voltalabs.com/",
+    "industries": [
+      "Biotechnology",
+      "Lab automation"
+    ],
+    "summary": "Develops automated sample preparation systems for genomics.",
+    "locations": [
+      {
+        "city": "Boston",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "address": null,
+        "coordinates": null,
+        "verification": "company-stated"
+      }
+    ],
+    "careers_url": null,
+    "operating_status": null,
+    "stage": null,
+    "checked_on": "2026-10-31",
+    "review_status": "reviewed",
+    "evidence": [
+      {
+        "url": "https://www.ycombinator.com/companies/location/boston",
+        "publisher": "Y Combinator",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Lists Volta Labs as an active Boston genomics company.",
+        "primary": false,
+        "method": "public-page-review"
+      },
+      {
+        "url": "https://www.voltalabs.com/about-us",
+        "publisher": "Volta Labs",
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Describes genomics automation and lists its Boston office.",
+        "primary": true,
+        "method": "public-page-review"
+      }
+    ],
+    "notes": "",
+    "source_file": "data/sources/boston-launch.json",
+    "canonical_domain": "voltalabs.com"
+  }
+]

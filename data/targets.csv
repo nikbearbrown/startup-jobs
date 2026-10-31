@@ -1,0 +1,6 @@
+id,start_url,scope,priority,status,collect,notes
+yc-boston,https://www.ycombinator.com/companies/location/boston,Boston-area YC portfolio,1,partial,Company profile links then independent company verification,Seven launch records reviewed across sources; geographic directory membership is not exact city evidence
+ma-ai-hub,https://jobs.aihub.masstech.org/companies/boost-robotics,Massachusetts AI ecosystem,1,partial,Company identity sector city and source dates,Boost Robotics reviewed; broader directory discovery remains
+mass-digital-health,https://jobs.massdigitalhealth.org/companies/kernal-biologics,Massachusetts health technology,1,partial,Company identity sector city and source dates,Kernal reviewed; broader directory discovery remains
+engine,https://engine.xyz/careers/p11,Tough technology ecosystem,2,todo,Public company links then independent verification,Source identified; no completeness claim
+arpa-e,https://arpa-e.energy.gov/programs-and-initiatives/search-all-projects/regenerative-metal-fuels-energy-transmission-without-wires,Energy company project recipients,2,partial,Company location and technology corroboration,Form Energy reviewed; broader project inventory remains
