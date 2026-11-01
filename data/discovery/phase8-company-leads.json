@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Boston Dynamics",
+    "status": "held",
+    "official_website": "https://bostondynamics.com/",
+    "policy_url": "https://bostondynamics.com/terms/",
+    "independent_source_url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000000983",
+    "checked_on": "2026-11-01",
+    "note": "Extraction prohibited; no accepted identity, hiring or location record."
+  },
+  {
+    "name": "Lightmatter",
+    "status": "held",
+    "official_website": "https://lightmatter.com/",
+    "policy_url": "https://lightmatter.com/terms-of-use/",
+    "independent_source_url": "https://news.mit.edu/2024/startup-lightmatter-accelerates-progress-toward-light-speed-computing-0301",
+    "checked_on": "2026-11-01",
+    "note": "Manual/automated scraping prohibited; no accepted record."
+  },
+  {
+    "name": "Liquid AI",
+    "status": "held",
+    "official_website": "https://www.liquid.ai/",
+    "policy_url": "https://www.liquid.ai/terms-conditions",
+    "independent_source_url": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+    "checked_on": "2026-11-01",
+    "note": "Broad brand/name-use terms require reuse clarification; no accepted record."
+  }
+]

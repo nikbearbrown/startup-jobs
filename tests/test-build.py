@@ -1,8 +1,19 @@
-import copy,importlib.util,json,tempfile,unittest
+import copy,datetime,importlib.util,json,tempfile,unittest
+from unittest.mock import patch
 from pathlib import Path
 spec=importlib.util.spec_from_file_location('build',Path(__file__).resolve().parents[1]/'scripts/build.py'); b=importlib.util.module_from_spec(spec);spec.loader.exec_module(b)
 class BuildTests(unittest.TestCase):
  def setUp(self): self.row=json.loads((b.ROOT/'data/sources/boston-launch.json').read_text())['companies'][0]
+ def test_evidence_date_uses_utc_at_local_midnight_boundary(self):
+  class PreviousLocalDay(datetime.date):
+   @classmethod
+   def today(cls):return cls(2026,10,31)
+  class UTCNow(datetime.datetime):
+   @classmethod
+   def now(cls,tz=None):return cls(2026,11,1,1,0,tzinfo=tz)
+  with patch.object(b.datetime,'date',PreviousLocalDay),patch.object(b.datetime,'datetime',UTCNow):
+   b.date('2026-11-01')
+   with self.assertRaises(ValueError):b.date('2026-11-02')
  def test_sources_validate(self):
   for p in (b.ROOT/'data/sources').glob('*.json'):
    for row in json.loads(p.read_text())['companies']: b.validate(row)
@@ -24,7 +35,7 @@ class BuildTests(unittest.TestCase):
    with self.assertRaises(ValueError): b.build(root)
  def test_hiring_routes_do_not_claim_live_vacancies(self):
   rows=json.loads((b.ROOT/'data/companies.json').read_text())
-  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),74)
+  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),75)
   for r in rows:
    for q in r.get('hiring_routes',[]):
     self.assertEqual(q['scope'],'company');self.assertEqual(q['vacancy_status'],'not-verified');b.domain(q['source_url']);b.date(q['checked_on'])

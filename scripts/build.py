@@ -9,7 +9,7 @@ def domain(url):
         raise ValueError(f'Invalid public URL: {url}')
     return p.hostname.lower().removeprefix('www.')
 def date(value):
-    if datetime.date.fromisoformat(value)>datetime.date.today(): raise ValueError('Future evidence date')
+    if datetime.date.fromisoformat(value)>datetime.datetime.now(datetime.timezone.utc).date(): raise ValueError('Future evidence date')
 def validate_headcount(q):
     domain(q['source_url']);date(q['checked_on'])
     if q.get('as_of'):date(q['as_of'])

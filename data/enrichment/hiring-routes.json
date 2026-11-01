@@ -830,6 +830,27 @@
     ]
   },
   {
+    "company_id": "maglev-aero",
+    "routes": [
+      {
+        "url": "https://careers.smartrecruiters.com/MaglevAeroInc",
+        "scope": "company",
+        "label": "MagLev Aero careers",
+        "source_url": "https://maglevaero.com/careers",
+        "checked_on": "2026-11-01",
+        "source_sha256": "53e50dfcd86fd8a0fe69dd28c5388687010f111b5190c5077f11392e678462c6",
+        "target_status": "fetched",
+        "target_sha256": "be4c7f5d7e0bb0d337d747b746b09f82aa93040b9d31d00a87b46fa9ec8e5fbf",
+        "target_note": null,
+        "method": "visible browser DOM review; static HTML contains only application shell",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "source_evidence_file": "phase8-maglev-browser-review.json",
+        "review_note": "Company recruiting navigation observed; role-level availability not verified."
+      }
+    ]
+  },
+  {
     "company_id": "modalai",
     "routes": [
       {
