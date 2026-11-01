@@ -1022,6 +1022,26 @@
     ]
   },
   {
+    "company_id": "quera",
+    "routes": [
+      {
+        "url": "https://www.quera.com/careers",
+        "scope": "company",
+        "label": "QuEra careers",
+        "source_url": "https://www.quera.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "3644d8fd00b47d1590840a650a1743b6572136e72eb0aac9c580618e9c4cc775",
+        "target_status": "fetched",
+        "target_sha256": "9d9250733ac7f193c44229ff7c4dbd15cdc392a70f8c27182c9c79317fadd5b6",
+        "target_note": null,
+        "method": "Observed official homepage navigation; recruiting scope manually reviewed",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company recruiting navigation; company-wide route does not establish Boston-specific vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "ras-labs",
     "routes": [
       {

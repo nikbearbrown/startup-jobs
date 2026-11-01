@@ -5846,6 +5846,103 @@
     "canonical_domain": "prosperousrobotics.com"
   },
   {
+    "id": "quera",
+    "name": "QuEra Computing",
+    "website": "https://www.quera.com/",
+    "careers_url": "https://www.quera.com/careers",
+    "industries": [
+      "Quantum computing"
+    ],
+    "summary": "Develops neutral-atom quantum computing systems.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Boston",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated current contact city; corroborated by historical Harvard reporting",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Official current contact and careers pages state Boston. Harvard reporting corroborates identity, domain and quantum computing activity; it is not an independent current occupancy audit. Founding date, ownership, workforce and live vacancy counts remain unverified. Exact contact address/geocode are separately reviewed in the map overlay.",
+    "evidence": [
+      {
+        "url": "https://www.quera.com/",
+        "publisher": "QuEra Computing",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "source_sha256": "3644d8fd00b47d1590840a650a1743b6572136e72eb0aac9c580618e9c4cc775",
+        "note": "Official company identity, neutral-atom computing activity and observed careers navigation."
+      },
+      {
+        "url": "https://news.harvard.edu/gazette/story/2026/05/building-useful-quantum-computers-in-our-direct-line-of-sight/",
+        "publisher": "Harvard University",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "source_sha256": "499d76606664ca84f3e3f853f792bda90eda527dc9a395a63c3e0ac56d95ecec",
+        "note": "May 2026 university reporting identifies QuEra, links its official domain and describes commercial quantum computers based on Harvard technology."
+      },
+      {
+        "url": "https://www.quera.com/contact-us",
+        "publisher": "QuEra Computing",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "source_sha256": "4dce8f2d64399007fa2e43d8154bdcec55139aa095b621ddb53d52d335008d97",
+        "note": "Current company contact page lists 1380 Soldiers Field Road, Boston, MA 02135. Contact location, not a surveyed laboratory footprint."
+      },
+      {
+        "url": "https://news.harvard.edu/gazette/story/2023/12/researchers-create-first-logical-quantum-processor/",
+        "publisher": "Harvard University",
+        "primary": false,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "source_sha256": "841f1f45d435add4b1cbfa3fca9e2e787e7c3bb972b5f3895131c98a1eebb57f",
+        "note": "Historical December 2023 reporting identifies QuEra as a Boston company. Retained as historical corroboration, not current occupancy proof."
+      }
+    ],
+    "source_file": "data/sources/boston-phase9-reviewed.json",
+    "canonical_domain": "quera.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.quera.com/careers",
+        "scope": "company",
+        "label": "QuEra careers",
+        "source_url": "https://www.quera.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "3644d8fd00b47d1590840a650a1743b6572136e72eb0aac9c580618e9c4cc775",
+        "target_status": "fetched",
+        "target_sha256": "9d9250733ac7f193c44229ff7c4dbd15cdc392a70f8c27182c9c79317fadd5b6",
+        "target_note": null,
+        "method": "Observed official homepage navigation; recruiting scope manually reviewed",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company recruiting navigation; company-wide route does not establish Boston-specific vacancies."
+      }
+    ]
+  },
+  {
     "id": "ras-labs",
     "name": "Ras Labs",
     "website": "https://raslabs.com/",

@@ -117,5 +117,26 @@
     "url": "https://www.liquid.ai/terms-conditions",
     "checked_on": "2026-11-01",
     "decision": "Website-linked service terms include a broad name/brand-use restriction. Public directory reuse needs clarification; no accepted record or further collection in this batch."
+  },
+  {
+    "source": "Themis AI",
+    "status": "held",
+    "url": "https://www.themisai.io/terms-of-service/",
+    "checked_on": "2026-11-01",
+    "decision": "Linked terms prohibit automated and equivalent manual extraction of service information. No company record accepted; deeper collection held rather than assuming website exemption."
+  },
+  {
+    "source": "QuEra factual directory review",
+    "status": "partial",
+    "url": "https://www.quera.com/terms-of-use",
+    "checked_on": "2026-11-01",
+    "decision": "Reviewed website-linked Terms of Use / Privacy Policy. No extraction prohibition found; collect only short factual fields and observed navigation with robots-aware requests, no page text/images or product/API services republished."
+  },
+  {
+    "source": "Pickle Robot",
+    "status": "held",
+    "url": "https://www.picklerobot.com/termsofuse",
+    "checked_on": "2026-11-01",
+    "decision": "Website terms prohibit automated access and unapproved equivalent manual collection. No company record accepted; collection stopped."
   }
 ]
