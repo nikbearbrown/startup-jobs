@@ -152,5 +152,19 @@
     "url": "https://www.biodevek.com/",
     "checked_on": "2026-10-31",
     "decision": "Observed policy PDF host robots response unavailable/403. Further collection held and no company record accepted; do not retry denied extraction. Homepage reference remains candidate evidence only."
+  },
+  {
+    "source": "Vicarious Surgical",
+    "status": "held",
+    "url": "https://www.vicarioussurgical.com/intellectual-property-notice",
+    "checked_on": "2026-10-31",
+    "decision": "Observed IP notice broadly prohibits use/distribution of website information and content without permission. No company record or enriched field accepted; deeper collection held for reuse clarification. This is broader reuse language, not labeled an explicit scraping prohibition."
+  },
+  {
+    "source": "Cogniteam deeper review",
+    "status": "held",
+    "url": "https://www.cogniteam.com/terms-of-use/",
+    "checked_on": "2026-10-31",
+    "decision": "Linked Terms of Use page yielded only its heading and shared navigation/footer, no operative terms. Company-stated US-office candidate retained for review; no new marker accepted. Historical identity evidence unchanged; deeper collection held for clarification."
   }
 ]

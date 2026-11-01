@@ -7778,7 +7778,24 @@
       }
     ],
     "source_file": "data/sources/massventures-2026-reviewed.json",
-    "canonical_domain": "rstreamrecycling.com"
+    "canonical_domain": "rstreamrecycling.com",
+    "hiring_routes": [
+      {
+        "url": "https://jobs.polymer.co/rstream",
+        "scope": "company",
+        "label": "rStream company job board",
+        "source_url": "https://www.rstreamrecycling.com/contact",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d58cf95142b6e489d5ea2b2bf459822a063aba6c51ff83f501d40f609c3dfae9",
+        "target_status": "fetched",
+        "target_sha256": "10dab621b0a012eb36184b18ca8d1200c3f17693cc22218c8702d628d600567c",
+        "target_note": null,
+        "method": "Official company contact page explicitly links View Open Positions to Polymer",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company-linked external board retrieved. No role-level availability, Boston location or live vacancy count is asserted."
+      }
+    ]
   },
   {
     "id": "sangtera",
