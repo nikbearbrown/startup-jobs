@@ -248,6 +248,26 @@
     ]
   },
   {
+    "company_id": "cellino",
+    "routes": [
+      {
+        "url": "https://www.linkedin.com/company/cellinobio/jobs/?viewAsMember=true",
+        "scope": "company",
+        "label": "Company-linked LinkedIn jobs",
+        "source_url": "https://cellinobio.com/about-us",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0af4463f64608fdb6e63eb2937aefe5d2cd237427ef5eb365128f0013ac1a1b7",
+        "target_status": "not-checked",
+        "target_sha256": null,
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company About page links this LinkedIn jobs destination. LinkedIn was not fetched; current vacancies and access requirements are unverified."
+      }
+    ]
+  },
+  {
     "company_id": "cleo",
     "routes": [
       {
@@ -1205,6 +1225,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "tatum-robotics",
+    "routes": [
+      {
+        "url": "https://tatumrobotics.com/pages/contact",
+        "scope": "company",
+        "label": "Team inquiries \u2014 including internships / volunteering",
+        "source_url": "https://tatumrobotics.com/pages/the-team",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b5ae3aa11531736dedb535d3c21d2743ff6e9405e8b1ff9d7acc6a23d498fde5",
+        "target_status": "fetched",
+        "target_sha256": "affe35c80552bb0710ce0bb630d9b9ae08514da01822fc83c3138b8cb1397fce",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "The team page explicitly invites inquiries and mentions contractors, interns and volunteers. This general contact route is not a vacancy board or a promise of paid employment."
       }
     ]
   },

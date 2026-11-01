@@ -75,5 +75,26 @@
     "url": "https://evoloh.com/terms-of-use",
     "checked_on": "2026-10-31",
     "decision": "Terms reviewed: copyright restrictions on content; only short independently corroborated factual fields and observed links retained, no prose, logos or product materials republished."
+  },
+  {
+    "source": "Transcend Mechanics",
+    "status": "held",
+    "url": "https://transcendmechanics.com/legal/terms-of-use",
+    "checked_on": "2026-10-31",
+    "decision": "Terms prohibit automated access without written consent. Deeper collection stopped; prior published identity evidence retained."
+  },
+  {
+    "source": "LabyrinthAI deeper collection",
+    "status": "held",
+    "url": "http://www.labyrinthai.co/terms/",
+    "checked_on": "2026-10-31",
+    "decision": "Linked terms page returned HTTP 500. Deeper collection held pending policy review; no bypass or new route accepted."
+  },
+  {
+    "source": "Tatum Robotics team inquiries",
+    "status": "partial",
+    "url": "https://tatumrobotics.com/policies/terms-of-service",
+    "checked_on": "2026-10-31",
+    "decision": "Reviewed product purchase/use agreement. No product service accessed, images republished, or personal contact list collected. Only the public company team-inquiry route and its internship/volunteer qualification are retained."
   }
 ]

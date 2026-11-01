@@ -11,7 +11,7 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
 opener=urllib.request.build_opener(NoRedirect)
 def check_url(url):
  p=urllib.parse.urlsplit(url)
- if any(p.hostname==h or (p.hostname or '').endswith('.'+h) for h in ('ycombinator.com','massbio.org','greentown.org','linkedin.com','dbos.dev','formlabs.com','biobot.io','vulcanforms.com')):raise ValueError('Source held by reviewed access/reuse policy; no automated collection')
+ if any(p.hostname==h or (p.hostname or '').endswith('.'+h) for h in ('ycombinator.com','massbio.org','greentown.org','linkedin.com','dbos.dev','formlabs.com','biobot.io','vulcanforms.com','transcendmechanics.com','labyrinthai.co')):raise ValueError('Source held by reviewed access/reuse policy; no automated collection')
  if p.scheme not in ('http','https') or not p.hostname or p.username or p.password:raise ValueError('Only public HTTP(S) URLs allowed')
  if p.port not in (None,80,443):raise ValueError('Non-web port')
  for a in socket.getaddrinfo(p.hostname,p.port or 443):

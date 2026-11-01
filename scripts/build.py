@@ -10,6 +10,15 @@ def domain(url):
     return p.hostname.lower().removeprefix('www.')
 def date(value):
     if datetime.date.fromisoformat(value)>datetime.date.today(): raise ValueError('Future evidence date')
+def validate_headcount(q):
+    domain(q['source_url']);date(q['checked_on'])
+    if q.get('as_of'):date(q['as_of'])
+    low,high=q['minimum'],q['maximum']
+    if type(low) is not int or low<1 or (high is not None and (type(high) is not int or high<low)):
+        raise ValueError('Invalid headcount bounds')
+    if q['scope_type']!='company' or q['kind'] not in ('reported','estimated') or q['status']!='reviewed':
+        raise ValueError('Invalid company headcount scope or status')
+    if not all(q.get(k) for k in ('scope','statement','method','uncertainty')):raise ValueError('Missing scoped size evidence')
 def validate(row):
     if not re.fullmatch('[a-z0-9]+(?:-[a-z0-9]+)*',row['id']): raise ValueError('Invalid id')
     if not row['name'].strip() or not row['industries']: raise ValueError('Missing name/industry')
@@ -58,16 +67,27 @@ def build(root=ROOT):
                 domain(q['url']);domain(q['source_url']);date(q['checked_on'])
                 if q['scope']!='company' or q['vacancy_status']!='not-verified' or not q['method']:raise ValueError('Invalid hiring evidence/scope')
             by_id[eid]['hiring_routes']=routes
+    size_path=root/'data/enrichment/headcounts.json'
+    if size_path.exists():
+        by_id={r['id']:r for r in records};seen=set()
+        for entry in json.loads(size_path.read_text()):
+            eid=entry['company_id'];q=entry['observation']
+            if eid not in by_id or eid in seen:raise ValueError('Unknown/duplicate size entity')
+            seen.add(eid);validate_headcount(q);by_id[eid]['headcount']=q
     records.sort(key=lambda r:r['id'])
     (root/'data/companies.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n')
-    out=io.StringIO(); fields=['id','name','website','industries','cities','review_status','checked_on','source_urls','notes','careers_url','reviewed_hiring_urls','hiring_checked_on','hiring_review_notes']
+    size_fields=['statement','kind','minimum','maximum','scope','as_of','checked_on','source_url','method','uncertainty']
+    out=io.StringIO(); fields=['id','name','website','industries','cities','review_status','checked_on','source_urls','notes','careers_url','reviewed_hiring_urls','hiring_checked_on','hiring_review_notes']+['headcount_'+k for k in size_fields]
     writer=csv.DictWriter(out,fieldnames=fields,lineterminator='\n');writer.writeheader()
     for r in records:
         values={k:r[k] for k in ('id','name','website','review_status','checked_on','notes')}
+        values.update({'headcount_'+k:r.get('headcount',{}).get(k) for k in size_fields})
         values.update(hiring_review_notes='; '.join(q.get('review_note','') for q in r.get('hiring_routes',[]) if q.get('review_note')),careers_url=r.get('careers_url'),reviewed_hiring_urls='; '.join(q['url'] for q in r.get('hiring_routes',[])),hiring_checked_on='; '.join(q['checked_on'] for q in r.get('hiring_routes',[])),industries='; '.join(r['industries']),cities='; '.join(f'{l["city"]}, {l["region"]}, {l["country"]}' for l in r['locations']),source_urls='; '.join(e['url'] for e in r['evidence']))
         # Neutralize spreadsheet formula injection while retaining canonical JSON text.
         writer.writerow({k:("'"+v if isinstance(v,str) and v.startswith(('=','+','-','@')) else v) for k,v in values.items()})
     (root/'data/companies.csv').write_text(out.getvalue())
     coverage=dict(with_reviewed_hiring_route=sum(bool(r.get('hiring_routes')) for r in records),live_vacancies_verified=0,total=len(records),reviewed=sum(r['review_status']=='reviewed' for r in records),needs_review=sum(r['review_status']=='needs-review' for r in records),with_city=sum(bool(r['locations']) for r in records),street_verified=sum(any(l['precision']=='street' for l in r['locations']) for r in records),latest_check=max((r['checked_on'] for r in records),default=None),scope='Growing Boston-area and directory-affiliated company collection; affiliation is not a verified office or active-startup assertion. No estimate of total ecosystem coverage.')
+    coverage['with_scoped_size_observation']=sum(bool(r.get('headcount')) for r in records)
+    coverage['estimated_size_observations']=sum(r.get('headcount',{}).get('kind')=='estimated' for r in records)
     (root/'data/coverage.json').write_text(json.dumps(coverage,indent=2)+'\n'); return coverage
 if __name__=='__main__': print(json.dumps(build(),indent=2))

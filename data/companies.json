@@ -1433,7 +1433,24 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified"
       }
-    ]
+    ],
+    "headcount": {
+      "status": "reviewed",
+      "minimum": 201,
+      "maximum": null,
+      "statement": "Over 200 employees",
+      "scope": "Company-wide across the United States and Brazil; not a Boston-area office headcount",
+      "as_of": null,
+      "checked_on": "2026-10-31",
+      "source_url": "https://www.bostonmetal.com/faq/",
+      "publisher": "Boston Metal",
+      "excerpt": "We currently over 200 employees in the United States and Brazil.",
+      "notes": "Undated current FAQ. This lower bound crosses the 51–250 and over-250 display bands; no single size band can be assigned. Location remains unreviewed independently of this headcount evidence.",
+      "kind": "reported",
+      "method": "official_company_statement",
+      "scope_type": "company",
+      "uncertainty": "Company-reported lower bound; no upper bound or explicit as-of date; not independently audited."
+    }
   },
   {
     "id": "brecourt-solutions",
@@ -1680,7 +1697,43 @@
       }
     ],
     "source_file": "data/sources/engine-ventures-reviewed.json",
-    "canonical_domain": "cellinobio.com"
+    "canonical_domain": "cellinobio.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.linkedin.com/company/cellinobio/jobs/?viewAsMember=true",
+        "scope": "company",
+        "label": "Company-linked LinkedIn jobs",
+        "source_url": "https://cellinobio.com/about-us",
+        "checked_on": "2026-10-31",
+        "source_sha256": "0af4463f64608fdb6e63eb2937aefe5d2cd237427ef5eb365128f0013ac1a1b7",
+        "target_status": "not-checked",
+        "target_sha256": null,
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company About page links this LinkedIn jobs destination. LinkedIn was not fetched; current vacancies and access requirements are unverified."
+      }
+    ],
+    "headcount": {
+      "status": "reviewed",
+      "minimum": 11,
+      "maximum": 50,
+      "statement": "Approximately 11–50 company team members (37 listed)",
+      "scope": "Company-wide public team roster; not a complete workforce census or a Cambridge office payroll count.",
+      "scope_type": "company",
+      "as_of": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "source_url": "https://cellinobio.com/about-us",
+      "publisher": "Cellino",
+      "excerpt": "Thirty-seven unique named cards in the Our Cellineers section; separate board and investor sections excluded.",
+      "kind": "estimated",
+      "method": "structured_public_roster_count_to_approximate_band",
+      "uncertainty": "The page supplies no roster effective date. Completeness, current employment status and local staffing are not independently verified.",
+      "notes": "Estimate dated to observation, not a date asserted by the source. Names and roles were read on the company page; LinkedIn was not fetched. No hiring availability inferred from team scale.",
+      "source_sha256": "0af4463f64608fdb6e63eb2937aefe5d2cd237427ef5eb365128f0013ac1a1b7",
+      "observed_roster_entries": 37
+    }
   },
   {
     "id": "cerulion",
@@ -2155,7 +2208,24 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified"
       }
-    ]
+    ],
+    "headcount": {
+      "status": "reviewed",
+      "minimum": 1001,
+      "maximum": null,
+      "statement": "More than 1,000 team members",
+      "scope": "Company-wide team; source separately says more than two thirds work in Devens. The map does not assign the company total to the local office.",
+      "scope_type": "company",
+      "as_of": null,
+      "checked_on": "2026-10-31",
+      "source_url": "https://www.cfs.energy/devens-campus/overview/",
+      "publisher": "Commonwealth Fusion Systems",
+      "excerpt": "CFS has grown to more than 1,000 team members",
+      "kind": "reported",
+      "method": "official_company_reported_lower_bound",
+      "uncertainty": "Source gives a lower bound, not an exact payroll count or an explicit measurement date.",
+      "notes": "Useful approximate scale: over 250. No inference from funding or vacancies; this observation is not a current hiring claim."
+    }
   },
   {
     "id": "contactile",
@@ -2780,7 +2850,26 @@
         "vacancy_status": "not-verified",
         "review_note": "Official company navigation points to LinkedIn. Destination was not fetched under collection policy; no current listings verified."
       }
-    ]
+    ],
+    "headcount": {
+      "status": "reviewed",
+      "minimum": 11,
+      "maximum": 50,
+      "statement": "Approximately 11–50 company team members (16 listed)",
+      "scope": "Company-wide public team roster, not a complete employee census or a Boston office workforce.",
+      "scope_type": "company",
+      "as_of": "2026-10-31",
+      "checked_on": "2026-10-31",
+      "source_url": "https://emvolon.com/team",
+      "publisher": "Emvolon",
+      "excerpt": "Sixteen distinct named team cards with roles; no claim of a complete workforce.",
+      "kind": "estimated",
+      "method": "manual_current_roster_count_to_approximate_band",
+      "uncertainty": "Approximate public-team scale. Completeness and employment status are not independently verified; the page supplies no roster effective date. Does not establish a local team size or current vacancies.",
+      "notes": "Estimate dated to observation, not a date asserted by the source. Sixteen unique team cards; hidden biography duplicates and template placeholders excluded. The 150+ years statement describes combined experience, not people.",
+      "source_sha256": "9662c8048549f9f90789fb70e10adcc9d901ee71428128f49288e2983d021a40",
+      "observed_roster_entries": 16
+    }
   },
   {
     "id": "evoloh",
@@ -3198,7 +3287,24 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified"
       }
-    ]
+    ],
+    "headcount": {
+      "status": "reviewed",
+      "minimum": 1001,
+      "maximum": null,
+      "statement": "Over 1,000 employees",
+      "scope": "Company-wide across US facilities; not the Somerville office headcount",
+      "as_of": null,
+      "checked_on": "2026-10-31",
+      "source_url": "https://formenergy.com/about/",
+      "publisher": "Form Energy",
+      "excerpt": "Form Energy employs over 1,000 people",
+      "notes": "Undated current About page. The source gives a lower bound, not an exact count. Review date is not an asserted headcount as-of date.",
+      "kind": "reported",
+      "method": "official_company_statement",
+      "scope_type": "company",
+      "uncertainty": "Company-reported lower bound; no upper bound or explicit as-of date; not independently audited."
+    }
   },
   {
     "id": "foundation-alloy",
@@ -6988,7 +7094,24 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "tatumrobotics.com"
+    "canonical_domain": "tatumrobotics.com",
+    "hiring_routes": [
+      {
+        "url": "https://tatumrobotics.com/pages/contact",
+        "scope": "company",
+        "label": "Team inquiries — including internships / volunteering",
+        "source_url": "https://tatumrobotics.com/pages/the-team",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b5ae3aa11531736dedb535d3c21d2743ff6e9405e8b1ff9d7acc6a23d498fde5",
+        "target_status": "fetched",
+        "target_sha256": "affe35c80552bb0710ce0bb630d9b9ae08514da01822fc83c3138b8cb1397fce",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "The team page explicitly invites inquiries and mentions contractors, interns and volunteers. This general contact route is not a vacancy board or a promise of paid employment."
+      }
+    ]
   },
   {
     "id": "tennibot",

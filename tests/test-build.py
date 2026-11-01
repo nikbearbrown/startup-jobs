@@ -24,7 +24,7 @@ class BuildTests(unittest.TestCase):
    with self.assertRaises(ValueError): b.build(root)
  def test_hiring_routes_do_not_claim_live_vacancies(self):
   rows=json.loads((b.ROOT/'data/companies.json').read_text())
-  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),72)
+  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),74)
   for r in rows:
    for q in r.get('hiring_routes',[]):
     self.assertEqual(q['scope'],'company');self.assertEqual(q['vacancy_status'],'not-verified');b.domain(q['source_url']);b.date(q['checked_on'])
@@ -34,4 +34,12 @@ class BuildTests(unittest.TestCase):
    (root/'data/sources/test.json').write_text(json.dumps(dict(checked_on='2026-10-31',companies=[self.row])))
    (root/'data/enrichment/hiring-routes.json').write_text(json.dumps([dict(company_id='unknown-company',routes=[])]))
    with self.assertRaises(ValueError):b.build(root)
+ def test_scoped_size_estimate_is_not_local_payroll(self):
+  rows=json.loads((b.ROOT/'data/companies.json').read_text());r=next(r for r in rows if r['id']=='cellino');q=r['headcount']
+  b.validate_headcount(q);self.assertEqual(q['kind'],'estimated');self.assertEqual((q['minimum'],q['maximum']),(11,50));self.assertIn('not a complete workforce census',q['scope'])
+  self.assertEqual(q['observed_roster_entries'],37)
+ def test_headcount_rejects_invalid_bounds_and_lab_scope(self):
+  q=json.loads((b.ROOT/'data/enrichment/headcounts.json').read_text())[0]['observation']
+  for change in [dict(minimum=0),dict(minimum=100,maximum=50),dict(minimum=True),dict(scope_type='lab'),dict(uncertainty='')]:
+   with self.assertRaises(ValueError):b.validate_headcount(dict(q,**change))
 if __name__=='__main__':unittest.main()

@@ -1,5 +1,5 @@
 {
-  "with_reviewed_hiring_route": 72,
+  "with_reviewed_hiring_route": 74,
   "live_vacancies_verified": 0,
   "total": 116,
   "reviewed": 115,
@@ -7,5 +7,7 @@
   "with_city": 114,
   "street_verified": 0,
   "latest_check": "2026-10-31",
-  "scope": "Growing Boston-area and directory-affiliated company collection; affiliation is not a verified office or active-startup assertion. No estimate of total ecosystem coverage."
+  "scope": "Growing Boston-area and directory-affiliated company collection; affiliation is not a verified office or active-startup assertion. No estimate of total ecosystem coverage.",
+  "with_scoped_size_observation": 5,
+  "estimated_size_observations": 2
 }
