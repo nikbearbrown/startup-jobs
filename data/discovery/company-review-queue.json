@@ -29,12 +29,12 @@
     "exact_name_cross_source_suggestions": 5,
     "candidate_groups": 170,
     "with_website_candidate": 54,
-    "with_existing_record_suggestion": 28,
+    "with_existing_record_suggestion": 34,
     "name_collision_groups": 2,
     "shared_domain_groups": 0,
     "review_queue": {
-      "compare-existing-record": 28,
-      "find-independent-explicit-company-domain": 106,
+      "compare-existing-record": 34,
+      "find-independent-explicit-company-domain": 100,
       "held-source-policy": 7,
       "resolve-name/domain-collision": 2,
       "review-official-site-policy-identity-sector-city-careers": 27
@@ -87,6 +87,44 @@
       "name_collision": false,
       "geography": "MIT affiliation only; Boston-region presence requires review",
       "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-LS1ERNQKZAD1",
+      "uei": "LS1ERNQKZAD1",
+      "names": [
+        "ADDEN ENERGY INC"
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2335454",
+          "title": "STTR Phase I: Advanced Lithium Metal Anodes for Solid-State Batteries",
+          "awardeeName": "ADDEN ENERGY INC",
+          "awardeeCity": "WALTHAM",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "LS1ERNQKZAD1",
+          "date": "03/22/2024",
+          "startDate": "04/01/2024",
+          "expDate": "12/31/2024",
+          "activeAwd": "false",
+          "fundProgramName": "STTR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=STTR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+          "source_sha256": "029f5183f8d4bb18c5faf7bdf3becff6cb0a3551f6d4fd4d4f76ce2f94117142",
+          "checked_on": "2026-11-01",
+          "query": "STTR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "adden-energy"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "compare-existing-record"
@@ -351,6 +389,44 @@
       "name_collision": false,
       "geography": "MIT affiliation only; Boston-region presence requires review",
       "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-HMN7FWLXJ1H4",
+      "uei": "HMN7FWLXJ1H4",
+      "names": [
+        "DYNOCARDIA, INC."
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2423296",
+          "title": "SBIR Phase II:   Development of motion artifact correction systems for ViTrack: an accurate, continuous, and non-invasive blood pressure monitor",
+          "awardeeName": "DYNOCARDIA, INC.",
+          "awardeeCity": "NEWTON CENTER",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "HMN7FWLXJ1H4",
+          "date": "08/30/2024",
+          "startDate": "09/15/2024",
+          "expDate": "08/31/2026",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
+          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "dynocardia"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "compare-existing-record"
@@ -803,6 +879,44 @@
       "next_review": "compare-existing-record"
     },
     {
+      "candidate_id": "nsf-uei-CLAULHJTH996",
+      "uei": "CLAULHJTH996",
+      "names": [
+        "MACROCYCLE TECHNOLOGIES"
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2507694",
+          "title": "SBIR Phase I: Low-Cost, Waste-Resilient Polyethylene Terephthalate (PET) and Polyester Upcycling Through Macrocyclic Chemistry",
+          "awardeeName": "MACROCYCLE TECHNOLOGIES",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "CLAULHJTH996",
+          "date": "08/20/2025",
+          "startDate": "10/01/2025",
+          "expDate": "09/30/2026",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "macrocycle"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
       "candidate_id": "mit-tlo-5b2ee31371b284ff",
       "uei": null,
       "names": [
@@ -1041,6 +1155,137 @@
       ],
       "existing_company_suggestions": [
         "osmoses"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-QRR3ELYYB486",
+      "uei": "QRR3ELYYB486",
+      "names": [
+        "PEARL BIO, INC."
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2233560",
+          "title": "SBIR Phase I:  Consolidated platform to engineer and produce novel biopolymers for improved biologics",
+          "awardeeName": "PEARL BIO, INC.",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "QRR3ELYYB486",
+          "date": "07/17/2023",
+          "startDate": "08/01/2023",
+          "expDate": "01/31/2024",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "pearl-bio"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-P68VNM5WG9G3",
+      "uei": "P68VNM5WG9G3",
+      "names": [
+        "QUANTIVLY, INC."
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2304514",
+          "title": "SBIR Phase II:  Building the digital twin of radiology operations",
+          "awardeeName": "QUANTIVLY, INC.",
+          "awardeeCity": "SOMERVILLE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "P68VNM5WG9G3",
+          "date": "07/05/2023",
+          "startDate": "07/15/2023",
+          "expDate": "06/30/2027",
+          "activeAwd": "true",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "quantivly"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-QER2JH51MWC3",
+      "uei": "QER2JH51MWC3",
+      "names": [
+        "ROBIGO, INC."
+      ],
+      "website_candidates": [],
+      "directory_observations": [],
+      "award_observations": [
+        {
+          "id": "2232769",
+          "title": "SBIR Phase I:  Engineering the Plant Microbiome to Reduce Disease in Crops",
+          "awardeeName": "ROBIGO, INC.",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "QER2JH51MWC3",
+          "date": "04/27/2023",
+          "startDate": "05/01/2023",
+          "expDate": "04/30/2025",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        },
+        {
+          "id": "2528810",
+          "title": "SBIR Phase II: Engineering the Plant Microbiome to Reduce Disease in Crops",
+          "awardeeName": "ROBIGO, INC.",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "QER2JH51MWC3",
+          "date": "09/04/2025",
+          "startDate": "09/15/2025",
+          "expDate": "08/31/2027",
+          "activeAwd": "true",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
+          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "robigo"
       ],
       "identity_status": "candidate-only",
       "name_collision": false,
@@ -1515,42 +1760,6 @@
           "source_sha256": "6ace57104b987f7ff015607609bb532d71e0e16a51a2e968f3e916c794c2609c",
           "checked_on": "2026-11-01",
           "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
-      "candidate_id": "nsf-uei-LS1ERNQKZAD1",
-      "uei": "LS1ERNQKZAD1",
-      "names": [
-        "ADDEN ENERGY INC"
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2335454",
-          "title": "STTR Phase I: Advanced Lithium Metal Anodes for Solid-State Batteries",
-          "awardeeName": "ADDEN ENERGY INC",
-          "awardeeCity": "WALTHAM",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "LS1ERNQKZAD1",
-          "date": "03/22/2024",
-          "startDate": "04/01/2024",
-          "expDate": "12/31/2024",
-          "activeAwd": "false",
-          "fundProgramName": "STTR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=STTR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
-          "source_sha256": "029f5183f8d4bb18c5faf7bdf3becff6cb0a3551f6d4fd4d4f76ce2f94117142",
-          "checked_on": "2026-11-01",
-          "query": "STTR"
         }
       ],
       "existing_company_suggestions": [],
@@ -2230,42 +2439,6 @@
           "fundProgramName": "SBIR Phase I",
           "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
           "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
-      "candidate_id": "nsf-uei-HMN7FWLXJ1H4",
-      "uei": "HMN7FWLXJ1H4",
-      "names": [
-        "DYNOCARDIA, INC."
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2423296",
-          "title": "SBIR Phase II:   Development of motion artifact correction systems for ViTrack: an accurate, continuous, and non-invasive blood pressure monitor",
-          "awardeeName": "DYNOCARDIA, INC.",
-          "awardeeCity": "NEWTON CENTER",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "HMN7FWLXJ1H4",
-          "date": "08/30/2024",
-          "startDate": "09/15/2024",
-          "expDate": "08/31/2026",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
-          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
           "checked_on": "2026-11-01",
           "query": "SBIR"
         }
@@ -3069,42 +3242,6 @@
       "next_review": "find-independent-explicit-company-domain"
     },
     {
-      "candidate_id": "nsf-uei-CLAULHJTH996",
-      "uei": "CLAULHJTH996",
-      "names": [
-        "MACROCYCLE TECHNOLOGIES"
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2507694",
-          "title": "SBIR Phase I: Low-Cost, Waste-Resilient Polyethylene Terephthalate (PET) and Polyester Upcycling Through Macrocyclic Chemistry",
-          "awardeeName": "MACROCYCLE TECHNOLOGIES",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "CLAULHJTH996",
-          "date": "08/20/2025",
-          "startDate": "10/01/2025",
-          "expDate": "09/30/2026",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
-          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
       "candidate_id": "nsf-uei-REU5RBMEH8M5",
       "uei": "REU5RBMEH8M5",
       "names": [
@@ -3820,42 +3957,6 @@
       "next_review": "find-independent-explicit-company-domain"
     },
     {
-      "candidate_id": "nsf-uei-QRR3ELYYB486",
-      "uei": "QRR3ELYYB486",
-      "names": [
-        "PEARL BIO, INC."
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2233560",
-          "title": "SBIR Phase I:  Consolidated platform to engineer and produce novel biopolymers for improved biologics",
-          "awardeeName": "PEARL BIO, INC.",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "QRR3ELYYB486",
-          "date": "07/17/2023",
-          "startDate": "08/01/2023",
-          "expDate": "01/31/2024",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
-          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
       "candidate_id": "nsf-uei-F7TPPF327KN6",
       "uei": "F7TPPF327KN6",
       "names": [
@@ -3958,42 +4059,6 @@
       "name_collision": false,
       "geography": "MIT affiliation only; Boston-region presence requires review",
       "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
-      "candidate_id": "nsf-uei-P68VNM5WG9G3",
-      "uei": "P68VNM5WG9G3",
-      "names": [
-        "QUANTIVLY, INC."
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2304514",
-          "title": "SBIR Phase II:  Building the digital twin of radiology operations",
-          "awardeeName": "QUANTIVLY, INC.",
-          "awardeeCity": "SOMERVILLE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "P68VNM5WG9G3",
-          "date": "07/05/2023",
-          "startDate": "07/15/2023",
-          "expDate": "06/30/2027",
-          "activeAwd": "true",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
-          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "find-independent-explicit-company-domain"
@@ -4273,59 +4338,6 @@
           "fundProgramName": "SBIR Phase I",
           "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
           "source_sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "find-independent-explicit-company-domain"
-    },
-    {
-      "candidate_id": "nsf-uei-QER2JH51MWC3",
-      "uei": "QER2JH51MWC3",
-      "names": [
-        "ROBIGO, INC."
-      ],
-      "website_candidates": [],
-      "directory_observations": [],
-      "award_observations": [
-        {
-          "id": "2232769",
-          "title": "SBIR Phase I:  Engineering the Plant Microbiome to Reduce Disease in Crops",
-          "awardeeName": "ROBIGO, INC.",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "QER2JH51MWC3",
-          "date": "04/27/2023",
-          "startDate": "05/01/2023",
-          "expDate": "04/30/2025",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
-          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        },
-        {
-          "id": "2528810",
-          "title": "SBIR Phase II: Engineering the Plant Microbiome to Reduce Disease in Crops",
-          "awardeeName": "ROBIGO, INC.",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "QER2JH51MWC3",
-          "date": "09/04/2025",
-          "startDate": "09/15/2025",
-          "expDate": "08/31/2027",
-          "activeAwd": "true",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
-          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
           "checked_on": "2026-11-01",
           "query": "SBIR"
         }

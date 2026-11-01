@@ -1,0 +1,550 @@
+{
+  "id": "nsf-candidates-phase15-reviewed",
+  "checked_on": "2026-11-01",
+  "companies": [
+    {
+      "id": "adden-energy",
+      "name": "Adden Energy",
+      "website": "https://addenenergy.com",
+      "careers_url": "https://addenenergy.com/careers/",
+      "industries": [
+        "Energy storage"
+      ],
+      "summary": "Develops solid-state battery technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Company careers page labels jobs Boston Area; footer states Waltham. Listings are navigation leads, not a verified live-vacancy count.",
+      "evidence": [
+        {
+          "url": "https://addenenergy.com",
+          "publisher": "Adden Energy",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "ac6b256c1e6d07c5853df0333597b7ea7211b1adb05901ed7d5e4051177f7452",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://otd.harvard.edu/news/fast-charging-over-10-000-cycles/",
+          "publisher": "Harvard Office of Technology Development",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "c4cf56da7438d95d145553f67f1856822a39dc573ad9b517ded08cc4b4c7ba17",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://addenenergy.com/careers/",
+          "publisher": "Adden Energy",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "be99bae39d1b45a652acba21889bd8cd1dd8bc0a5e69e4a11835df388f1336d2",
+          "note": "Company-stated Waltham contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://addenenergy.com/careers/",
+          "publisher": "Adden Energy",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "be99bae39d1b45a652acba21889bd8cd1dd8bc0a5e69e4a11835df388f1336d2",
+          "note": "Company careers page labels jobs Boston Area; footer states Waltham. Listings are navigation leads, not a verified live-vacancy count."
+        }
+      ]
+    },
+    {
+      "id": "macrocycle",
+      "name": "MacroCycle Technologies",
+      "website": "https://macrocycle.tech/",
+      "careers_url": "https://jobs.polymer.co/macrocycle-technologies",
+      "industries": [
+        "Polymer recycling"
+      ],
+      "summary": "Develops chemical upcycling of polyester textiles.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Official company-linked Polymer board; role availability and count not independently verified. MIT board can omit roles shown on the official board.",
+      "evidence": [
+        {
+          "url": "https://macrocycle.tech/",
+          "publisher": "MacroCycle Technologies",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "129a40526e617564ae918165e2a678d54c193afb04a7d9ef5eab8d6ce29e2fa3",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://jobs.orbit.mit.edu/companies/macrocycle",
+          "publisher": "MIT Orbit",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "644254101963d0a9eecdff313ab8ea72c6441b3fee42198fbeb4d539074c9f09",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://macrocycle.tech/",
+          "publisher": "MacroCycle Technologies",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "129a40526e617564ae918165e2a678d54c193afb04a7d9ef5eab8d6ce29e2fa3",
+          "note": "Company-stated Cambridge contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://jobs.polymer.co/macrocycle-technologies",
+          "publisher": "MacroCycle Technologies",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "14f14d9016b7ee5e41b50ff16b865c1009e1ecb07eeb4756823a23556162e9f2",
+          "note": "Official company-linked Polymer board; role availability and count not independently verified. MIT board can omit roles shown on the official board."
+        }
+      ]
+    },
+    {
+      "id": "robigo",
+      "name": "Robigo",
+      "website": "https://www.robigo.bio/",
+      "careers_url": "https://www.robigo.bio/careers",
+      "industries": [
+        "Agricultural biotechnology"
+      ],
+      "summary": "Engineers microbes for crop protection.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Careers page currently says Coming soon. A route for future opportunities, not confirmation of an open vacancy.",
+      "evidence": [
+        {
+          "url": "https://www.robigo.bio/",
+          "publisher": "Robigo",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "de8064dfd66ff000ea9cc43e075977feb0bb473a6100e8d2e7af8b923a8bfa31",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://news.mit.edu/2026/robigo-gives-farmers-more-sustainable-way-protect-crops-0903",
+          "publisher": "MIT News",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "45841f44b5a7eab55fb22c9703e22430b4469db5310d2694531e78eaea4717c6",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://www.robigo.bio/contact",
+          "publisher": "Robigo",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "5212893e059869e521bd1d0781f1e3b6cdce1602d7aa37c9ca7f9f5f45f2658b",
+          "note": "Company-stated Cambridge contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.robigo.bio/careers",
+          "publisher": "Robigo",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b58ccff70011cdf5bfd535c532ee3ed466060230c51f2f9924a7b5d3277fe712",
+          "note": "Careers page currently says Coming soon. A route for future opportunities, not confirmation of an open vacancy."
+        }
+      ]
+    },
+    {
+      "id": "pearl-bio",
+      "name": "Pearl Bio",
+      "website": "https://www.pearlbio.com/",
+      "careers_url": "https://www.pearlbio.com/careers/",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops synthetic-biology platforms for biologics and biomaterials.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Company careers page is the hiring route; investor-board size and founding year are un-dated signals and are not adopted. No verified vacancy count.",
+      "evidence": [
+        {
+          "url": "https://www.pearlbio.com/",
+          "publisher": "Pearl Bio",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "97b6d3790513a96c0f6d9bacc181ffd519c17cf8f8fe0f77a4654f598ed05c3d",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://jobs.khoslaventures.com/companies/pearl-bio",
+          "publisher": "Khosla Ventures job board",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b9c9e9900b99fa01b3ead73f7ef7fddfab7a18bdfc9da6942aac8ccbc2f9e383",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://www.pearlbio.com/contact/",
+          "publisher": "Pearl Bio",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "8e0d7fdf0656eb28d849ff1b217239bde8e60a01e80957beb6d5991ddf5892e6",
+          "note": "Company-stated Cambridge contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.pearlbio.com/careers/",
+          "publisher": "Pearl Bio",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "308ccbfa14948373feb94c544792f61f2209f7b14913fb496b916bf0ae67e1b2",
+          "note": "Company careers page is the hiring route; investor-board size and founding year are un-dated signals and are not adopted. No verified vacancy count."
+        }
+      ]
+    },
+    {
+      "id": "quantivly",
+      "name": "Quantivly",
+      "website": "https://quantivly.com/",
+      "careers_url": "https://quantivly.com/careers/",
+      "industries": [
+        "Medical imaging software"
+      ],
+      "summary": "Builds software for radiology operations analysis and simulation.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Official page invites engineering expressions of interest. It is not an enumerated live-vacancy board. Postal head-office address is not proof of lab or staffed-office occupancy.",
+      "evidence": [
+        {
+          "url": "https://quantivly.com/",
+          "publisher": "Quantivly",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1c886544ff42d9e30c773e4ee7e0428185b2ba77b1d18b3ad6f13b610556d567",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+          "publisher": "National Science Foundation",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-11-01",
+          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+          "note": "Award 2304514 names Quantivly and radiology digital-twin work. Its UEI exactly matches the official company legal page, establishing domain-owner identity; NSF does not itself publish a website link. Award city is historical, not current office proof."
+        },
+        {
+          "url": "https://quantivly.com/legal-informations/",
+          "publisher": "Quantivly",
+          "primary": true,
+          "fields": [
+            "name",
+            "website"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "3cb82faaab7c9bfbf4a83ee2e79354111dfb9fc328c8ca769ee8d050a1f635e5",
+          "note": "Official legal page publishes the exact UEI used for the NSF identity match."
+        },
+        {
+          "url": "https://quantivly.com/legal-informations/",
+          "publisher": "Quantivly",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "3cb82faaab7c9bfbf4a83ee2e79354111dfb9fc328c8ca769ee8d050a1f635e5",
+          "note": "Company-stated Somerville contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://quantivly.com/careers/",
+          "publisher": "Quantivly",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "bfa155203604a55b156c0da5e930a7d700b4f4387d8805f97bbcbd1ff9f0ed62",
+          "note": "Official page invites engineering expressions of interest. It is not an enumerated live-vacancy board. Postal head-office address is not proof of lab or staffed-office occupancy."
+        }
+      ]
+    },
+    {
+      "id": "mantel",
+      "name": "Mantel",
+      "website": "https://mantelcapture.com/",
+      "careers_url": "https://mantelcapture.com/careers/",
+      "industries": [
+        "Carbon capture"
+      ],
+      "summary": "Develops high-temperature materials for industrial carbon capture.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Official careers page embeds the Mantel Polymer board. Cambridge is a recruiting location; other listed roles are remote, including Canada. General-applicant posting dates to 2022. No office address or live vacancy count inferred.",
+      "evidence": [
+        {
+          "url": "https://mantelcapture.com/",
+          "publisher": "Mantel",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "87a27f85e9cd99a656978252402a07e1179eaf9032c9742a117427a31f95e614",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://engineventures.com/companies/mantel",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "e2a64b99fa92522b699349a02fa749414579de6a756fa2ba022ef3207f564287",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://jobs.polymer.co/mantel-capture-inc?source=metaintro",
+          "publisher": "Mantel",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "530a02a422a5688afd8a9c95d4fb28851eb264d142ff0f34866f0357e30e1c59",
+          "note": "Company-stated Cambridge contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://mantelcapture.com/careers/",
+          "publisher": "Mantel",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "da411ada3897507c1cd8b51432df8b2a5bfdf506caa38cf2fe7f72e30820af67",
+          "note": "Official careers page embeds the Mantel Polymer board. Cambridge is a recruiting location; other listed roles are remote, including Canada. General-applicant posting dates to 2022. No office address or live vacancy count inferred."
+        }
+      ]
+    },
+    {
+      "id": "dynocardia",
+      "name": "Dynocardia",
+      "website": "https://www.dynocardia.care/",
+      "careers_url": "https://www.dynocardia.care/careers",
+      "industries": [
+        "Medical devices"
+      ],
+      "summary": "Develops wearable continuous blood-pressure monitoring technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Newton",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated contact or recruiting city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Company and independent institutional/investor/government evidence corroborate identity, domain and broad technology. NSF candidate matching does not imply independently verified UEI ownership except where an exact company-published UEI is documented. No founding date, workforce, ownership, office footprint or live vacancy count inferred. Official recruiting page states Newton. Accelerator profile names Cambridge as historical origin; it is not substituted for current recruiting location. Role freshness and counts are unverified.",
+      "evidence": [
+        {
+          "url": "https://www.dynocardia.care/",
+          "publisher": "Dynocardia",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "423791f67aec335c0fec6cf75439926fd7f6038023580cf5064fb3396fa2e79a",
+          "note": "Official named company identity, domain and technology. Short factual fields only; no performance claims endorsed."
+        },
+        {
+          "url": "https://luminate.org/dynocardia/",
+          "publisher": "Luminate accelerator",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "19474f1a6981a92947470f355ade7c5e3e1480328a89b39d621a4975efccbed3",
+          "note": "Named institutional or investor page explicitly links company domain and corroborates broad technology. Portfolio evidence may repeat company information. Historical city, size and founding fields are not adopted."
+        },
+        {
+          "url": "https://www.dynocardia.care/careers",
+          "publisher": "Dynocardia",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "bb902390bc877e48ef58b92d71b301c7198fc04b099036d57e45c860a92e41f8",
+          "note": "Company-stated Newton contact or recruiting location; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.dynocardia.care/careers",
+          "publisher": "Dynocardia",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "bb902390bc877e48ef58b92d71b301c7198fc04b099036d57e45c860a92e41f8",
+          "note": "Official recruiting page states Newton. Accelerator profile names Cambridge as historical origin; it is not substituted for current recruiting location. Role freshness and counts are unverified."
+        }
+      ]
+    }
+  ]
+}

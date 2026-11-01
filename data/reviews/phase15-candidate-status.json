@@ -1,0 +1,2459 @@
+{
+  "summary": {
+    "total_groups": 170,
+    "status_counts": {
+      "accepted-new-company": 23,
+      "confirmed-existing-company": 4,
+      "pending-existing-identity": 8,
+      "pending-independent-company-domain": 83,
+      "pending-company-corroboration": 26,
+      "held-missing-official-link": 8,
+      "held-source-policy": 9,
+      "pending-identity-collision": 2,
+      "held-fetch-failure": 7
+    },
+    "new_verified_companies": 23,
+    "existing_identities_confirmed": 4,
+    "unresolved_groups": 143,
+    "phase15_reviewed_groups": 15,
+    "phase15_added_companies": 7,
+    "limitations": "Explicit review accounting, not a full verification of every NSF identity. Name-only NSF associations remain provisional except documented exact UEI matches."
+  },
+  "reviews": [
+    {
+      "candidate_id": "mit-tlo-1ab8c016974a0945",
+      "names": [
+        "Active Surfaces"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "active-surfaces",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.activesurfaces.xyz/",
+          "final_url": "https://www.activesurfaces.xyz/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "987c14c67a3dccf690825d3c78132f68ad46b94f0dc089d85ac6d48fd8a3a2ae"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-e289b6a372a11924",
+      "names": [
+        "AeroShield"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "aeroshield",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.aeroshield.tech/",
+          "final_url": "https://aeroshield.tech/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "89d8fef26c2b4935f8829c04f042073f5e466bf8e1e3662fbd0faea5fb34a1d7"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-03338472fe688d33",
+      "names": [
+        "Cambridge Terahertz"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "cambridge-terahertz",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.thzcorp.com/",
+          "final_url": "https://www.thzcorp.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "4111dc222c4ba49629d0b164cea304751c430ae0d66e8f3e08d0c255bbbae24b"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-LE2UZ9EC2KQ4",
+      "names": [
+        "CARTESIAN SYSTEMS, INC.",
+        "Cartesian Systems"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "cartesian-systems",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.cartesian.systems/",
+          "final_url": "https://www.cartesian.systems/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "501364597237d5a41f2859dd8ba68001761967915d76eda31b5ca8288d859211"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-09450f78ace5d8ee",
+      "names": [
+        "Cellarray"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "cellarray",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.cellarraytech.com/",
+          "final_url": "https://www.cellarraytech.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "5bd6d2ac840e599f3b9a23f724716be0c0d4a780d1bd95ea536d311da113f414"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-d511f3cad0421473",
+      "names": [
+        "Crabi Robotics"
+      ],
+      "status": "confirmed-existing-company",
+      "company_id": "crabi-robotics",
+      "note": "Named TLO explicit domain and official website agree with existing canonical domain; stable company ID retained, no duplicate created.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.crabi-robotics.com/",
+          "final_url": "https://www.crabi-robotics.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "0cdbc78c77e94b6d9b434341460cdc0a0e56cf8a46aa4e8ead0b9002956117e0"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-b5d216294501d5fd",
+      "names": [
+        "Electrified Thermal Solutions"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "electrified-thermal-solutions",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://electrifiedthermal.com/",
+          "final_url": "https://electrifiedthermal.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "1d556d3ae544efc9b62f1b274ea484f81ad668797318092baaaf8996cd12ca76"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-0d9585d83daf578a",
+      "names": [
+        "Elementium Materials"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "elementium-materials",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://elementium.io/",
+          "final_url": "https://elementium.io/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "599f4775ae335d0d541c959de98578c6c141e3fe03623b7b25be362bca2d6a00"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-9faf206ce09d655f",
+      "names": [
+        "Emvolon"
+      ],
+      "status": "confirmed-existing-company",
+      "company_id": "emvolon",
+      "note": "Named TLO explicit domain and official website agree with existing canonical domain; stable company ID retained, no duplicate created.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://emvolon.com/",
+          "final_url": "https://www.emvolon.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "9f57a9058c90c3ea4e98ca862d8a33502ac0e317b07189cddf5e39511f4c4bc3"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-f9fdd827931afd2f",
+      "names": [
+        "G5 Labs"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "g5-labs",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.g5labs.ai/",
+          "final_url": "https://g5labs.ai/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "9bd7c2364c204c4d13c826c02eb48341aeacdee57cf7d5163ebcff89215fd647"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-YN7ZYGUBZMZ5",
+      "names": [
+        "GAIA AI, INC"
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-601ab28942c3b2c1",
+      "names": [
+        "IDX20"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "idx20",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://idx20.us/",
+          "final_url": "https://idx20.us/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "05c1e06941e3e259b77156445e5ce1ec84c4708af7b129d39a5c56f874cea1ab"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-eb575c04ed42440b",
+      "names": [
+        "InnDura Therapeutics"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "inndura-therapeutics",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.inndura.com/",
+          "final_url": "https://www.inndura.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "ae479504b1a8d782b5e5bd2b6ca95e6430187a1083b7de253ab60b4e6501a7d5"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-E4LRXHW2EKS5",
+      "names": [
+        "INNOTECH PRECISION MEDICINE, INC"
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-1c84caa7a1756e29",
+      "names": [
+        "Kano Therapeutics"
+      ],
+      "status": "confirmed-existing-company",
+      "company_id": "kano",
+      "note": "Named TLO explicit domain and official website agree with existing canonical domain; stable company ID retained, no duplicate created.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://kanotherapeutics.com/",
+          "final_url": "https://kanotherapeutics.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "991a8ad5f6c19113c5dd2f4000b6a99d705157d7e026ea3b39b31855152c423e"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-QFMAHRKBJMH2",
+      "names": [
+        "LIMAX BIOSCIENCES, INC."
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-5b2ee31371b284ff",
+      "names": [
+        "Magnendo"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "magnendo",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.magnendo.com/",
+          "final_url": "https://www.magnendo.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "f1564962da709a9f5e758f0829d616a5e9144f64dc880275f32b14404adc703d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-8161b21766407240",
+      "names": [
+        "Matrisome Bio"
+      ],
+      "status": "confirmed-existing-company",
+      "company_id": "matrisome-bio",
+      "note": "Named TLO explicit domain and official website agree with existing canonical domain; stable company ID retained, no duplicate created.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://matrisomebio.com/",
+          "final_url": "https://matrisomebio.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "a2a663691eb31af680f09088aa2f8f88273ac378238820214e97f4b1a602a4f7"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-MURFWBMTD7F7",
+      "names": [
+        "Nanopath Inc."
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-UUKGN9CKYMY3",
+      "names": [
+        "NEUROBIONICS INC",
+        "Neurobionics"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "neurobionics",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://neurobionics.io/",
+          "final_url": "https://neurobionics.io/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "23d7da9e70786106e0fbfd80186ec29c96d13831e26f802264145d01f963519e"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-JVVCQDLHFWK1",
+      "names": [
+        "OSMOSES INC."
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-97023a62c768ea93",
+      "names": [
+        "SanaHeal"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "sanaheal",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://sanaheal.com/",
+          "final_url": "https://sanaheal.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "997b33093629bbf3b159f7d6c3d97bac8b1fb88a3a3fcf7a05df06f3b5272e52"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-T2YZGBBPQCA9",
+      "names": [
+        "SANGTERA INC"
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-e52e645f21f66338",
+      "names": [
+        "Skyline Therapeutics"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "skyline-therapeutics",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.skytx.com/",
+          "final_url": "https://www.skytx.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "3617f45e669df2f712b49300549563e00fa81d610f4405478d00869334a03e7b"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-U8B5P58PX2T9",
+      "names": [
+        "SPACERAKE, INC."
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-T96WB9YLSG29",
+      "names": [
+        "TATUM ROBOTICS LLC"
+      ],
+      "status": "pending-existing-identity",
+      "company_id": null,
+      "note": "Name-only match to an existing company is a suggestion, not identity confirmation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-YSNVNNJFXEB8",
+      "names": [
+        "VECTORWAVE CORPORATION",
+        "VectorWave"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "vectorwave",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.vectorwave.com/",
+          "final_url": "https://www.vectorwave.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "fb6ab32e46e0eddd23eebc6efda06b72110aaa6327f6e5c7c32e9dfb2363a28d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-JFLXDJ3ZY975",
+      "names": [
+        "WINDOW THERAPEUTICS, INC.",
+        "Window Therapeutics"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "window-therapeutics",
+      "note": "Explicit MIT TLO plus company review accepted identity, sector and company-stated local place. No founding, ownership, staffing or live-vacancy inference. NSF UEI association remains a discovery suggestion, not independently verified.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://windowtx.com/",
+          "final_url": "https://windowtx.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "1b37647f05169fc337fa5d21a3dbdcedf06ed43c8affe3c4edf886c7af34a50e"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-E79BCBZLX3L6",
+      "names": [
+        "123 SEE, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-RYJ8NL66MTP3",
+      "names": [
+        "ABSCO THERAPEUTICS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-KUGFE2DLNNE9",
+      "names": [
+        "ADA TECH LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-LS1ERNQKZAD1",
+      "names": [
+        "Adden Energy"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "adden-energy",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://addenenergy.com",
+          "final_url": "https://addenenergy.com",
+          "status": "fetched",
+          "sha256": "ac6b256c1e6d07c5853df0333597b7ea7211b1adb05901ed7d5e4051177f7452",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://addenenergy.com"
+    },
+    {
+      "candidate_id": "nsf-uei-D499BMF9M9H3",
+      "names": [
+        "AKTTYVA THERAPEUTICS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-LGYCNTS5B8B8",
+      "names": [
+        "ALLIUM ENGINEERING, INC"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official site corroborates rebar technology and names a small leadership roster, but no current local municipality or dedicated careers route was established. Do not treat four leaders as total staff.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://allium.engineering/",
+          "final_url": "https://allium.engineering/",
+          "status": "fetched",
+          "sha256": "2a1e6d4c5a3ed0d76b09d3cdf1ba5c5e57893f3ad0f0b3a95f3950c709f6502a",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://allium.engineering/"
+    },
+    {
+      "candidate_id": "mit-tlo-128c441dbcc51c6f",
+      "names": [
+        "Alterego Ai"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-FTUHMF9LM4H1",
+      "names": [
+        "ANVIL DIAGNOSTICS INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-XTETLC9WRPJ3",
+      "names": [
+        "AVANPORE, LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-PVTXSDCD4E36",
+      "names": [
+        "BERKM INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-CLMACLFV88M4",
+      "names": [
+        "BETAFELD LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-C16MAJV41YM5",
+      "names": [
+        "BIODEVEK INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-V2HHGDEF15B1",
+      "names": [
+        "BIOSENS8, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-VJG6FPT5GCH6",
+      "names": [
+        "BLUEFUSION INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-ZPD5X7DEX9N1",
+      "names": [
+        "BRIGHTLIGHT PHOTONICS, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-RLV9WDWMT877",
+      "names": [
+        "CENTRAL CASTING AI INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-FSUGJKZRV285",
+      "names": [
+        "CIPHERSONIC LABS INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-H6Z4HLTJLT85",
+      "names": [
+        "CLEARVIEW OPTICS LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-UV7JJCC1EK89",
+      "names": [
+        "COMPLETIONAI LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-E7BNGS16LEP6",
+      "names": [
+        "DEEPCHARGE, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-MNLVAXTUHUM8",
+      "names": [
+        "DIFFRACT TECHNOLOGY, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-MQ6XFPDHMSR3",
+      "names": [
+        "DOTTIR LABS, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-HMN7FWLXJ1H4",
+      "names": [
+        "Dynocardia"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "dynocardia",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.dynocardia.care/",
+          "final_url": "https://www.dynocardia.care/",
+          "status": "fetched",
+          "sha256": "423791f67aec335c0fec6cf75439926fd7f6038023580cf5064fb3396fa2e79a",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.dynocardia.care/"
+    },
+    {
+      "candidate_id": "nsf-uei-Y334AMJL4AF3",
+      "names": [
+        "EDNA INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-D6K1B7WNFEZ4",
+      "names": [
+        "ELATEQ, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-CU2YCT1NWFJ5",
+      "names": [
+        "EMPALLO, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-R6CZN3JC27M9",
+      "names": [
+        "FLUENT METAL INC."
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official home/contact pages describe metal printing without current local address. MIT cofounder profile is useful historical context, not current company occupancy proof.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.fluentmetal.com/",
+          "final_url": "https://www.fluentmetal.com/",
+          "status": "fetched",
+          "sha256": "3af98683a0e8f188bda036f0a74f13764de03bba6886f3ff1e76357f3562f30e",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.fluentmetal.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-NLR3SLVDE8X6",
+      "names": [
+        "FOURIER LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-YV4XCBAXBX95",
+      "names": [
+        "FOURTH POWER, INC."
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Terms restrict website use to internal business/personal purposes; public-directory reuse not established. Held after terms review; no accepted company data.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://gofourth.com/careers/",
+          "final_url": "https://gofourth.com/careers/",
+          "status": "fetched",
+          "sha256": "96623e34939e3ef314a546b1d0415293eaeb1bc7b163cd6e0a6b01f3c761b53e",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://gofourth.com/careers/"
+    },
+    {
+      "candidate_id": "nsf-uei-W5HBG2REYJP3",
+      "names": [
+        "FUM TECHNOLOGIES, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-FXLBJVNRL4Q6",
+      "names": [
+        "GENCORES LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-ZM6ETFVNBES2",
+      "names": [
+        "GIWOTECH INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-PUT8PGBLNR19",
+      "names": [
+        "GNU COMPANY, LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-N1AGNSBANJF7",
+      "names": [
+        "GREENSIGHT AGRONOMICS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-GGD8GJ3Y8ZL3",
+      "names": [
+        "H2C ENERGY INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-U3NUHUW5MUE5",
+      "names": [
+        "Harvest Moon Automation"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-HLS1PGEJUNW8",
+      "names": [
+        "INIA BIOSCIENCES, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-98444b65ec3878de",
+      "names": [
+        "InSpek"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-YF5DSEAPMLH3",
+      "names": [
+        "IRONSIDES MEDICAL INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-US9TGN6FBWD7",
+      "names": [
+        "L-Infinity Labs, Inc."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-U4RCK62V3KK7",
+      "names": [
+        "LABBY INC."
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Current homepage, contact and careers return template body text and placeholder address/phone fields. MIT historical affiliation does not establish a usable current local company site; no placeholders imported.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.labbyinc.com",
+          "final_url": "https://www.labbyinc.com",
+          "status": "fetched",
+          "sha256": "ee65f8cf35acb3122a08d0ca91260fcb4cac2d06ea118202410f503cc8bb08a9",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.labbyinc.com"
+    },
+    {
+      "candidate_id": "nsf-uei-JU2MKMVRZ4M3",
+      "names": [
+        "Linton Lifesciences Inc"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-CED5YTKUQ5K5",
+      "names": [
+        "LYBRA BIO INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-DHUMYEYVBWQ5",
+      "names": [
+        "LYDIAN LABS, INC."
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Terms explicitly prohibit manual/automated crawling, scraping or spidering. Stopped after terms review; no ATS extraction or accepted company record.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.lydianlabs.com/careers",
+          "final_url": "https://www.lydianlabs.com/careers",
+          "status": "fetched",
+          "sha256": "83dfd24b70e5a3ac7b785865e76d83d1b909a7f3502803f7a2c4647b64175660",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.lydianlabs.com/careers"
+    },
+    {
+      "candidate_id": "nsf-uei-CLAULHJTH996",
+      "names": [
+        "MacroCycle Technologies"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "macrocycle",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://macrocycle.tech/",
+          "final_url": "https://macrocycle.tech/",
+          "status": "fetched",
+          "sha256": "129a40526e617564ae918165e2a678d54c193afb04a7d9ef5eab8d6ce29e2fa3",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://macrocycle.tech/"
+    },
+    {
+      "candidate_id": "nsf-uei-REU5RBMEH8M5",
+      "names": [
+        "Mantel"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "mantel",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://mantelcapture.com/",
+          "final_url": "https://mantelcapture.com/",
+          "status": "fetched",
+          "sha256": "87a27f85e9cd99a656978252402a07e1179eaf9032c9742a117427a31f95e614",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://mantelcapture.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-LRG5XDZ9U8C6",
+      "names": [
+        "MANUS ROBOTICS INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-C3ZSVA4QXSQ4",
+      "names": [
+        "MATERIALIZE BIO, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-EFGLLLKFX2S7",
+      "names": [
+        "MELLICELL, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-39c7483b5ba01e4e",
+      "names": [
+        "Mentix"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-QDXQAUWUC4P7",
+      "names": [
+        "MESPILUS INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-1f5dc202523d13e7",
+      "names": [
+        "MuscleMetrix"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-6b9bda417eb5832d",
+      "names": [
+        "Myconic"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-QH31LWUH9PS9",
+      "names": [
+        "MYRIAS OPTICS INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-VETQU8BHRZT7",
+      "names": [
+        "NOARA THERAPEUTICS CORP."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-PKSZBL9N9E49",
+      "names": [
+        "NOVAURUM BIOSCIENCES INCORPORATED"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-ERE5JFD78JB9",
+      "names": [
+        "ONECYTE BIOTECHNOLOGIES, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-ED7UNXTK2R25",
+      "names": [
+        "OPTIC FRINGE CORP."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-KEXLSALZCHY4",
+      "names": [
+        "OPTICAL WATERS LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-LGM1U2YJADL5",
+      "names": [
+        "ORION WAVE TECHNOLOGY CORPORATION"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-WRWDJ3LHZLN5",
+      "names": [
+        "PALENA THERAPEUTICS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-NC95ZKV4UHR3",
+      "names": [
+        "PARALLEL PIPES, LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-L37BXCHXLJZ5",
+      "names": [
+        "PATHFLOW INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-QRR3ELYYB486",
+      "names": [
+        "Pearl Bio"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "pearl-bio",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.pearlbio.com/",
+          "final_url": "https://www.pearlbio.com/",
+          "status": "fetched",
+          "sha256": "97b6d3790513a96c0f6d9bacc181ffd519c17cf8f8fe0f77a4654f598ed05c3d",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.pearlbio.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-F7TPPF327KN6",
+      "names": [
+        "PLANCK ENERGIES INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-EH85MU3XK4P5",
+      "names": [
+        "PLATFORM TECHNOLOGY VENTURES LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-5f0304c5b0c77a35",
+      "names": [
+        "Portal Insulin, LLC"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-P68VNM5WG9G3",
+      "names": [
+        "Quantivly"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "quantivly",
+      "note": "exact company-published UEI matched to NSF award. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://quantivly.com/",
+          "final_url": "https://quantivly.com/",
+          "status": "fetched",
+          "sha256": "1c886544ff42d9e30c773e4ee7e0428185b2ba77b1d18b3ad6f13b610556d567",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://quantivly.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-L317BC7P81M9",
+      "names": [
+        "QUANTUM FORMATICS CORP."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-R2XKUC52Q7N5",
+      "names": [
+        "QUARKSEN LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-J85HYQGMY8H5",
+      "names": [
+        "R7 INSTRUMENTS INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-L568YK6TWQU6",
+      "names": [
+        "RADIUS TECHNOLOGY SYSTEMS, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-RHS3E4BWRJ54",
+      "names": [
+        "RAYLIFE INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-SHDKHFGJNHT4",
+      "names": [
+        "REDPOINT ONCOLOGY, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-LHVFPCAFGKD8",
+      "names": [
+        "REMEDIUM BIO, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-Y9GPXDJBT9J5",
+      "names": [
+        "REVIVBIO, INC"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official page gives Cambridge contact address and protein engineering; independent domain-owner corroboration remains pending. Company report of a Harvard spotlight is not independent evidence until the cited report is reviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://revivbio.com/",
+          "final_url": "https://revivbio.com/",
+          "status": "fetched",
+          "sha256": "76039be08781c7e74b6a22d892dc08efd9894fd3e82cf77a0156b832837d772b",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://revivbio.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-QER2JH51MWC3",
+      "names": [
+        "Robigo"
+      ],
+      "status": "accepted-new-company",
+      "company_id": "robigo",
+      "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.robigo.bio/",
+          "final_url": "https://www.robigo.bio/",
+          "status": "fetched",
+          "sha256": "de8064dfd66ff000ea9cc43e075977feb0bb473a6100e8d2e7af8b923a8bfa31",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.robigo.bio/"
+    },
+    {
+      "candidate_id": "nsf-uei-MRSWMVK2KXW7",
+      "names": [
+        "RT MICRODX INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-LSE3NRMW8L25",
+      "names": [
+        "SALIENT PREDICTIONS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-T48JA3UHLVN7",
+      "names": [
+        "SEIA BIO INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-TJ7QJLPM1JM6",
+      "names": [
+        "SET THERAPEUTICS INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-KSX9Y5E2FBL4",
+      "names": [
+        "Silverside Detectors Inc."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-XDSHF4Q6RNM9",
+      "names": [
+        "SINGLE CRYSTAL DIAMOND INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-M1DNDSUDWKJ4",
+      "names": [
+        "SPADXTECH LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-E36QB8LNE9Y3",
+      "names": [
+        "SUBTIDAL, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-b4724bcf8ed9035f",
+      "names": [
+        "Suono Bio"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-W833A5GWX725",
+      "names": [
+        "SYNLIBRIS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-E5NUDLZ5FKQ3",
+      "names": [
+        "SYNSORYBIO, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-Q8HHVUDBSVZ9",
+      "names": [
+        "T33 DENTAL, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-C2A6BPV98DD9",
+      "names": [
+        "TENDER FOOD, INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-NB9ZFRQTUMG8",
+      "names": [
+        "Teradio Inc."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-KBNCTASV9SW9",
+      "names": [
+        "THEROMICS INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-ee643f49218181f0",
+      "names": [
+        "Tycho AI"
+      ],
+      "status": "held-missing-official-link",
+      "company_id": null,
+      "note": "Named MIT profile has no unique usable explicit external company link or could not be fetched. No URL guessed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-KCVEXQ3KJ4B1",
+      "names": [
+        "ULTRASONIUM INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-TDJXE5LLS6K5",
+      "names": [
+        "VARIABLES MACHINES COMPANY"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-JZD1YYDDCLP5",
+      "names": [
+        "Veramorph LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-EEUMAESHYBD5",
+      "names": [
+        "VOLTA ENERGY INC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-HQS8Q1VBKD41",
+      "names": [
+        "WILD MICROBES CO"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official page describes biomanufacturing but does not establish current local place or a hiring route. LinkedIn size/location snippets not imported.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.wildmicrobes.com/",
+          "final_url": "https://www.wildmicrobes.com/",
+          "status": "fetched",
+          "sha256": "835c1b1985dc6cd2e6546f6ba8f8ee15054196630b6a8543211f88f983932d6c",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.wildmicrobes.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-TECLWCL2Y953",
+      "names": [
+        "WURQ, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-QZRDBGN9MH97",
+      "names": [
+        "X-SIGHT INCORPORATED"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-C2QFNHLQHZA3",
+      "names": [
+        "XHEME INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-GUVKJ28WX6F9",
+      "names": [
+        "XL BATTERIES, INC"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Company states Marlborough and links a careers page. Independent domain-owner corroboration remains pending; restricted MassCEC data not used.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "requested_url": "https://www.xlbatteries.com/",
+          "final_url": "https://www.xlbatteries.com/",
+          "status": "fetched",
+          "sha256": "43aff91ae847df0bc421f899d2fe11eacdf4d92496d326d22316ab767f280910",
+          "checked_on": "2026-10-31"
+        }
+      ],
+      "website_candidate": "https://www.xlbatteries.com/"
+    },
+    {
+      "candidate_id": "nsf-uei-HETYT8EUPN41",
+      "names": [
+        "Z-POLYMERS, LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-J4H2SN6EYA94",
+      "names": [
+        "Zaiput Flow Technologies LLC"
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-Q6LNUTG3EXM7",
+      "names": [
+        "ZEPHYR INNOVATIONS, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-K8WDZGAUHZF1",
+      "names": [
+        "ZEPSOR TECHNOLOGIES, INC."
+      ],
+      "status": "pending-independent-company-domain",
+      "company_id": null,
+      "note": "NSF award facts are discovery evidence; an independently explicit company domain and current operations/location remain unreviewed.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-c50556da523fa7a0",
+      "names": [
+        "DMAT, LLC"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Explicit linked policy target is robots-disallowed; policy review incomplete. No DMAT record accepted; no retry or bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://dmat.co/",
+          "final_url": "https://dmat.co/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "f05d0551914772784e72221883104edce7db0b2aeac7629dbdfeef72861e3e75"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-5c522572d07ca1f8",
+      "names": [
+        "Glyphic Biotechnologies"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Explicit prohibition on systematic retrieval to compile a directory without permission. No company data accepted; deeper collection stopped.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://glyphic.bio/",
+          "final_url": "https://www.glyphic.bio/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "76c73c1ea0662ca268826920d53d92a73d99ec63dc2a5185a816f709994eaf94"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-c67d19761eff9b50",
+      "names": [
+        "Ground Truth Ag"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Linked terms prohibit automated and equivalent manual extraction. No company record accepted; deeper collection stopped.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.groundtruth.ag/",
+          "final_url": "https://groundtruth.ag/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "13dcfc56d8193a9f351f599013e6f3b04d117b18083bcb6e44f4fbd0462ad615"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-TSNFGHLZP317",
+      "names": [
+        "NONA TECHNOLOGIES",
+        "Nona Technologies"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Explicit automated and systematic data collection prohibition. Company data not accepted; deeper collection stopped.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.nona-technologies.com/",
+          "final_url": "https://www.nona-technologies.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "6b701ecc452872479faa90eee34c7116d65ac02f4ca4fe86d5ae63fd104492d6"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-9b3eb8ce919b5712",
+      "names": [
+        "Sesame Sustainability"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Linked website terms URL serves homepage content, without operative terms. No accepted company record; deeper collection held for clarification.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://sesamesustainability.com/",
+          "final_url": "https://sesamesustainability.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "c24a83cc0a5b770c6692ce2ee48c09ff0de648abb3555a9a0e612d4dc10a61f0"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-697f2ec8bbceafae",
+      "names": [
+        "Syntis Bio"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Explicit website scraping prohibition. No company record accepted; deeper collection stopped.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.syntis.bio/",
+          "final_url": "https://syntis.bio/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "9b5404acceb1f14ffb3f79448a34da907d12d00b9110a2676792da2cecced67d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-c836bccc60488455",
+      "names": [
+        "Vertical Semiconductor"
+      ],
+      "status": "held-source-policy",
+      "company_id": null,
+      "note": "Website use terms limit public/commercial reuse. Candidate from MIT retained; no company record accepted pending reuse clarification.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://verticalsemi.com/",
+          "final_url": "https://www.verticalsemi.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "29a58ecd965b9d4d0c8276659011abab2296ba19c804ccb496a0bfb8a54935ef"
+        }
+      ]
+    },
+    {
+      "candidate_id": "nsf-uei-CLR3CJS9KUB6",
+      "names": [
+        "RSTREAM RECYCLING INC"
+      ],
+      "status": "pending-identity-collision",
+      "company_id": null,
+      "note": "Distinct UEIs or shared domains remain separate; no name-only merge.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "nsf-uei-RWX9H6FF9EB5",
+      "names": [
+        "RSTREAM RECYCLING LLC"
+      ],
+      "status": "pending-identity-collision",
+      "company_id": null,
+      "note": "Distinct UEIs or shared domains remain separate; no name-only merge.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": []
+    },
+    {
+      "candidate_id": "mit-tlo-542829b97644978e",
+      "names": [
+        "AgZen"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Reviewed official homepage, about and jobs pages do not establish a current Boston-area company location. MIT lab location is not substituted.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.agzen.com/",
+          "final_url": "https://agzen.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "4926329af73f16c35126152103e5f97df1f1ce786097b223d62f273172890ca4"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-3e0fa8d18f56c58e",
+      "names": [
+        "Arculus Solutions"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official recruiting page names an on-site Alexandria, Virginia role. No reviewed current Boston company location; do not infer absence of other offices.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.arculus-solutions.com/",
+          "final_url": "https://www.arculus-solutions.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "c98b9493fc460cdf86c3a49095becf699dfd324a90f8e38e0299a35a29b7bda8"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-2ad97120595bd33a",
+      "names": [
+        "Area2.Ai"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Retrieved homepage exposes only a short title; identity, industry and current city need additional evidence.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://area2.ai/",
+          "final_url": "https://area2.ai/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "5bdc23886d610e9be16c3c75c0844d745f5bb5b9c487f54be8e4d3ab764d0003"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-66d0a3d64ceb472a",
+      "names": [
+        "Artificial Axon Labs"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official company science is identifiable, but reviewed page does not establish a current Boston-area company location.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.artificialaxonlabs.com/",
+          "final_url": "https://www.artificialaxonlabs.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "69b0a54c7988e609d671ca2e4973ab480b75335b3bf2309e07f0d4151106980d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-b6dcb0a2b40eda71",
+      "names": [
+        "Atlantic Quantum"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1082)>; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.atlantic-quantum.com/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] ssl/tls alert handshake failure (_ssl.c:1082)>"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-1bfb46ee60199f5b",
+      "names": [
+        "Avanti Battery Company"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Named directory domain redirects to an expired-domain sales page. Not accepted as a current company website.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://avanti.energy/",
+          "final_url": "https://expireddomains.com/domain/avanti.energy?utm_source=redi",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "effb12245f0842d4437e1d332f4e77e89ddf06fff78d4e2f0959dd1393c5fe4c"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-c81697c37bcc6a87",
+      "names": [
+        "Bilayer Therapeutics"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Retrieved page has no usable body content; current identity and city remain unresolved.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://bilayer-therapeutics.com/",
+          "final_url": "https://bilayer-therapeutics.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "6dc9c7fc93bb488bb0520a6c780a8d3c0fb5486a4711aca49b4c53fac7393023"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-5c6d2ffe81063d5c",
+      "names": [
+        "Cache DNA"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official Find us page states San Carlos, California headquarters; a current Boston-area operation is not established by MIT affiliation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.cache-dna.com/",
+          "final_url": "https://www.cache-dna.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "28793705777030f9c6db441fb1cc28aecc8615343451ceb04e16a6235a536253"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-0fca856232a56e71",
+      "names": [
+        "Codomax"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "robots unavailable HTTP 403; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.codomax.com/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "robots unavailable HTTP 403"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-b66644a95a566b6a",
+      "names": [
+        "CoFlo Medical"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official company site lacks a current city. Historic MIT competition and research affiliation are not current company occupancy evidence.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://coflo-medical.com/",
+          "final_url": "https://coflo-medical.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "5a8af8e1dd67524b7eb6021421d880350641d196005623f0306d9843e1c66960"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-468fe59cb45ae802",
+      "names": [
+        "Eva Technology Corp."
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "[Errno 8] nodename nor servname provided, or not known; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.evacorp.ai/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "[Errno 8] nodename nor servname provided, or not known"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-d6824bd441b78a23",
+      "names": [
+        "Found Energy"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Directory domain redirects to Found Industries; current site has a Found Energy division. Corporate identity/rename relationship needs explicit reconciliation.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.found.energy/",
+          "final_url": "https://found-industries.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "9cd8db84b0489e1007ec88bec5ceba5ca85c2787bbb89e2256dc48166e1b7551"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-a602f3bf50f6bb62",
+      "names": [
+        "Ikigai Labs"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Directory domain redirects to an acquisition announcement. Do not count an independently active Boston startup or substitute acquirer workforce/jobs.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.ikigailabs.io/",
+          "final_url": "https://www.celonis.com/news/article/ikigai-has-joined-celonis",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "c74fdca055e903779c68d08ad8de7d8ce2a634521296920f31317f7166e5186c"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-49ab1e9cd7cc547e",
+      "names": [
+        "Nocturnal"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Previously fetched gzip bytes decoded offline, without refetch. Page names Kendall Square and a 2027 launch; technology details and present business status are not sufficiently corroborated for acceptance.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.nocturnal.health/",
+          "final_url": "https://www.nocturnal.health/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "d38085670260df8c1e58c1e3318d316d5a32df7b1c7f3cd3b70f812e12648648"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-3d4743ea7900de09",
+      "names": [
+        "Omnipulse Biosciences"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "robots unavailable HTTP 301; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "http://www.omnipulsebio.com/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "robots unavailable HTTP 301"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-422b9d5b8b6f0d0f",
+      "names": [
+        "OptiCore"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Linked domain shows a Korean public optical-transceiver company. Relationship to the MIT directory entity and Boston presence are unresolved.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "http://opticoreinc.com/",
+          "final_url": "http://opticoreinc.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "8449569d55ba04ad0a93f3d4dad3c2929f859cfb46869ca8a07b7651d45054e5"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-e43b849e197d0aaf",
+      "names": [
+        "Perceptra"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official careers page lists San Francisco and Eindhoven roles. No current Boston-region company place is established; MIT adviser affiliation is not substituted.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.perceptra.io/",
+          "final_url": "https://www.perceptra.io/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "a34ba9341710902cdb5e00a16940c79afb76c71ca0ec723faec2ccc04a600f03"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-a3dd2fa8be13e68f",
+      "names": [
+        "RevelNext"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Directory name and current Revel Ostomy brand differ; current legal identity/brand relationship and Boston presence need corroboration.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://revelostomy.com/",
+          "final_url": "https://revelostomy.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "937c5cd9641f502e1cd177deabf5d4e51faa6c14373ac21173ba8aaf8e0e1e6d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-2e4ae21052405a6a",
+      "names": [
+        "Shift Tools For Sustainability"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "robots unavailable HTTP 403; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://shift.tools/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "robots unavailable HTTP 403"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-516720ad05b5992e",
+      "names": [
+        "SiTration"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Company republishes a Watertown press headline, but reviewed contact/careers pages do not establish current local occupancy. Recruiting page links LinkedIn, which is not fetched.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://sitration.com/",
+          "final_url": "https://www.sitration.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "2e077b5a1522e886ddc2c34de089e63d0352328a009fdf9fa5294d77ab2af07f"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-3385c29158c29bdd",
+      "names": [
+        "Sync Computing"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Directory domain redirects to an acquirer product. Current separate identity and Boston operation unresolved; no acquirer jobs substituted.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://synccomputing.com/",
+          "final_url": "https://capitalonesoftware.com/slingshot",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "f9485f6ca26aadb45df5238a54df9ccb7791653f1bf5b4a00f399a2182f71929"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-0ebd8aadbce4974c",
+      "names": [
+        "Thiozen"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official Join page points to LinkedIn; no destination extraction. Reviewed company pages do not establish current Boston-area office.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://thiozen.com/",
+          "final_url": "https://www.thiozen.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "914fe18d170e5dd4f9f37c653fba1a577db24b11a02fc1881b500ef833c94582"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-f86071279e8f06e5",
+      "names": [
+        "TI Solutions"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Boston references describe scientific advisers academic affiliations, not company offices. No precise or city company location inferred.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://temporalinterference.com/",
+          "final_url": "https://temporalinterference.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "ce47d0ea535a6c81ecd799eecc51d75d8154dda3415b89306b50c84787ffdfa5"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-a36b632056a222bf",
+      "names": [
+        "Tome Biosciences"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "[Errno 8] nodename nor servname provided, or not known; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://tome.bio/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "[Errno 8] nodename nor servname provided, or not known"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-2160fef35e4dec01",
+      "names": [
+        "VasoRX"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official contact gives San Diego, California and a private-mailbox label. No reviewed current Boston-area operation; no physical lab inferred.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.vasrx.com/",
+          "final_url": "https://www.vasrx.com/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "deb8b7e611016c172a4c6c4dd30be5e1e7399c3b6e5120f4d5b6ed9c01c3db1d"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-5877916023b12b8a",
+      "names": [
+        "VitaKey"
+      ],
+      "status": "held-fetch-failure",
+      "company_id": null,
+      "note": "robots disallow; no retry or alternate-access bypass.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://vitakey.com/",
+          "checked_on": "2026-10-31",
+          "status": "blocked-or-failed",
+          "reason": "robots disallow"
+        }
+      ]
+    },
+    {
+      "candidate_id": "mit-tlo-a1694e009f6a9ed5",
+      "names": [
+        "Xibus Systems"
+      ],
+      "status": "pending-company-corroboration",
+      "company_id": null,
+      "note": "Official site announces merger with Fluorityx. Historic Boston-region statement does not resolve current separate identity or operations.",
+      "checked_on": "2026-11-01",
+      "homepage_review_receipts": [
+        {
+          "url": "https://www.xibus.systems/",
+          "final_url": "https://www.xibus.systems/",
+          "checked_on": "2026-10-31",
+          "status": "fetched",
+          "sha256": "f862ea3c3e19e04390dc4ef94b46266e1ade50ec29344291ca9396acf687e1fd"
+        }
+      ]
+    }
+  ]
+}

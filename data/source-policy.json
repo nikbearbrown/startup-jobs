@@ -260,5 +260,32 @@
     "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
     "checked_on": "2026-11-01",
     "decision": "16 explicit company-plus-TLO identity/domain/sector reviews accepted with company-stated Boston-region place; ten official careers routes and six separately reviewed approximate contact-address positions. Four existing identities confirmed, including Kano Therapeutics as Kano; no duplicate. All 170 discovery groups have status accounting but 150 remain unresolved. Company pages and observed privacy/terms navigation reviewed; only short factual fields/links retained, no page prose or product assets republished. Skyline embedded website terms reviewed; no extraction prohibition observed. Current place is self-reported, not an independent occupancy audit. Source restrictions and failed-page holds remain enforced."
+  },
+  {
+    "source": "Lydian",
+    "url": "https://www.lydianlabs.com/terms-of-service",
+    "status": "held",
+    "checked_on": "2026-11-01",
+    "applies_to_domains": [
+      "lydianlabs.com"
+    ],
+    "decision": "Terms prohibit manual or automated crawl/scrape/spider extraction. Stopped after policy review; no company accepted and no ATS follow-through."
+  },
+  {
+    "source": "Fourth Power",
+    "url": "https://gofourth.com/terms-of-use/",
+    "status": "held",
+    "checked_on": "2026-11-01",
+    "applies_to_domains": [
+      "gofourth.com"
+    ],
+    "decision": "Website terms limit use to internal business/personal purposes and exclude commercial content reuse. Public-directory reuse not established; held without promoting extracted data."
+  },
+  {
+    "source": "Phase15 NSF candidate website review",
+    "status": "partial",
+    "url": "https://api.nsf.gov/services/v1/awards.json",
+    "checked_on": "2026-11-01",
+    "decision": "Seven companies accepted from explicit reviewed official/institutional/investor links or exact official UEI; source HTML remains local. Company pages with no linked terms inspected at navigation; linked terms checked where present. Lydian/Fourth Power held; Bayer robots403 stopped, independent MIT evidence used for Robigo. No claims of universal reuse license, complete roster or active vacancy counts."
   }
 ]

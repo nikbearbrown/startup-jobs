@@ -77,6 +77,26 @@
     ]
   },
   {
+    "company_id": "adden-energy",
+    "routes": [
+      {
+        "url": "https://addenenergy.com/careers/",
+        "scope": "company",
+        "label": "Adden Energy \u2014 Careers",
+        "source_url": "https://addenenergy.com",
+        "checked_on": "2026-11-01",
+        "source_sha256": "ac6b256c1e6d07c5853df0333597b7ea7211b1adb05901ed7d5e4051177f7452",
+        "target_status": "fetched",
+        "target_sha256": "be99bae39d1b45a652acba21889bd8cd1dd8bc0a5e69e4a11835df388f1336d2",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company careers page labels jobs Boston Area; footer states Waltham. Listings are navigation leads, not a verified live-vacancy count."
+      }
+    ]
+  },
+  {
     "company_id": "addis-energy",
     "routes": [
       {
@@ -536,6 +556,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "dynocardia",
+    "routes": [
+      {
+        "url": "https://www.dynocardia.care/careers",
+        "scope": "company",
+        "label": "Dynocardia \u2014 Careers",
+        "source_url": "https://www.dynocardia.care/contact-1",
+        "checked_on": "2026-11-01",
+        "source_sha256": "5970b882cdd9084be5aecebb8aa0350080f275272ce65736994b1de8b2c2e175",
+        "target_status": "fetched",
+        "target_sha256": "bb902390bc877e48ef58b92d71b301c7198fc04b099036d57e45c860a92e41f8",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official recruiting page states Newton. Accelerator profile names Cambridge as historical origin; it is not substituted for current recruiting location. Role freshness and counts are unverified."
       }
     ]
   },
@@ -1070,6 +1110,26 @@
     ]
   },
   {
+    "company_id": "macrocycle",
+    "routes": [
+      {
+        "url": "https://jobs.polymer.co/macrocycle-technologies",
+        "scope": "company",
+        "label": "MacroCycle Technologies \u2014 Careers",
+        "source_url": "https://macrocycle.tech/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "129a40526e617564ae918165e2a678d54c193afb04a7d9ef5eab8d6ce29e2fa3",
+        "target_status": "fetched",
+        "target_sha256": "14f14d9016b7ee5e41b50ff16b865c1009e1ecb07eeb4756823a23556162e9f2",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company-linked Polymer board; role availability and count not independently verified. MIT board can omit roles shown on the official board."
+      }
+    ]
+  },
+  {
     "company_id": "maglev-aero",
     "routes": [
       {
@@ -1107,6 +1167,26 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified",
         "review_note": "Company careers page describes on-site Newton roles. Current office address and vacancy counts are unverified."
+      }
+    ]
+  },
+  {
+    "company_id": "mantel",
+    "routes": [
+      {
+        "url": "https://mantelcapture.com/careers/",
+        "scope": "company",
+        "label": "Mantel \u2014 Careers",
+        "source_url": "https://mantelcapture.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "87a27f85e9cd99a656978252402a07e1179eaf9032c9742a117427a31f95e614",
+        "target_status": "fetched",
+        "target_sha256": "da411ada3897507c1cd8b51432df8b2a5bfdf506caa38cf2fe7f72e30820af67",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official careers page embeds the Mantel Polymer board. Cambridge is a recruiting location; other listed roles are remote, including Canada. General-applicant posting dates to 2022. No office address or live vacancy count inferred."
       }
     ]
   },
@@ -1284,6 +1364,26 @@
     ]
   },
   {
+    "company_id": "pearl-bio",
+    "routes": [
+      {
+        "url": "https://www.pearlbio.com/careers/",
+        "scope": "company",
+        "label": "Pearl Bio \u2014 Careers",
+        "source_url": "https://www.pearlbio.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "97b6d3790513a96c0f6d9bacc181ffd519c17cf8f8fe0f77a4654f598ed05c3d",
+        "target_status": "fetched",
+        "target_sha256": "308ccbfa14948373feb94c544792f61f2209f7b14913fb496b916bf0ae67e1b2",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company careers page is the hiring route; investor-board size and founding year are un-dated signals and are not adopted. No verified vacancy count."
+      }
+    ]
+  },
+  {
     "company_id": "postera",
     "routes": [
       {
@@ -1318,6 +1418,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "quantivly",
+    "routes": [
+      {
+        "url": "https://quantivly.com/careers/",
+        "scope": "company",
+        "label": "Quantivly \u2014 Careers",
+        "source_url": "https://quantivly.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "1c886544ff42d9e30c773e4ee7e0428185b2ba77b1d18b3ad6f13b610556d567",
+        "target_status": "fetched",
+        "target_sha256": "bfa155203604a55b156c0da5e930a7d700b4f4387d8805f97bbcbd1ff9f0ed62",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official page invites engineering expressions of interest. It is not an enumerated live-vacancy board. Postal head-office address is not proof of lab or staffed-office occupancy."
       }
     ]
   },
@@ -1453,6 +1573,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "robigo",
+    "routes": [
+      {
+        "url": "https://www.robigo.bio/careers",
+        "scope": "company",
+        "label": "Robigo \u2014 Careers",
+        "source_url": "https://www.robigo.bio/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "de8064dfd66ff000ea9cc43e075977feb0bb473a6100e8d2e7af8b923a8bfa31",
+        "target_status": "fetched",
+        "target_sha256": "b58ccff70011cdf5bfd535c532ee3ed466060230c51f2f9924a7b5d3277fe712",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Careers page currently says Coming soon. A route for future opportunities, not confirmation of an open vacancy."
       }
     ]
   },

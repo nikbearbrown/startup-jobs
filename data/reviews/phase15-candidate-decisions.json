@@ -1,0 +1,294 @@
+[
+  {
+    "candidate_id": "nsf-uei-LGYCNTS5B8B8",
+    "names": [
+      "ALLIUM ENGINEERING, INC"
+    ],
+    "website_candidate": "https://allium.engineering/",
+    "status": "pending-company-corroboration",
+    "note": "Official site corroborates rebar technology and names a small leadership roster, but no current local municipality or dedicated careers route was established. Do not treat four leaders as total staff.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://allium.engineering/",
+        "final_url": "https://allium.engineering/",
+        "status": "fetched",
+        "sha256": "2a1e6d4c5a3ed0d76b09d3cdf1ba5c5e57893f3ad0f0b3a95f3950c709f6502a",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-HQS8Q1VBKD41",
+    "names": [
+      "WILD MICROBES CO"
+    ],
+    "website_candidate": "https://www.wildmicrobes.com/",
+    "status": "pending-company-corroboration",
+    "note": "Official page describes biomanufacturing but does not establish current local place or a hiring route. LinkedIn size/location snippets not imported.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.wildmicrobes.com/",
+        "final_url": "https://www.wildmicrobes.com/",
+        "status": "fetched",
+        "sha256": "835c1b1985dc6cd2e6546f6ba8f8ee15054196630b6a8543211f88f983932d6c",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-R6CZN3JC27M9",
+    "names": [
+      "FLUENT METAL INC."
+    ],
+    "website_candidate": "https://www.fluentmetal.com/",
+    "status": "pending-company-corroboration",
+    "note": "Official home/contact pages describe metal printing without current local address. MIT cofounder profile is useful historical context, not current company occupancy proof.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.fluentmetal.com/",
+        "final_url": "https://www.fluentmetal.com/",
+        "status": "fetched",
+        "sha256": "3af98683a0e8f188bda036f0a74f13764de03bba6886f3ff1e76357f3562f30e",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-Y9GPXDJBT9J5",
+    "names": [
+      "REVIVBIO, INC"
+    ],
+    "website_candidate": "https://revivbio.com/",
+    "status": "pending-company-corroboration",
+    "note": "Official page gives Cambridge contact address and protein engineering; independent domain-owner corroboration remains pending. Company report of a Harvard spotlight is not independent evidence until the cited report is reviewed.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://revivbio.com/",
+        "final_url": "https://revivbio.com/",
+        "status": "fetched",
+        "sha256": "76039be08781c7e74b6a22d892dc08efd9894fd3e82cf77a0156b832837d772b",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-GUVKJ28WX6F9",
+    "names": [
+      "XL BATTERIES, INC"
+    ],
+    "website_candidate": "https://www.xlbatteries.com/",
+    "status": "pending-company-corroboration",
+    "note": "Company states Marlborough and links a careers page. Independent domain-owner corroboration remains pending; restricted MassCEC data not used.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.xlbatteries.com/",
+        "final_url": "https://www.xlbatteries.com/",
+        "status": "fetched",
+        "sha256": "43aff91ae847df0bc421f899d2fe11eacdf4d92496d326d22316ab767f280910",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-U4RCK62V3KK7",
+    "names": [
+      "LABBY INC."
+    ],
+    "website_candidate": "https://www.labbyinc.com",
+    "status": "pending-company-corroboration",
+    "note": "Current homepage, contact and careers return template body text and placeholder address/phone fields. MIT historical affiliation does not establish a usable current local company site; no placeholders imported.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.labbyinc.com",
+        "final_url": "https://www.labbyinc.com",
+        "status": "fetched",
+        "sha256": "ee65f8cf35acb3122a08d0ca91260fcb4cac2d06ea118202410f503cc8bb08a9",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-DHUMYEYVBWQ5",
+    "names": [
+      "LYDIAN LABS, INC."
+    ],
+    "website_candidate": "https://www.lydianlabs.com/careers",
+    "status": "held-source-policy",
+    "note": "Terms explicitly prohibit manual/automated crawling, scraping or spidering. Stopped after terms review; no ATS extraction or accepted company record.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.lydianlabs.com/careers",
+        "final_url": "https://www.lydianlabs.com/careers",
+        "status": "fetched",
+        "sha256": "83dfd24b70e5a3ac7b785865e76d83d1b909a7f3502803f7a2c4647b64175660",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-YV4XCBAXBX95",
+    "names": [
+      "FOURTH POWER, INC."
+    ],
+    "website_candidate": "https://gofourth.com/careers/",
+    "status": "held-source-policy",
+    "note": "Terms restrict website use to internal business/personal purposes; public-directory reuse not established. Held after terms review; no accepted company data.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://gofourth.com/careers/",
+        "final_url": "https://gofourth.com/careers/",
+        "status": "fetched",
+        "sha256": "96623e34939e3ef314a546b1d0415293eaeb1bc7b163cd6e0a6b01f3c761b53e",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-LS1ERNQKZAD1",
+    "names": [
+      "Adden Energy"
+    ],
+    "website_candidate": "https://addenenergy.com",
+    "status": "accepted-new-company",
+    "company_id": "adden-energy",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://addenenergy.com",
+        "final_url": "https://addenenergy.com",
+        "status": "fetched",
+        "sha256": "ac6b256c1e6d07c5853df0333597b7ea7211b1adb05901ed7d5e4051177f7452",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-CLAULHJTH996",
+    "names": [
+      "MacroCycle Technologies"
+    ],
+    "website_candidate": "https://macrocycle.tech/",
+    "status": "accepted-new-company",
+    "company_id": "macrocycle",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://macrocycle.tech/",
+        "final_url": "https://macrocycle.tech/",
+        "status": "fetched",
+        "sha256": "129a40526e617564ae918165e2a678d54c193afb04a7d9ef5eab8d6ce29e2fa3",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-QER2JH51MWC3",
+    "names": [
+      "Robigo"
+    ],
+    "website_candidate": "https://www.robigo.bio/",
+    "status": "accepted-new-company",
+    "company_id": "robigo",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.robigo.bio/",
+        "final_url": "https://www.robigo.bio/",
+        "status": "fetched",
+        "sha256": "de8064dfd66ff000ea9cc43e075977feb0bb473a6100e8d2e7af8b923a8bfa31",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-QRR3ELYYB486",
+    "names": [
+      "Pearl Bio"
+    ],
+    "website_candidate": "https://www.pearlbio.com/",
+    "status": "accepted-new-company",
+    "company_id": "pearl-bio",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.pearlbio.com/",
+        "final_url": "https://www.pearlbio.com/",
+        "status": "fetched",
+        "sha256": "97b6d3790513a96c0f6d9bacc181ffd519c17cf8f8fe0f77a4654f598ed05c3d",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-P68VNM5WG9G3",
+    "names": [
+      "Quantivly"
+    ],
+    "website_candidate": "https://quantivly.com/",
+    "status": "accepted-new-company",
+    "company_id": "quantivly",
+    "note": "exact company-published UEI matched to NSF award. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://quantivly.com/",
+        "final_url": "https://quantivly.com/",
+        "status": "fetched",
+        "sha256": "1c886544ff42d9e30c773e4ee7e0428185b2ba77b1d18b3ad6f13b610556d567",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-REU5RBMEH8M5",
+    "names": [
+      "Mantel"
+    ],
+    "website_candidate": "https://mantelcapture.com/",
+    "status": "accepted-new-company",
+    "company_id": "mantel",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://mantelcapture.com/",
+        "final_url": "https://mantelcapture.com/",
+        "status": "fetched",
+        "sha256": "87a27f85e9cd99a656978252402a07e1179eaf9032c9742a117427a31f95e614",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  },
+  {
+    "candidate_id": "nsf-uei-HMN7FWLXJ1H4",
+    "names": [
+      "Dynocardia"
+    ],
+    "website_candidate": "https://www.dynocardia.care/",
+    "status": "accepted-new-company",
+    "company_id": "dynocardia",
+    "note": "named independent page with explicit company-domain link. Current city is company-stated contact or recruiting place; no workforce or live-vacancy inference.",
+    "checked_on": "2026-11-01",
+    "homepage_review_receipts": [
+      {
+        "requested_url": "https://www.dynocardia.care/",
+        "final_url": "https://www.dynocardia.care/",
+        "status": "fetched",
+        "sha256": "423791f67aec335c0fec6cf75439926fd7f6038023580cf5064fb3396fa2e79a",
+        "checked_on": "2026-10-31"
+      }
+    ]
+  }
+]
