@@ -60,11 +60,11 @@ def build(root=ROOT):
             by_id[eid]['hiring_routes']=routes
     records.sort(key=lambda r:r['id'])
     (root/'data/companies.json').write_text(json.dumps(records,indent=2,ensure_ascii=False)+'\n')
-    out=io.StringIO(); fields=['id','name','website','industries','cities','review_status','checked_on','source_urls','notes','careers_url','reviewed_hiring_urls','hiring_checked_on']
+    out=io.StringIO(); fields=['id','name','website','industries','cities','review_status','checked_on','source_urls','notes','careers_url','reviewed_hiring_urls','hiring_checked_on','hiring_review_notes']
     writer=csv.DictWriter(out,fieldnames=fields,lineterminator='\n');writer.writeheader()
     for r in records:
         values={k:r[k] for k in ('id','name','website','review_status','checked_on','notes')}
-        values.update(careers_url=r.get('careers_url'),reviewed_hiring_urls='; '.join(q['url'] for q in r.get('hiring_routes',[])),hiring_checked_on='; '.join(q['checked_on'] for q in r.get('hiring_routes',[])),industries='; '.join(r['industries']),cities='; '.join(f'{l["city"]}, {l["region"]}, {l["country"]}' for l in r['locations']),source_urls='; '.join(e['url'] for e in r['evidence']))
+        values.update(hiring_review_notes='; '.join(q.get('review_note','') for q in r.get('hiring_routes',[]) if q.get('review_note')),careers_url=r.get('careers_url'),reviewed_hiring_urls='; '.join(q['url'] for q in r.get('hiring_routes',[])),hiring_checked_on='; '.join(q['checked_on'] for q in r.get('hiring_routes',[])),industries='; '.join(r['industries']),cities='; '.join(f'{l["city"]}, {l["region"]}, {l["country"]}' for l in r['locations']),source_urls='; '.join(e['url'] for e in r['evidence']))
         # Neutralize spreadsheet formula injection while retaining canonical JSON text.
         writer.writerow({k:("'"+v if isinstance(v,str) and v.startswith(('=','+','-','@')) else v) for k,v in values.items()})
     (root/'data/companies.csv').write_text(out.getvalue())

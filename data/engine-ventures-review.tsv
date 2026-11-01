@@ -1,24 +1,30 @@
-name	industry	summary	city	address	address_source
-Addis Energy	Clean energy	Develops subsurface chemical processes for producing hydrogen and ammonia.	Somerville	100 Chestnut Street, Somerville, MA	https://addisenergy.com/contact/
-Amide	Biotechnology	Develops automated synthesis and manufacturing of complex peptides.	Waltham	300 2nd Avenue, Waltham, MA	https://www.amidetech.com/contact/
-Anthology	Biotechnology	Develops genome engineering tools for biomanufacturing.	Cambridge	750 Main Street, Cambridge, MA	https://anthology.bio/
-Commonwealth Fusion Systems	Clean energy	Develops superconducting magnets and tokamak fusion energy systems.	Devens	117 Hospital Road, Devens, MA	https://www.cfs.energy/devens-campus/overview/
-Copernic Catalysts	Industrial technology	Develops computationally designed catalysts for ammonia and other chemicals.	Cambridge		https://coperniccatalysts.com/
-Emvolon	Clean energy	Develops distributed systems that convert methane into liquid fuels and chemicals.	Woburn	30 Sixth Road, Woburn, MA	https://www.emvolon.com/contact
-Finwave	Semiconductors	Develops gallium nitride radio-frequency switches and power amplifiers.	Waltham	465 Waverley Oaks Road, Waltham, MA	https://finwavesemi.com/contact-us/
-HyperLight	Photonics	Develops integrated lithium niobate photonics for optical communications.	Cambridge	675 Massachusetts Avenue, Cambridge, MA	https://hyperlightcorp.com/contact
-ISEE	Robotics	Develops autonomous yard truck systems for logistics operations.	Cambridge	501 Massachusetts Avenue, Cambridge, MA	https://www.isee.ai/contact
-Kano	Biotechnology	Develops circular single-stranded DNA payloads for genetic medicine.	Cambridge	238 Main Street, Cambridge, MA	https://kanotherapeutics.com/contact/
-Kytopen	Biotechnology	Develops nonviral gene delivery tools for cell engineering and manufacturing.	Cambridge	750 Main Street, Cambridge, MA	https://www.kytopen.com/contact-us
-Matrisome Bio	Biotechnology	Develops therapies targeting the extracellular matrix of tumors.	Cambridge	700 Main Street, Cambridge, MA	https://matrisomebio.com/contact/
-Predicta	Biotechnology	Develops molecular diagnostics and genomic insights for blood cancer care.	Cambridge	750 Main Street, Cambridge, MA	https://www.predictabiosciences.com/contact/
-RISE Robotics	Robotics	Develops electric mechanical actuation systems for industrial machinery.	Somerville		https://www.riserobotics.com/
-Sublime Systems	Clean technology	Develops electrochemical processes to manufacture cement.	Somerville	28 Park Street, Somerville, MA	https://sublime-systems.com/
-Teradar	Sensing technology	Develops terahertz sensing systems for vehicles.	Boston	88 Black Falcon Avenue, Boston, MA	https://teradar.com/contact-us/
-Terrestrial Bio	Biotechnology	Develops microarray patches for delivery of therapeutics through skin.	Woburn	30 Cummings Park Drive, Woburn, MA	https://www.terrestrialbio.com/contact
-VEIR	Clean energy	Develops superconducting power delivery systems for data centers and grids.	Woburn	3 Gill Street, Woburn, MA	https://veir.com/contact-us
-Via Separations	Industrial technology	Develops membrane filtration systems for industrial separation processes.	Watertown		http://www.viaseparations.com
-Axiomatic AI	Artificial intelligence	Develops AI tools for verifiable scientific and engineering workflows.	Boston		https://axiomatic.ai/about/
-Droplet Biosciences	Biotechnology	Develops lymphatic-fluid molecular diagnostics for detecting residual cancer after surgery.	Cambridge		https://dropletbiosci.com/about/leadership-team/
-Pascal	Industrial technology	Develops cooling systems using solid refrigerants.	Watertown		https://www.pascaltechnology.com/careers
-WoHo	Construction technology	Develops building systems for architecture and construction.	Cambridge	501 Massachusetts Avenue, Cambridge, MA	https://www.woho.us/contact
+name	industry	summary	city	address	address_source	location_verification	location_note
+Addis Energy	Clean energy	Develops subsurface chemical processes for producing hydrogen and ammonia.	Somerville	100 Chestnut Street, Somerville, MA	https://addisenergy.com/contact/	""	""
+Amide	Biotechnology	Develops automated synthesis and manufacturing of complex peptides.	Waltham	300 2nd Avenue, Waltham, MA	https://www.amidetech.com/contact/	""	""
+Anthology	Biotechnology	Develops genome engineering tools for biomanufacturing.	Cambridge	750 Main Street, Cambridge, MA	https://anthology.bio/	""	""
+Commonwealth Fusion Systems	Clean energy	Develops superconducting magnets and tokamak fusion energy systems.	Devens	117 Hospital Road, Devens, MA	https://www.cfs.energy/devens-campus/overview/	""	""
+Copernic Catalysts	Industrial technology	Develops computationally designed catalysts for ammonia and other chemicals.	Cambridge		https://coperniccatalysts.com/	""	""
+Emvolon	Clean energy	Develops distributed systems that convert methane into liquid fuels and chemicals.	Woburn	30 Sixth Road, Woburn, MA	https://www.emvolon.com/contact	""	""
+Finwave	Semiconductors	Develops gallium nitride radio-frequency switches and power amplifiers.	Waltham	465 Waverley Oaks Road, Waltham, MA	https://finwavesemi.com/contact-us/	""	""
+HyperLight	Photonics	Develops integrated lithium niobate photonics for optical communications.	Cambridge	675 Massachusetts Avenue, Cambridge, MA	https://hyperlightcorp.com/contact	""	""
+ISEE	Robotics	Develops autonomous yard truck systems for logistics operations.	Cambridge	501 Massachusetts Avenue, Cambridge, MA	https://www.isee.ai/contact	""	""
+Kano	Biotechnology	Develops circular single-stranded DNA payloads for genetic medicine.	Cambridge	238 Main Street, Cambridge, MA	https://kanotherapeutics.com/contact/	""	""
+Kytopen	Biotechnology	Develops nonviral gene delivery tools for cell engineering and manufacturing.	Cambridge	750 Main Street, Cambridge, MA	https://www.kytopen.com/contact-us	""	""
+Matrisome Bio	Biotechnology	Develops therapies targeting the extracellular matrix of tumors.	Cambridge	700 Main Street, Cambridge, MA	https://matrisomebio.com/contact/	""	""
+Predicta	Biotechnology	Develops molecular diagnostics and genomic insights for blood cancer care.	Cambridge	750 Main Street, Cambridge, MA	https://www.predictabiosciences.com/contact/	""	""
+RISE Robotics	Robotics	Develops electric mechanical actuation systems for industrial machinery.	Somerville		https://www.riserobotics.com/	""	""
+Sublime Systems	Clean technology	Develops electrochemical processes to manufacture cement.	Somerville	28 Park Street, Somerville, MA	https://sublime-systems.com/	""	""
+Teradar	Sensing technology	Develops terahertz sensing systems for vehicles.	Boston	88 Black Falcon Avenue, Boston, MA	https://teradar.com/contact-us/	""	""
+Terrestrial Bio	Biotechnology	Develops microarray patches for delivery of therapeutics through skin.	Woburn	30 Cummings Park Drive, Woburn, MA	https://www.terrestrialbio.com/contact	""	""
+VEIR	Clean energy	Develops superconducting power delivery systems for data centers and grids.	Woburn	3 Gill Street, Woburn, MA	https://veir.com/contact-us	""	""
+Via Separations	Industrial technology	Develops membrane filtration systems for industrial separation processes.	Watertown		http://www.viaseparations.com	""	""
+Axiomatic AI	Artificial intelligence	Develops AI tools for verifiable scientific and engineering workflows.	Boston		https://axiomatic.ai/about/	""	""
+Droplet Biosciences	Biotechnology	Develops lymphatic-fluid molecular diagnostics for detecting residual cancer after surgery.	Cambridge		https://dropletbiosci.com/about/leadership-team/	""	""
+Pascal	Industrial technology	Develops cooling systems using solid refrigerants.	Watertown		https://www.pascaltechnology.com/careers	""	""
+WoHo	Construction technology	Develops building systems for architecture and construction.	Cambridge	501 Massachusetts Avenue, Cambridge, MA	https://www.woho.us/contact	""	""
+Cellino	Biotechnology	Develops automated cell manufacturing for personalized regenerative medicines.	Cambridge	750 Main Street, Cambridge, MA	https://cellinobio.com/contact-us	company-stated contact address	Official contact page lists 750 Main Street in Cambridge. A contact address does not establish the entire operating footprint.
+Biobot Analytics	Public health technology	Analyzes wastewater to monitor community-level pathogens and substances.	Cambridge		https://biobot.io/privacy-policy/	legal correspondence city; office unverified	Privacy notice updated May 12, 2026 gives Cambridge for legal/privacy correspondence. This is not verified as an operating office or laboratory; no precise map marker is assigned.
+Foray Bioscience	Biotechnology	Develops plant-cell production and software for plant biology.	Cambridge		https://jobs.polymer.co/foray-bioscience/41044	advertised job location; office unverified	Officially linked job board labels the role Cambridge and specifies on-site Greater Boston work. This establishes an advertised hiring region, not a verified street address or headquarters.
+Foundation Alloy	Advanced materials	Develops and manufactures engineering metal alloys using solid-state processing.			https://ats.rippling.com/foundation-alloy/jobs/f1b66169-fc5a-4c8d-b0c4-543dfc0f719b	regional presence; current city unresolved	Officially linked recruiting page describes a Boston-area company relocating from Cambridge to Woburn by early next year. Current city remains unresolved; planned relocation is not a verified present office. The investor profile links an October 9, 2026 headline reporting a Woburn move, which conflicts with the recruiting text; current location needs reconciliation.
+Osmoses	Industrial separation technology	Develops membranes for energy-efficient molecular separations.	Cambridge		https://jobs.polymer.co/osmoses/41707	advertised future job location; office unverified	Officially linked Spring 2027 role advertises in-person work in Cambridge at 750 Main Street. This is a future advertised worksite, not verified current occupancy; no precise map marker is assigned.
+Sora Fuel	Clean energy	Develops processes to convert carbon captured from air into aviation and diesel fuels.	Cambridge		https://jobs.polymer.co/sora-fuel-corporation/41026	advertised job location; office unverified	Officially linked Mechanical Engineering Lead role labels its location Cambridge. Job location is retained as advertised; an operating office address has not been verified.

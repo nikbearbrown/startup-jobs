@@ -2706,5 +2706,77 @@
     "sha256": "c58db9123988cd42c47fd317fbd08478790da32e8568e718369fbe5b5afabc80",
     "cache_key": "36d174987a8ebe50b1f9a3bdbc7197f14393f0ac6112c7e2754175f4b232f958",
     "bytes": 466231
+  },
+  {
+    "url": "https://cellinobio.com/contact-us",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://cellinobio.com/contact-us",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://cellinobio.com/contact-us",
+    "sha256": "ca782fb6d3e17063c112188f56668bf10ccc14ea47529996e04ff3e5427f6b19",
+    "cache_key": "4fa4d19ddde778da1573afc1864c52e72bb62d07362b7e33a4e7d38da9c2edfd",
+    "bytes": 51298
+  },
+  {
+    "url": "https://biobot.io/privacy-policy/",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://biobot.io/privacy-policy/",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://biobot.io/privacy-policy/",
+    "sha256": "16c0663c2d45b910debf5145653ee655602a90d8740e96a758f489e9e565eea5",
+    "cache_key": "08e330772e4ff283b72deb3912e7096ff3d7c38d7b333023462371e7642c4ffb",
+    "bytes": 67416
+  },
+  {
+    "url": "https://jobs.polymer.co/foray-bioscience/41044",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://jobs.polymer.co/foray-bioscience/41044",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://jobs.polymer.co/foray-bioscience/41044",
+    "sha256": "20d2eb58b68d573b25bf01f10c7ca0ca00e7f200253cef863af75cffb8ad3feb",
+    "cache_key": "cfaf7ef80097e69c8a3b4e8471ca701727c95bfcf70ecf621a4b3cd2eb47494f",
+    "bytes": 31621
+  },
+  {
+    "url": "https://ats.rippling.com/foundation-alloy/jobs/f1b66169-fc5a-4c8d-b0c4-543dfc0f719b",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://ats.rippling.com/foundation-alloy/jobs/f1b66169-fc5a-4c8d-b0c4-543dfc0f719b",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://ats.rippling.com/foundation-alloy/jobs/f1b66169-fc5a-4c8d-b0c4-543dfc0f719b",
+    "sha256": "caafd48f69c5f3fecfd40a7d30dfe61d4a24db1e9a8386a8d45e39973a3ece04",
+    "cache_key": "1dc52f5e624be849e5ae29cc8b0dfa585c2ac1a41aedec4304b188d5dd5c9c3d",
+    "bytes": 196805
+  },
+  {
+    "url": "https://jobs.polymer.co/osmoses/41707",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://jobs.polymer.co/osmoses/41707",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://jobs.polymer.co/osmoses/41707",
+    "sha256": "a7b2704728f07c02569e520dc4dfbde0a95ad04661607ff384b75b4bc07cb44d",
+    "cache_key": "321c59db08c967ca0a549fd73eab3e03cedfcc5745edc77eeb1dc1ea49229806",
+    "bytes": 31920
+  },
+  {
+    "url": "https://jobs.polymer.co/sora-fuel-corporation/41026",
+    "purpose": "Official company address or linked on-site role presence review; candidate only",
+    "requested_url": "https://jobs.polymer.co/sora-fuel-corporation/41026",
+    "checked_on": "2026-10-31",
+    "method": "robots-aware identified HTTP; candidate extraction only",
+    "status": "fetched",
+    "final_url": "https://jobs.polymer.co/sora-fuel-corporation/41026",
+    "sha256": "c69ae9da98c7ad54542c4745951b559349e137f203245d81a29dca0bff98a697",
+    "cache_key": "4a9a9d96ca2229f68882207ffdfa41e1277aa03365bc83f83a3646c5e9c8b691",
+    "bytes": 30964
   }
 ]

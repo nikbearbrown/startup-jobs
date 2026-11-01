@@ -68,8 +68,8 @@
     "website": "https://biobot.io/",
     "source_url": "https://engineventures.com/companies/biobot-analytics",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Blue Energy",
@@ -100,8 +100,8 @@
     "website": "https://www.cellinobio.com/",
     "source_url": "https://engineventures.com/companies/cellino",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Commonwealth Fusion Systems",
@@ -180,8 +180,8 @@
     "website": "https://www.foraybio.com/",
     "source_url": "https://engineventures.com/companies/foray-bioscience",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Form Energy",
@@ -196,8 +196,8 @@
     "website": "https://www.foundationalloy.com/",
     "source_url": "https://engineventures.com/companies/foundation-alloy",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Genomines",
@@ -276,8 +276,8 @@
     "website": "https://osmoses.com/",
     "source_url": "https://engineventures.com/companies/osmoses",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Oso Semiconductor",
@@ -356,8 +356,8 @@
     "website": "https://www.sorafuel.com/",
     "source_url": "https://engineventures.com/companies/sora-fuels",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed Boston-region company and explicit official local presence"
   },
   {
     "name": "Sublime Systems",

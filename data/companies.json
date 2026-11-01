@@ -249,7 +249,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/addis-energy",
@@ -530,7 +530,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/amide",
@@ -612,7 +612,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/anthology",
@@ -961,7 +961,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The company describes a team across Boston, Barcelona and Toronto; this verifies city-level team presence, not a Boston office address. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. The company describes a team across Boston, Barcelona and Toronto; this verifies city-level team presence, not a Boston office address. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/axiomatic-ai",
@@ -1017,6 +1017,70 @@
         "vacancy_status": "not-verified"
       }
     ]
+  },
+  {
+    "id": "biobot-analytics",
+    "name": "Biobot Analytics",
+    "website": "https://biobot.io/",
+    "careers_url": null,
+    "industries": [
+      "Public health technology"
+    ],
+    "summary": "Analyzes wastewater to monitor community-level pathogens and substances.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "legal correspondence city; office unverified",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Privacy notice updated May 12, 2026 gives Cambridge for legal/privacy correspondence. This is not verified as an operating office or laboratory; no precise map marker is assigned. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/biobot-analytics",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://biobot.io/",
+        "publisher": "Biobot Analytics",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://biobot.io/privacy-policy/",
+        "publisher": "Biobot Analytics",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Privacy notice updated May 12, 2026 gives Cambridge for legal/privacy correspondence. This is not verified as an operating office or laboratory; no precise map marker is assigned."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "biobot.io"
   },
   {
     "id": "black-i-robotics",
@@ -1469,6 +1533,71 @@
     "canonical_domain": "canvair.co"
   },
   {
+    "id": "cellino",
+    "name": "Cellino",
+    "website": "https://cellinobio.com/",
+    "careers_url": null,
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops automated cell manufacturing for personalized regenerative medicines.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "company-stated contact address",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Official contact page lists 750 Main Street in Cambridge. A contact address does not establish the entire operating footprint. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/cellino",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://cellinobio.com/",
+        "publisher": "Cellino",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://cellinobio.com/contact-us",
+        "publisher": "Cellino",
+        "primary": true,
+        "fields": [
+          "city",
+          "address"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official contact page lists 750 Main Street in Cambridge. A contact address does not establish the entire operating footprint."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "cellinobio.com"
+  },
+  {
     "id": "cerulion",
     "name": "Cerulion",
     "website": "https://cerulion.com",
@@ -1885,7 +2014,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/commonwealth-fusion-systems",
@@ -2039,7 +2168,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/copernic",
@@ -2374,7 +2503,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/droplet-biosciences",
@@ -2510,7 +2639,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/emvolon",
@@ -2549,7 +2678,24 @@
       }
     ],
     "source_file": "data/sources/engine-ventures-reviewed.json",
-    "canonical_domain": "emvolon.com"
+    "canonical_domain": "emvolon.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.linkedin.com/company/emvolon/jobs/",
+        "scope": "company",
+        "label": "Emvolon — Explore Open Roles",
+        "source_url": "https://emvolon.com/team",
+        "checked_on": "2026-10-31",
+        "source_sha256": "9662c8048549f9f90789fb70e10adcc9d901ee71428128f49288e2983d021a40",
+        "target_status": "not-checked",
+        "target_sha256": null,
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company navigation points to LinkedIn. Destination was not fetched under collection policy; no current listings verified."
+      }
+    ]
   },
   {
     "id": "finwave",
@@ -2575,7 +2721,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/finwave",
@@ -2716,6 +2862,87 @@
     ]
   },
   {
+    "id": "foray-bioscience",
+    "name": "Foray Bioscience",
+    "website": "https://foraybio.com/",
+    "careers_url": "https://jobs.polymer.co/foray-bioscience",
+    "industries": [
+      "Biotechnology"
+    ],
+    "summary": "Develops plant-cell production and software for plant biology.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "advertised job location; office unverified",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Officially linked job board labels the role Cambridge and specifies on-site Greater Boston work. This establishes an advertised hiring region, not a verified street address or headquarters. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/foray-bioscience",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://foraybio.com/",
+        "publisher": "Foray Bioscience",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://jobs.polymer.co/foray-bioscience/41044",
+        "publisher": "Foray Bioscience",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Officially linked job board labels the role Cambridge and specifies on-site Greater Boston work. This establishes an advertised hiring region, not a verified street address or headquarters."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "foraybio.com",
+    "hiring_routes": [
+      {
+        "url": "https://jobs.polymer.co/foray-bioscience",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://foraybio.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "e27439ebbfab25fe4569970f782ca8deb3e9423ec4bfb798a367605d969e3dd1",
+        "target_status": "fetched",
+        "target_sha256": "e0480acb2473ae4953d7d04b52ea4ecd696b43e97c75986d86dd564cdd76ee23",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "form-energy",
     "name": "Form Energy",
     "website": "https://formenergy.com/",
@@ -2797,6 +3024,91 @@
         "source_sha256": "5ab6da0f1ab1a2fce510567789a6ff9e276005578a27d7a125053c76d08da007",
         "target_status": "fetched",
         "target_sha256": "e7b332b591c7dac15e1f7dfa98372fb23e11db60225feeea80f61d98099347c6",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "id": "foundation-alloy",
+    "name": "Foundation Alloy",
+    "website": "https://foundationalloy.com/",
+    "careers_url": "https://ats.rippling.com/foundation-alloy/jobs",
+    "industries": [
+      "Advanced materials"
+    ],
+    "summary": "Develops and manufactures engineering metal alloys using solid-state processing.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Officially linked recruiting page describes a Boston-area company relocating from Cambridge to Woburn by early next year. Current city remains unresolved; planned relocation is not a verified present office. The investor profile links an October 9, 2026 headline reporting a Woburn move, which conflicts with the recruiting text; current location needs reconciliation. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/foundation-alloy",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://foundationalloy.com/",
+        "publisher": "Foundation Alloy",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://ats.rippling.com/foundation-alloy/jobs/f1b66169-fc5a-4c8d-b0c4-543dfc0f719b",
+        "publisher": "Foundation Alloy",
+        "primary": true,
+        "fields": [
+          "regional_presence"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Officially linked recruiting page describes a Boston-area company relocating from Cambridge to Woburn by early next year. Current city remains unresolved; planned relocation is not a verified present office. The investor profile links an October 9, 2026 headline reporting a Woburn move, which conflicts with the recruiting text; current location needs reconciliation."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "foundationalloy.com",
+    "hiring_routes": [
+      {
+        "url": "https://app.rippling.com/apps_sso_direct/RipplingATS",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://foundationalloy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "221db10179460309b95f2f490b1e3274cef07db32b955a38488a08602844af7f",
+        "target_status": "fetched",
+        "target_sha256": "d3f1d898deae8c887e870352e4022d02c48f9e9d7cc4c3d44a2ef1fea474af17",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      },
+      {
+        "url": "https://ats.rippling.com/foundation-alloy/jobs",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://foundationalloy.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "221db10179460309b95f2f490b1e3274cef07db32b955a38488a08602844af7f",
+        "target_status": "fetched",
+        "target_sha256": "4e6ce548773850358a74e17ee37289ac33df24c35a1cdcb2f48750f2ebcb195c",
         "target_note": null,
         "method": "official-navigation-review",
         "via_entity_id": null,
@@ -3246,7 +3558,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/hyperlight",
@@ -3393,7 +3705,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/isee",
@@ -3504,7 +3816,24 @@
       }
     ],
     "source_file": "data/sources/massrobotics-reviewed.json",
-    "canonical_domain": "kairoxsys.com"
+    "canonical_domain": "kairoxsys.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.kairoxsys.com/careers",
+        "scope": "company",
+        "label": "Kairox careers",
+        "source_url": "https://www.kairoxsys.com/careers",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d70ddf3fa0cb38ea5bc11b7d0833aaac313ba3c70bba3df8bded83662c346997",
+        "target_status": "fetched",
+        "target_sha256": "d70ddf3fa0cb38ea5bc11b7d0833aaac313ba3c70bba3df8bded83662c346997",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company-wide route. The page identifies San Francisco, California; Boston resident affiliation is not proof of local jobs or an office."
+      }
+    ]
   },
   {
     "id": "kano",
@@ -3530,7 +3859,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/kano-therapeutics",
@@ -3843,7 +4172,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/kytopen",
@@ -4162,7 +4491,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/matrisome-bio",
@@ -4676,6 +5005,87 @@
     ]
   },
   {
+    "id": "osmoses",
+    "name": "Osmoses",
+    "website": "https://osmoses.com/",
+    "careers_url": "https://osmoses.com/careers/",
+    "industries": [
+      "Industrial separation technology"
+    ],
+    "summary": "Develops membranes for energy-efficient molecular separations.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "advertised future job location; office unverified",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Officially linked Spring 2027 role advertises in-person work in Cambridge at 750 Main Street. This is a future advertised worksite, not verified current occupancy; no precise map marker is assigned. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/osmoses",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://osmoses.com/",
+        "publisher": "Osmoses",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://jobs.polymer.co/osmoses/41707",
+        "publisher": "Osmoses",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Officially linked Spring 2027 role advertises in-person work in Cambridge at 750 Main Street. This is a future advertised worksite, not verified current occupancy; no precise map marker is assigned."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "osmoses.com",
+    "hiring_routes": [
+      {
+        "url": "https://osmoses.com/careers/",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://osmoses.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "213b169ffc74590ec5100a5b53c528e570c80e3b5334cf9815c4da90dbf11a03",
+        "target_status": "fetched",
+        "target_sha256": "1651eab975c45d1527e3b3ef2e1afe863e6bd0fb2aaaca301f3da46694d9b652",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "palmr",
     "name": "Palmr",
     "website": "https://palmr.ai/",
@@ -4754,7 +5164,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The official careers page says the company is based in Watertown; no street address has been verified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. The official careers page says the company is based in Watertown; no street address has been verified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/pascal-2",
@@ -5029,7 +5439,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/predicta",
@@ -5637,7 +6047,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/rise-robotics",
@@ -6113,6 +6523,87 @@
     "canonical_domain": "smartdrone.com"
   },
   {
+    "id": "sora-fuel",
+    "name": "Sora Fuel",
+    "website": "https://www.sorafuel.com/",
+    "careers_url": "https://www.sorafuel.com/careers",
+    "industries": [
+      "Clean energy"
+    ],
+    "summary": "Develops processes to convert carbon captured from air into aviation and diesel fuels.",
+    "founded_on": null,
+    "ownership": null,
+    "locations": [
+      {
+        "city": "Cambridge",
+        "region": "MA",
+        "country": "US",
+        "precision": "city",
+        "verification": "advertised job location; office unverified",
+        "address": null,
+        "coordinates": null
+      }
+    ],
+    "review_status": "reviewed",
+    "checked_on": "2026-10-31",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Officially linked Mechanical Engineering Lead role labels its location Cambridge. Job location is retained as advertised; an operating office address has not been verified. ",
+    "evidence": [
+      {
+        "url": "https://engineventures.com/companies/sora-fuels",
+        "publisher": "Engine Ventures",
+        "primary": false,
+        "fields": [
+          "name",
+          "website",
+          "industries"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Investor profile corroborates identity, technical activity and official website. Portfolio statements may be company-supplied; investor affiliation does not prove local presence."
+      },
+      {
+        "url": "https://www.sorafuel.com/",
+        "publisher": "Sora Fuel",
+        "primary": true,
+        "fields": [
+          "name",
+          "website",
+          "industries",
+          "careers_url"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Official company page corroborates identity and technical activity. Career navigation is not evidence of a live vacancy."
+      },
+      {
+        "url": "https://jobs.polymer.co/sora-fuel-corporation/41026",
+        "publisher": "Sora Fuel",
+        "primary": true,
+        "fields": [
+          "city"
+        ],
+        "checked_on": "2026-10-31",
+        "note": "Officially linked Mechanical Engineering Lead role labels its location Cambridge. Job location is retained as advertised; an operating office address has not been verified."
+      }
+    ],
+    "source_file": "data/sources/engine-ventures-reviewed.json",
+    "canonical_domain": "sorafuel.com",
+    "hiring_routes": [
+      {
+        "url": "https://www.sorafuel.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://www.sorafuel.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "e87882f3b53ef49d140eae4f4b775967ba2826f61b486b727df99096e5bc33d2",
+        "target_status": "fetched",
+        "target_sha256": "09a0c4276780a142c82b8840536a4e5d150ba6e50f5b541fd05651fd0e15b5a8",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
     "id": "sublime-systems",
     "name": "Sublime Systems",
     "website": "https://sublime-systems.com/",
@@ -6136,7 +6627,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/sublime-systems",
@@ -6425,7 +6916,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/terada",
@@ -6507,7 +6998,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. Contact page lists 30 and 11 Cummings Park Drive; selected main contact address 30. Both are retained in local source evidence. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. Contact page lists 30 and 11 Cummings Park Drive; selected main contact address 30. Both are retained in local source evidence. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/terrestrial-bio",
@@ -6936,7 +7427,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/veir",
@@ -7018,7 +7509,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/via-separations",
@@ -7318,7 +7809,7 @@
     ],
     "review_status": "reviewed",
     "checked_on": "2026-10-31",
-    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Local presence is company-stated. Ownership, founding date and current vacancies are unverified. The official contact page labels the Cambridge address headquarters and spells Massachusetts as Massachussetts. The normalized street spelling is used for address matching; the source observation is retained. ",
+    "notes": "Identity, official website and sector reviewed against company and Engine Ventures pages. Location evidence is qualified below. Ownership, founding date and current vacancies are unverified. The official contact page labels the Cambridge address headquarters and spells Massachusetts as Massachussetts. The normalized street spelling is used for address matching; the source observation is retained. ",
     "evidence": [
       {
         "url": "https://engineventures.com/companies/woho",
