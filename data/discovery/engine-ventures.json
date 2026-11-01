@@ -49,11 +49,11 @@
   },
   {
     "name": "Axoft",
-    "website": null,
+    "website": "https://axoft.us/",
     "source_url": "https://engineventures.com/companies/axoft",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed in data/sources/boston-phase6-reviewed.json; current qualified city presence, no precise office point"
   },
   {
     "name": "Bexorg",
@@ -164,8 +164,8 @@
     "website": "https://evoloh.com/",
     "source_url": "https://engineventures.com/companies/evoloh",
     "checked_on": "2026-10-31",
-    "status": "needs-review",
-    "reason": "Needs review: local presence, identity, access or lifecycle not sufficiently resolved"
+    "status": "accepted-identity",
+    "reason": "Reviewed in data/sources/boston-phase6-reviewed.json; current qualified city presence, no precise office point"
   },
   {
     "name": "Finwave",

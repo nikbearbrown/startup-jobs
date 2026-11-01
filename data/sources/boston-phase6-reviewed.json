@@ -1,0 +1,138 @@
+{
+  "id": "boston-phase6-reviewed",
+  "checked_on": "2026-10-31",
+  "companies": [
+    {
+      "id": "axoft",
+      "name": "Axoft",
+      "website": "https://axoft.us/",
+      "careers_url": "https://axoft.us/about#careers",
+      "industries": [
+        "neurotechnology"
+      ],
+      "summary": "Develops soft implanted interfaces for recording and stimulating brain activity.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; advertised work location",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Officially linked recruitment page explicitly describes on-site work in Cambridge, Massachusetts. This is an advertised work region, not a verified office address. No street address, headcount, ownership or active-vacancy total is asserted.",
+      "evidence": [
+        {
+          "url": "https://axoft.us/",
+          "publisher": "Axoft",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "d0bcafc2228366be6562754cb26812c105ab175f1fddeb4d817061f2adabfaf4",
+          "note": "Official company identity and technical activity; observed careers navigation is not a live-vacancy count."
+        },
+        {
+          "url": "https://news.harvard.edu/gazette/story/2025/08/brain-implants-that-dont-leave-scars/",
+          "publisher": "Harvard University",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "70fd94b865761615713d5ad82bd7a002a2de40929d5b1b20318e7192636b4c3e",
+          "note": "Publisher corroborates identity and technical activity and links the official domain. Historical publication is not current office evidence."
+        },
+        {
+          "url": "https://jobs.polymer.co/axoft/41713",
+          "publisher": "Axoft",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fb2026a1fcccf801838836e5508ea0141308010e84f79f66de48a49a2e83c711",
+          "note": "Officially linked recruitment page explicitly describes on-site work in Cambridge, Massachusetts. This is an advertised work region, not a verified office address."
+        }
+      ]
+    },
+    {
+      "id": "evoloh",
+      "name": "EVOLOH",
+      "website": "https://evoloh.com/",
+      "careers_url": "https://evoloh.com/careers",
+      "industries": [
+        "hydrogen technology"
+      ],
+      "summary": "Develops electrolyzer modules and manufacturing processes for hydrogen production.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Lowell",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; manufacturing center",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company lists a manufacturing center in Lowell, Massachusetts, separately from its Santa Clara headquarters. No manufacturing street address has been verified. No street address, headcount, ownership or active-vacancy total is asserted.",
+      "evidence": [
+        {
+          "url": "https://evoloh.com/",
+          "publisher": "EVOLOH",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "7ef90331fa0b5bd35c268ddf3a068d0963aa034b7d5228d19f457e4a67cfcbd4",
+          "note": "Official company identity and technical activity; observed careers navigation is not a live-vacancy count."
+        },
+        {
+          "url": "https://engineventures.com/companies/evoloh",
+          "publisher": "Engine Ventures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "cbe96e993c1a93ec29ef4b82a714b68a346339ea09a0b12d28ecb2bdadbb3ccc",
+          "note": "Publisher corroborates identity and technical activity and links the official domain. Historical publication is not current office evidence."
+        },
+        {
+          "url": "https://evoloh.com/about",
+          "publisher": "EVOLOH",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "43013b96c4061eb5fb5932bc0f0b159269919688f9e7331f49a2bc6546166e4e",
+          "note": "Company lists a manufacturing center in Lowell, Massachusetts, separately from its Santa Clara headquarters. No manufacturing street address has been verified."
+        }
+      ]
+    }
+  ]
+}

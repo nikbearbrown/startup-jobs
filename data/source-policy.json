@@ -32,7 +32,7 @@
     "status": "partial",
     "url": "https://engineventures.com/companies",
     "checked_on": "2026-10-31",
-    "decision": "Public portfolio and official company pages checked with robots-aware identified client. No operative terms link found in reviewed homepage navigation. 19 factual identities with explicit company-stated Boston-region presence published; no profile prose republished. Other profiles retained as candidates; acquired/global/inaccessible records not asserted as active Boston startups."
+    "decision": "Public portfolio and official company pages checked with robots-aware identified client. No operative terms link found in reviewed homepage navigation. 31 factual identities (29 original Engine review rows plus Axoft and EVOLOH in the phase6 batch) with explicit company-stated Boston-region presence published; no profile prose republished. Other profiles retained as candidates; acquired/global/inaccessible records not asserted as active Boston startups."
   },
   {
     "source": "The Engine resident directory",
@@ -40,5 +40,40 @@
     "url": "https://engine.xyz/privacy-policy",
     "checked_on": "2026-10-31",
     "decision": "Separate from Engine Ventures. Privacy page refers to Terms of Service not located in reviewed navigation. Resident adapter held; no hidden API extraction or new resident batch."
+  },
+  {
+    "source": "DBOS",
+    "status": "held",
+    "url": "https://www.dbos.dev/terms-of-service",
+    "checked_on": "2026-10-31",
+    "decision": "Terms prohibit automated access and systematic directory extraction. No DBOS company record added; automated collection stopped."
+  },
+  {
+    "source": "Formlabs",
+    "status": "held",
+    "url": "https://formlabs.com/terms-of-service/",
+    "checked_on": "2026-10-31",
+    "decision": "Prohibited Uses explicitly prohibits crawling/scraping. Initial homepage discovery receipt retained; no company record added and further collection stopped."
+  },
+  {
+    "source": "Biobot Analytics",
+    "status": "held",
+    "url": "https://biobot.io/terms-of-service/",
+    "checked_on": "2026-10-31",
+    "decision": "Section 4.2 prohibits automated or manual extraction. Prior published identity evidence retained; newly observed recruiting route is not published and further collection stopped."
+  },
+  {
+    "source": "VulcanForms",
+    "status": "held",
+    "url": "https://www.vulcanforms.com/website-terms-conditions/",
+    "checked_on": "2026-10-31",
+    "decision": "Content use/download/publication restrictions require reuse clarification. Discovery receipts retained; no new company record or location published."
+  },
+  {
+    "source": "EVOLOH factual review",
+    "status": "partial",
+    "url": "https://evoloh.com/terms-of-use",
+    "checked_on": "2026-10-31",
+    "decision": "Terms reviewed: copyright restrictions on content; only short independently corroborated factual fields and observed links retained, no prose, logos or product materials republished."
   }
 ]

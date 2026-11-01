@@ -6,15 +6,17 @@ The aim is broad discovery across regions and industries. **This is not a census
 
 ## Coverage — 2026-10-31
 
-114 company records: **113 identity/site/sector reviews and one unresolved launch record**. The MassRobotics batch adds 78 reviewed identities from 97 candidates. The Engine Ventures batch adds 29 independently corroborated identities with qualified Boston-region evidence; other portfolio candidates remain separate. Investor membership never establishes a local office.
+116 company records: **115 identity/site/sector reviews and one unresolved launch record**. The MassRobotics batch adds 78 reviewed identities from 97 candidates. The Engine Ventures review plus the phase6 follow-up adds 31 independently corroborated identities with qualified Boston-region evidence; other portfolio candidates remain separate. Investor membership never establishes a local office.
 
-All 114 have source website references. The jobs-site review retrieved 110 of those sites; the remaining four retain prior source evidence. **70 companies have reviewed hiring navigation**, stored with source, date, scope and destination-check status in `data/enrichment/hiring-routes.json` and included in JSON/CSV exports. There are **zero verified live-vacancy counts**. A careers page is not a promise of hiring.
+All 116 have source website references. The jobs-site review retrieved 112 of those sites; the remaining four retain prior source evidence. **72 companies have reviewed hiring navigation**, stored with source, date, scope and destination-check status in `data/enrichment/hiring-routes.json` and included in JSON/CSV exports. There are **zero verified live-vacancy counts**. A careers page is not a promise of hiring.
 
 Forty companies have reviewed map locations in the jobs-site overlay, up from 16. The 29-company Engine batch contributes 18 mapped contact addresses. Other records retain qualified city-level evidence or unresolved relocation status; legal correspondence and future job locations are not current precise offices. The three earlier company geocode cases are resolved with municipal address data. Sixty MassRobotics records still retain resident affiliation only, without precise markers. This repository's location export remains city-level; precise decisions and evidence live in the [map evidence](https://github.com/nikbearbrown/jobs.humanitarians.ai/blob/feat/startup-research-map/docs/ecosystem-phase4-expansion.md). Boston Metal and Foundation Alloy have unresolved current cities. Pison's officially linked hiring board still returns 404; no official alternative was found.
 
 The collection is selection-biased and does not establish current operations, founding age, ownership, hiring or total ecosystem coverage. MassRobotics descriptions may be member-supplied; cross-publisher corroboration is not an independent operational audit. Names/domains are deduplicated, and unknown fields stay null.
 
 **Access update:** New YC automated collection is held because its legal terms prohibit scraping. New MassBio publication is held under its reuse terms; Greentown reuse conditions remain unresolved. No newly collected data from these three sources is in this expansion. The earlier YC discovery/launch evidence remains historical; it is not permission to resume scraping. See [source policy](data/source-policy.json).
+
+The sixth batch adds Axoft (advertised Cambridge work region) and EVOLOH (Lowell manufacturing center), both with official hiring navigation. Neither has a verified street location or size observation. Lowell remains searchable without a fabricated city marker. DBOS, Formlabs and Biobot collection is now held under explicit extraction restrictions; VulcanForms reuse needs clarification. No new records from those held sources were published. See [the batch report](https://github.com/nikbearbrown/jobs.humanitarians.ai/blob/feat/startup-research-map/docs/ecosystem-phase6-expansion.md).
 
 ## Repository model
 

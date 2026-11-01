@@ -190,6 +190,26 @@
     ]
   },
   {
+    "company_id": "axoft",
+    "routes": [
+      {
+        "url": "https://axoft.us/about#careers",
+        "scope": "company",
+        "label": "Axoft careers",
+        "source_url": "https://axoft.us/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "d0bcafc2228366be6562754cb26812c105ab175f1fddeb4d817061f2adabfaf4",
+        "target_status": "not-checked",
+        "target_sha256": null,
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company recruitment navigation; current vacancy availability and employment location depend on the individual role."
+      }
+    ]
+  },
+  {
     "company_id": "boston-metal",
     "routes": [
       {
@@ -396,6 +416,25 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified",
         "review_note": "Official company navigation points to LinkedIn. Destination was not fetched under collection policy; no current listings verified."
+      }
+    ]
+  },
+  {
+    "company_id": "evoloh",
+    "routes": [
+      {
+        "url": "https://evoloh.com/careers",
+        "scope": "company",
+        "label": "Careers",
+        "source_url": "https://evoloh.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "7ef90331fa0b5bd35c268ddf3a068d0963aa034b7d5228d19f457e4a67cfcbd4",
+        "target_status": "fetched",
+        "target_sha256": "7525a6d98e910459afd345603fbb34a052cf73fe40ac278208437b12d766f788",
+        "target_note": null,
+        "method": "official-navigation-review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified"
       }
     ]
   },
