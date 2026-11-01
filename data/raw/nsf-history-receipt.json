@@ -1,0 +1,9 @@
+{
+  "url": "https://seedfund.nsf.gov/data/awards-history.json",
+  "source_page": "https://seedfund.nsf.gov/awardees/history/",
+  "source_asset": "https://seedfund.nsf.gov/assets/js/services.js",
+  "checked_on": "2026-11-01",
+  "status": "blocked-or-failed",
+  "method": "Official public award-history JSON explicitly fetched by page-linked services.js; excludes separate proprietary PitchBook dataset",
+  "reason": "Disallowed by robots.txt"
+}

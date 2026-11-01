@@ -73,3 +73,7 @@ Facts and source links are supplied for research. Source pages and third-party c
 ## Reproduce the additional review
 
 `python3 scripts/import-engine-review.py ../jobs-site` imports only the 29 explicit decisions in `data/engine-ventures-review.tsv`, using cached company and investor evidence. `python3 scripts/import-hiring-review.py ../jobs-site/public/ecosystem/directory.json` copies the reviewed company hiring routes. Run `python3 scripts/build.py` and `python3 tests/test-build.py` afterward. Raw HTML stays local; public receipts retain URLs, dates, hashes and failed/blocked outcomes. The separate Engine resident adapter is held pending its operative terms; it is not the source of this investor batch.
+
+## Structured discovery queue
+
+[The NSF/MIT bulk discovery report](docs/phase13-bulk-discovery.md) documents 170 candidate groups, 54 explicitly linked company website candidates, source limits and review lanes. These candidates are separate from the 135 accepted companies; no automatic promotion is performed. Replay with `scripts/build-discovery-queue.py` and validate with `tests/test-discovery.py`. NSF award cities are historical observations; MIT directory years are not founding dates.

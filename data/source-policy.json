@@ -166,5 +166,92 @@
     "url": "https://www.cogniteam.com/terms-of-use/",
     "checked_on": "2026-10-31",
     "decision": "Linked Terms of Use page yielded only its heading and shared navigation/footer, no operative terms. Company-stated US-office candidate retained for review; no new marker accepted. Historical identity evidence unchanged; deeper collection held for clarification."
+  },
+  {
+    "source": "NSF Awards API",
+    "status": "partial",
+    "url": "https://resources.research.gov/common/webapi/awardapisearch-v1.htm",
+    "checked_on": "2026-11-01",
+    "decision": "Documented public API; MA keyword SBIR/STTR queries since 2023 fully paginated at 25 rows/page: 122 and 17 results, 135 unique awards. Public-domain award data policy: https://www.nsf.gov/funding/award-search . 133 title-qualified awards form 113 UEI candidate groups; two incidental keyword hits excluded. Award cities are historical observations, not current offices. No private contacts or abstracts exported."
+  },
+  {
+    "source": "MIT TLO startup showcase",
+    "status": "partial",
+    "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+    "checked_on": "2026-11-01",
+    "decision": "All four explicit listing pages enumerated: 62 factual candidate cards, 54 explicit external company links, eight missing/failed profile links. MIT privacy navigation reviewed; no extraction prohibition identified. No descriptive prose republished. Directory year is not founding year; MIT affiliation is not Boston presence. Candidate-only; official company identity, sector, current city and policy review still required."
+  },
+  {
+    "source": "SBIR bulk CSV",
+    "status": "held",
+    "url": "https://data.www.sbir.gov/mod_awarddatapublic_no_abstract/award_data_no_abstract.csv",
+    "checked_on": "2026-11-01",
+    "decision": "Officially advertised CSV, but robots.txt returned HTTP 403. No CSV downloaded; no alternate access or retry. SBA award API documentation also describes maintenance."
+  },
+  {
+    "source": "NSF Seed Fund supplementary data",
+    "status": "held",
+    "url": "https://seedfund.nsf.gov/awardees/history/",
+    "checked_on": "2026-11-01",
+    "decision": "Award-history JSON explicitly linked by public JavaScript is robots-disallowed; not fetched. Separate PitchBook company data carries proprietary reuse restrictions and was not fetched. These restrictions are not applied to the separately documented NSF Awards API."
+  },
+  {
+    "source": "MassCEC",
+    "status": "held",
+    "url": "https://www.masscec.com/terms-use-policy",
+    "checked_on": "2026-11-01",
+    "decision": "Terms prohibit automated gathering/extraction. No company records accepted; deeper collection stopped and domain added to fetcher holds."
+  },
+  {
+    "source": "Vertical Semiconductor",
+    "status": "held",
+    "url": "https://www.verticalsemi.com/legal-pages/terms-of-service",
+    "checked_on": "2026-11-01",
+    "decision": "Website use terms limit public/commercial reuse. Candidate from MIT retained; no company record accepted pending reuse clarification."
+  },
+  {
+    "source": "Nona Technologies",
+    "status": "held",
+    "url": "https://www.nona-technologies.com/terms-of-use",
+    "checked_on": "2026-11-01",
+    "decision": "Explicit automated and systematic data collection prohibition. Company data not accepted; deeper collection stopped."
+  },
+  {
+    "source": "Glyphic Biotechnologies",
+    "status": "held",
+    "url": "https://www.glyphic.bio/terms-of-use",
+    "checked_on": "2026-11-01",
+    "decision": "Explicit prohibition on systematic retrieval to compile a directory without permission. No company data accepted; deeper collection stopped."
+  },
+  {
+    "source": "Syntis Bio",
+    "status": "held",
+    "url": "https://syntis.bio/terms-of-use/",
+    "checked_on": "2026-11-01",
+    "decision": "Explicit website scraping prohibition. No company record accepted; deeper collection stopped."
+  },
+  {
+    "source": "Ground Truth Ag",
+    "status": "held",
+    "url": "https://groundtruth.ag/legal/terms-of-service",
+    "checked_on": "2026-11-01",
+    "decision": "Linked terms prohibit automated and equivalent manual extraction. No company record accepted; deeper collection stopped."
+  },
+  {
+    "source": "DMAT policy review",
+    "status": "held",
+    "url": "https://www.iubenda.com/privacy-policy/81001774",
+    "checked_on": "2026-11-01",
+    "decision": "Explicit linked policy target is robots-disallowed; policy review incomplete. No DMAT record accepted; no retry or bypass.",
+    "applies_to_domains": [
+      "dmat.co"
+    ]
+  },
+  {
+    "source": "Sesame Sustainability policy review",
+    "status": "held",
+    "url": "https://sesamesustainability.com/website-terms-of-use/",
+    "checked_on": "2026-11-01",
+    "decision": "Linked website terms URL serves homepage content, without operative terms. No accepted company record; deeper collection held for clarification."
   }
 ]

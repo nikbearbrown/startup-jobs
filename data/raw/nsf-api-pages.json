@@ -1,0 +1,50 @@
+[
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
+    "bytes": 116304,
+    "cache_key": "052ce360143c5507f2a5761b7d56c27612a926f1f68e110c057fbdbc9c0d08fd"
+  },
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
+    "bytes": 153573,
+    "cache_key": "7f2f3df5d7b5204279bbc7f17ce21251c24ff30099df7c6bc04a7714b05c0516"
+  },
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
+    "bytes": 195068,
+    "cache_key": "2b7536377fb6102aadf7b35d2020caca35a14af28447c6779b9b4dfa83e91f69"
+  },
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=75",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "6ace57104b987f7ff015607609bb532d71e0e16a51a2e968f3e916c794c2609c",
+    "bytes": 560663,
+    "cache_key": "428e5ff39e6f03846319213301bafab7995a35f4b520100e6340018ca81a3991"
+  },
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+    "bytes": 186401,
+    "cache_key": "1a94d8d91c247b51e6c9cf7a75c5a6a865b82c0e0f4716e1e92d637b8fe4dee4"
+  },
+  {
+    "url": "https://api.nsf.gov/services/v1/awards.json?keyword=STTR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+    "status": "fetched",
+    "checked_on": "2026-11-01",
+    "sha256": "029f5183f8d4bb18c5faf7bdf3becff6cb0a3551f6d4fd4d4f76ce2f94117142",
+    "bytes": 102910,
+    "cache_key": "f9f721a998b33cbee7e5f767571ad40914a14e4b133ce42674ea56aec802df73"
+  }
+]

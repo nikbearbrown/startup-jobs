@@ -1,0 +1,806 @@
+[
+  {
+    "candidate_id": "mit-tlo-03338472fe688d33",
+    "name": "Cambridge Terahertz",
+    "website_candidates": [
+      {
+        "url": "https://www.thzcorp.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-b66644a95a566b6a",
+    "name": "CoFlo Medical",
+    "website_candidates": [
+      {
+        "url": "https://coflo-medical.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-f9fdd827931afd2f",
+    "name": "G5 Labs",
+    "website_candidates": [
+      {
+        "url": "https://www.g5labs.ai/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-5b2ee31371b284ff",
+    "name": "Magnendo",
+    "website_candidates": [
+      {
+        "url": "https://www.magnendo.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-8161b21766407240",
+    "name": "Matrisome Bio",
+    "website_candidates": [
+      {
+        "url": "https://matrisomebio.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-39c7483b5ba01e4e",
+    "name": "Mentix",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-e43b849e197d0aaf",
+    "name": "Perceptra",
+    "website_candidates": [
+      {
+        "url": "https://www.perceptra.io/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-a3dd2fa8be13e68f",
+    "name": "RevelNext",
+    "website_candidates": [
+      {
+        "url": "https://revelostomy.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-15ea4fb00888d44d",
+    "name": "VectorWave",
+    "website_candidates": [
+      {
+        "url": "https://www.vectorwave.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-c836bccc60488455",
+    "name": "Vertical Semiconductor",
+    "website_candidates": [
+      {
+        "url": "https://verticalsemi.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-1ab8c016974a0945",
+    "name": "Active Surfaces",
+    "website_candidates": [
+      {
+        "url": "https://www.activesurfaces.xyz/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-128c441dbcc51c6f",
+    "name": "Alterego Ai",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-09450f78ace5d8ee",
+    "name": "Cellarray",
+    "website_candidates": [
+      {
+        "url": "https://www.cellarraytech.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-d511f3cad0421473",
+    "name": "Crabi Robotics",
+    "website_candidates": [
+      {
+        "url": "https://www.crabi-robotics.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+        "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-b5d216294501d5fd",
+    "name": "Electrified Thermal Solutions",
+    "website_candidates": [
+      {
+        "url": "https://electrifiedthermal.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
+        "source_sha256": "9160ac6d19f2d167a8c4072521c7a1f2cb67b334c061cce9c20359b92a9285ba",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-9faf206ce09d655f",
+    "name": "Emvolon",
+    "website_candidates": [
+      {
+        "url": "https://emvolon.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/emvolon",
+        "source_sha256": "e0621458e317c34a0634ccecc8afcc98db140cfa04f470a8e6ef6b260263f949",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-d6824bd441b78a23",
+    "name": "Found Energy",
+    "website_candidates": [
+      {
+        "url": "https://www.found.energy/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/found-energy",
+        "source_sha256": "feed4cea5ed31dd80d9e256b649e983600008f929e5e86020b96386357580193",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-601ab28942c3b2c1",
+    "name": "IDX20",
+    "website_candidates": [
+      {
+        "url": "https://idx20.us/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
+        "source_sha256": "1f20b96ba65e2284aaaf612b6110394402f30cd54781011c41283afd2e504f69",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-1f5dc202523d13e7",
+    "name": "MuscleMetrix",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-6b9bda417eb5832d",
+    "name": "Myconic",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-020083a59d315550",
+    "name": "Neurobionics",
+    "website_candidates": [
+      {
+        "url": "https://neurobionics.io/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+        "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-49ab1e9cd7cc547e",
+    "name": "Nocturnal",
+    "website_candidates": [
+      {
+        "url": "https://www.nocturnal.health/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+        "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+        "checked_on": "2026-10-31",
+        "method": "Explicit external link in named MIT TLO card; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-cfa9a00dc9b2eeec",
+    "name": "Nona Technologies",
+    "website_candidates": [
+      {
+        "url": "https://www.nona-technologies.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/nona-technologies",
+        "source_sha256": "6c33f530aaf776ffe40d8e471e158d71b950f6ca0a3ad33fe66444e503993cd5",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-3d4743ea7900de09",
+    "name": "Omnipulse Biosciences",
+    "website_candidates": [
+      {
+        "url": "http://www.omnipulsebio.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/omnipulse-biosciences",
+        "source_sha256": "b31d8a779246f8d5002537cf9b3b8eab6c045b5721aca4cf501faa2e197639ae",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-422b9d5b8b6f0d0f",
+    "name": "OptiCore",
+    "website_candidates": [
+      {
+        "url": "http://opticoreinc.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/opticore",
+        "source_sha256": "f4750d4494af31875a2ee1b65aa84ce58e7f1799489b2f58f063a28f7ede6804",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-3e0fa8d18f56c58e",
+    "name": "Arculus Solutions",
+    "website_candidates": [
+      {
+        "url": "https://www.arculus-solutions.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/arculus-solutions",
+        "source_sha256": "722af25121ada4ba21c1589180e146dcbc9d0c8d350de1ae1447a0140c3402ca",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-2ad97120595bd33a",
+    "name": "Area2.Ai",
+    "website_candidates": [
+      {
+        "url": "https://area2.ai/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/area2ai",
+        "source_sha256": "398f4978805fe742e1b6051a4fa5624b6752041976bd8f1229618b050363cba0",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-66d0a3d64ceb472a",
+    "name": "Artificial Axon Labs",
+    "website_candidates": [
+      {
+        "url": "https://www.artificialaxonlabs.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/artificial-axon-labs",
+        "source_sha256": "82db23f8c4543823e5dee5969ab10fe7cf69b2d59a2dce1c47c435eee67999f7",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-b6dcb0a2b40eda71",
+    "name": "Atlantic Quantum",
+    "website_candidates": [
+      {
+        "url": "https://www.atlantic-quantum.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/atlantic-quantum",
+        "source_sha256": "dbad0a9cd38b4f73f0f428894774912508a84ebbc5eccb3f564216dad0b60eec",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-19c67219f6ad235e",
+    "name": "Cartesian Systems",
+    "website_candidates": [
+      {
+        "url": "https://www.cartesian.systems/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
+        "source_sha256": "a948a69f40c29b7ca858fb6a234dca350e7164bad4ae9f233760be70dd18db67",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-0fca856232a56e71",
+    "name": "Codomax",
+    "website_candidates": [
+      {
+        "url": "https://www.codomax.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/codomax",
+        "source_sha256": "f4d2c89b77842d18dd866074e5a9ed10c9d60c8d6a0417828c2141330352a303",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-0d9585d83daf578a",
+    "name": "Elementium Materials",
+    "website_candidates": [
+      {
+        "url": "https://elementium.io/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
+        "source_sha256": "0b98fc8093fa1241bbddf774edf16ae0ced10af59b40cf7354c58fafadd0bce3",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-468fe59cb45ae802",
+    "name": "Eva Technology Corp.",
+    "website_candidates": [
+      {
+        "url": "https://www.evacorp.ai/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/eva-technology-corp",
+        "source_sha256": "90202c4d36973fa2a45edffdddd78a036b82331f0e5883c792212635fd3d5a12",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-1c84caa7a1756e29",
+    "name": "Kano Therapeutics",
+    "website_candidates": [
+      {
+        "url": "https://kanotherapeutics.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
+        "source_sha256": "e3c10c94cc5d9e0e33e86d4c9f4a35958aa89352fb09b26a713e1b666e155a69",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-9b3eb8ce919b5712",
+    "name": "Sesame Sustainability",
+    "website_candidates": [
+      {
+        "url": "https://sesamesustainability.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sesame-sustainability",
+        "source_sha256": "a1ed02fed97ac9a6802275d3884ddff642fb33e47fb78c33794f6a9ff8c6befb",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-e289b6a372a11924",
+    "name": "AeroShield",
+    "website_candidates": [
+      {
+        "url": "https://www.aeroshield.tech/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
+        "source_sha256": "239b1708ea338942f3142b05478e47cd6857563a9bd54c639b1a0d20a0dfe368",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-542829b97644978e",
+    "name": "AgZen",
+    "website_candidates": [
+      {
+        "url": "https://www.agzen.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/agzen",
+        "source_sha256": "ecfb11bea7464f67d84c0df655cad8332428e0de9afe12e39e80412193555eaa",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-1bfb46ee60199f5b",
+    "name": "Avanti Battery Company",
+    "website_candidates": [
+      {
+        "url": "https://avanti.energy/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/avanti-battery-company",
+        "source_sha256": "4e23eb8f9f05a6a9c58a63021d121120c628de42af00bb4cd8c7e321190b788f",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-c81697c37bcc6a87",
+    "name": "Bilayer Therapeutics",
+    "website_candidates": [
+      {
+        "url": "https://bilayer-therapeutics.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/bilayer-therapeutics",
+        "source_sha256": "ef86d34b8d2498b0144980eb7c6fec872f441f3d6adec49f499bb5962e1eedf0",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-5c6d2ffe81063d5c",
+    "name": "Cache DNA",
+    "website_candidates": [
+      {
+        "url": "https://www.cache-dna.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cache-dna",
+        "source_sha256": "72f75b0ecfd62f164854357f234cf00f9308d0e6d18fbd6b3c3dc5f9dfd272ef",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-c50556da523fa7a0",
+    "name": "DMAT, LLC",
+    "website_candidates": [
+      {
+        "url": "https://dmat.co/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/dmat-llc",
+        "source_sha256": "688e7647375e7f0968892993d24dca4d05c294db96af2fb56dc1f7d34246d135",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-5c522572d07ca1f8",
+    "name": "Glyphic Biotechnologies",
+    "website_candidates": [
+      {
+        "url": "https://glyphic.bio/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/glyphic-biotechnologies",
+        "source_sha256": "5154df9b5a16183f5efd7cbcd3e8466b956df37fdb78a29e2ce5ed8df8f7bae3",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-a602f3bf50f6bb62",
+    "name": "Ikigai Labs",
+    "website_candidates": [
+      {
+        "url": "https://www.ikigailabs.io/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ikigai-labs",
+        "source_sha256": "2995f65a6c08c8ab315bce17602008f0779d6af43a9e342cddeaaffaee1627b2",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-eb575c04ed42440b",
+    "name": "InnDura Therapeutics",
+    "website_candidates": [
+      {
+        "url": "https://www.inndura.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
+        "source_sha256": "55f82390e42bc6a20092a320141549f6ec68609bbee88f1cf3abf7809fcf956e",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-98444b65ec3878de",
+    "name": "InSpek",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-97023a62c768ea93",
+    "name": "SanaHeal",
+    "website_candidates": [
+      {
+        "url": "https://sanaheal.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
+        "source_sha256": "731bf1e82784dc6acc3836a5a9559bd8015b74f2e4f61baff017d0021e45cfb3",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-516720ad05b5992e",
+    "name": "SiTration",
+    "website_candidates": [
+      {
+        "url": "https://sitration.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sitration",
+        "source_sha256": "5c041c081bc1f4daf8a54b4b8ec86b65e3ea8aac3ecaa6e0580748b6eb2122a4",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-e52e645f21f66338",
+    "name": "Skyline Therapeutics",
+    "website_candidates": [
+      {
+        "url": "https://www.skytx.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
+        "source_sha256": "47cc42617ac309202f79e78a8b8e92619be9c891f03089c62072be1a1e6cef7c",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-697f2ec8bbceafae",
+    "name": "Syntis Bio",
+    "website_candidates": [
+      {
+        "url": "https://www.syntis.bio/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/syntis-bio",
+        "source_sha256": "a261423d3ee5498d95dfcd432cb024ea673937d0255aa2187c001225d94d7e99",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-0ebd8aadbce4974c",
+    "name": "Thiozen",
+    "website_candidates": [
+      {
+        "url": "https://thiozen.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/thiozen",
+        "source_sha256": "fe4b8d917f1d562fcb3f9562f623d6f4426989073de82d0d2a1aa2f178526d2c",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-ee643f49218181f0",
+    "name": "Tycho AI",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-c67d19761eff9b50",
+    "name": "Ground Truth Ag",
+    "website_candidates": [
+      {
+        "url": "https://www.groundtruth.ag/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ground-truth-ag",
+        "source_sha256": "ee6cfe2e6ee84f4e637da41ce42f62d941faf3f9842302ad4b3881897d82cff0",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-5f0304c5b0c77a35",
+    "name": "Portal Insulin, LLC",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-2e4ae21052405a6a",
+    "name": "Shift Tools For Sustainability",
+    "website_candidates": [
+      {
+        "url": "https://shift.tools/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/shift-tools-sustainability",
+        "source_sha256": "68b600bafcbc428aeaac837e88d07f711653d32077feb43826bc0fe67da79a4a",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-b4724bcf8ed9035f",
+    "name": "Suono Bio",
+    "website_candidates": [],
+    "reason": "Missing or ambiguous Visit Website field"
+  },
+  {
+    "candidate_id": "mit-tlo-3385c29158c29bdd",
+    "name": "Sync Computing",
+    "website_candidates": [
+      {
+        "url": "https://synccomputing.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sync-computing",
+        "source_sha256": "b101dc9a8539d22e26d8c13c9816d8d98e0cad0b7a8e9c9dcdf64ca1a2efdcb5",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-f86071279e8f06e5",
+    "name": "TI Solutions",
+    "website_candidates": [
+      {
+        "url": "https://temporalinterference.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ti-solutions-0",
+        "source_sha256": "f373b3fa5a1baed7318a9b74afd3c6f94b4273b013916713e01f76d2cf5a3237",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-a36b632056a222bf",
+    "name": "Tome Biosciences",
+    "website_candidates": [
+      {
+        "url": "https://tome.bio/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/tome-biosciences",
+        "source_sha256": "529b5a1d2dac9ae3609df68dc8c340151fde8bc5efde488f3dc0aa7552a774ac",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-2160fef35e4dec01",
+    "name": "VasoRX",
+    "website_candidates": [
+      {
+        "url": "https://www.vasrx.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/vasorx",
+        "source_sha256": "4fbd96d007e9f7327e7c775d7f9b6bbc6f1b88672a78f44bba063237c10a6776",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-5877916023b12b8a",
+    "name": "VitaKey",
+    "website_candidates": [
+      {
+        "url": "https://vitakey.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/vitakey",
+        "source_sha256": "4f1c2a65336473890a0a5fdcb162904ebffdefa8696de74ee62c4cc2a813dc8e",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-1772dc583990a0f0",
+    "name": "Window Therapeutics",
+    "website_candidates": [
+      {
+        "url": "https://windowtx.com/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
+        "source_sha256": "75845b6594bfe92e0f700a3d8d51f157d34a4584da397e2517ee0aa053f62693",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  },
+  {
+    "candidate_id": "mit-tlo-a1694e009f6a9ed5",
+    "name": "Xibus Systems",
+    "website_candidates": [
+      {
+        "url": "https://www.xibus.systems/",
+        "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/xibus-systems",
+        "source_sha256": "a8c7681e3665d8c77d99fd3bba416805e3ccd8faf5d4878719ed09ad40d964c0",
+        "checked_on": "2026-10-31",
+        "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+      }
+    ],
+    "reason": null
+  }
+]

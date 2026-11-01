@@ -1,0 +1,8 @@
+{
+  "url": "https://data.www.sbir.gov/mod_awarddatapublic_no_abstract/award_data_no_abstract.csv",
+  "documentation_url": "https://www.sbir.gov/data-resources",
+  "checked_on": "2026-11-01",
+  "method": "Single documented public bulk CSV; robots-aware identified client; no retries",
+  "status": "blocked-or-failed",
+  "reason": "robots.txt unavailable (403); manual review required"
+}

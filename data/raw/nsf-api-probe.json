@@ -1,0 +1,10 @@
+{
+  "url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+  "checked_on": "2026-11-01",
+  "documentation_url": "https://resources.research.gov/common/webapi/awardapisearch-v1.htm",
+  "status": "fetched",
+  "bytes": 116304,
+  "keys": [
+    "response"
+  ]
+}

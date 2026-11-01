@@ -1,0 +1,1027 @@
+{
+  "source": "MIT Technology Licensing Office",
+  "pages": [
+    {
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "cards": 20,
+      "sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a"
+    },
+    {
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "cards": 20,
+      "sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f"
+    },
+    {
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "cards": 20,
+      "sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445"
+    },
+    {
+      "url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=3",
+      "cards": 2,
+      "sha256": "8b5cf4c3b00d412c6ff91de7018863e7f1fad60a00ca9d47ae88c6df9f00ae6d"
+    }
+  ],
+  "enumeration": "All explicitly linked listing pages in this snapshot",
+  "candidates": [
+    {
+      "candidate_id": "mit-tlo-03338472fe688d33",
+      "name": "Cambridge Terahertz",
+      "linked_url": "https://www.thzcorp.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science",
+        "Electronics & Photonics",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-b66644a95a566b6a",
+      "name": "CoFlo Medical",
+      "linked_url": "https://coflo-medical.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Delivery"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-f9fdd827931afd2f",
+      "name": "G5 Labs",
+      "linked_url": "https://www.g5labs.ai/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-5b2ee31371b284ff",
+      "name": "Magnendo",
+      "linked_url": "https://www.magnendo.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Biotechnology",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-8161b21766407240",
+      "name": "Matrisome Bio",
+      "linked_url": "https://matrisomebio.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Therapeutics"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-39c7483b5ba01e4e",
+      "name": "Mentix",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/mentix",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Computer Science"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-e43b849e197d0aaf",
+      "name": "Perceptra",
+      "linked_url": "https://www.perceptra.io/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Biotechnology",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-a3dd2fa8be13e68f",
+      "name": "RevelNext",
+      "linked_url": "https://revelostomy.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-15ea4fb00888d44d",
+      "name": "VectorWave",
+      "linked_url": "https://www.vectorwave.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Communication Systems"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-c836bccc60488455",
+      "name": "Vertical Semiconductor",
+      "linked_url": "https://verticalsemi.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Communication Systems",
+        "Energy & Distribution"
+      ],
+      "directory_year": "2026",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-1ab8c016974a0945",
+      "name": "Active Surfaces",
+      "linked_url": "https://www.activesurfaces.xyz/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Electronics & Photonics",
+        "Energy & Distribution",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-128c441dbcc51c6f",
+      "name": "Alterego Ai",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/alterego-ai",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-09450f78ace5d8ee",
+      "name": "Cellarray",
+      "linked_url": "https://www.cellarraytech.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics",
+        "Biotechnology",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-d511f3cad0421473",
+      "name": "Crabi Robotics",
+      "linked_url": "https://www.crabi-robotics.com/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-b5d216294501d5fd",
+      "name": "Electrified Thermal Solutions",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Energy & Distribution",
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-9faf206ce09d655f",
+      "name": "Emvolon",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/emvolon",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-d6824bd441b78a23",
+      "name": "Found Energy",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/found-energy",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Energy & Distribution",
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-601ab28942c3b2c1",
+      "name": "IDX20",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Communication Systems",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-1f5dc202523d13e7",
+      "name": "MuscleMetrix",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/musclemetrix",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics",
+        "Biotechnology",
+        "Computer Science",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-6b9bda417eb5832d",
+      "name": "Myconic",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/myconic",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Agriculture & Food",
+        "Chemicals & Materials",
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+      "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-020083a59d315550",
+      "name": "Neurobionics",
+      "linked_url": "https://neurobionics.io/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics",
+        "Biotechnology",
+        "Chemicals & Materials"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-49ab1e9cd7cc547e",
+      "name": "Nocturnal",
+      "linked_url": "https://www.nocturnal.health/",
+      "link_kind": "external-company-candidate",
+      "technology_areas": [
+        "Biotechnology"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-cfa9a00dc9b2eeec",
+      "name": "Nona Technologies",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/nona-technologies",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Environmental Engineering"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-3d4743ea7900de09",
+      "name": "Omnipulse Biosciences",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/omnipulse-biosciences",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Delivery"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-422b9d5b8b6f0d0f",
+      "name": "OptiCore",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/opticore",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Communication Systems",
+        "Computer Science"
+      ],
+      "directory_year": "2025",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-3e0fa8d18f56c58e",
+      "name": "Arculus Solutions",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/arculus-solutions",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-2ad97120595bd33a",
+      "name": "Area2.Ai",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/area2ai",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-66d0a3d64ceb472a",
+      "name": "Artificial Axon Labs",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/artificial-axon-labs",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-b6dcb0a2b40eda71",
+      "name": "Atlantic Quantum",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/atlantic-quantum",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Computer Science",
+        "Electronics & Photonics"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-19c67219f6ad235e",
+      "name": "Cartesian Systems",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Communication Systems",
+        "Computer Science",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-0fca856232a56e71",
+      "name": "Codomax",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/codomax",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-0d9585d83daf578a",
+      "name": "Elementium Materials",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Energy & Distribution"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-468fe59cb45ae802",
+      "name": "Eva Technology Corp.",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/eva-technology-corp",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-1c84caa7a1756e29",
+      "name": "Kano Therapeutics",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-9b3eb8ce919b5712",
+      "name": "Sesame Sustainability",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sesame-sustainability",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Computer Science",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2024",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-e289b6a372a11924",
+      "name": "AeroShield",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Energy & Distribution"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-542829b97644978e",
+      "name": "AgZen",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/agzen",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Agriculture & Food",
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-1bfb46ee60199f5b",
+      "name": "Avanti Battery Company",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/avanti-battery-company",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Energy & Distribution",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-c81697c37bcc6a87",
+      "name": "Bilayer Therapeutics",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/bilayer-therapeutics",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Drug Delivery",
+        "Therapeutics"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-5c6d2ffe81063d5c",
+      "name": "Cache DNA",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cache-dna",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Industrial Engineering & Automation",
+        "Therapeutics"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+      "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-c50556da523fa7a0",
+      "name": "DMAT, LLC",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/dmat-llc",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Chemicals & Materials",
+        "Industrial Engineering & Automation"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-5c522572d07ca1f8",
+      "name": "Glyphic Biotechnologies",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/glyphic-biotechnologies",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Discovery and Research Tools"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-a602f3bf50f6bb62",
+      "name": "Ikigai Labs",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ikigai-labs",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-eb575c04ed42440b",
+      "name": "InnDura Therapeutics",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Delivery",
+        "Therapeutics"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-98444b65ec3878de",
+      "name": "InSpek",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inspek",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Sensing & Imaging"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-97023a62c768ea93",
+      "name": "SanaHeal",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biomaterials & Bioelectronics",
+        "Biotechnology",
+        "Chemicals & Materials"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-516720ad05b5992e",
+      "name": "SiTration",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sitration",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Energy & Distribution",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-e52e645f21f66338",
+      "name": "Skyline Therapeutics",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Therapeutics"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-697f2ec8bbceafae",
+      "name": "Syntis Bio",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/syntis-bio",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Discovery and Research Tools",
+        "Therapeutics"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-0ebd8aadbce4974c",
+      "name": "Thiozen",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/thiozen",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Energy & Distribution",
+        "Environmental Engineering"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-ee643f49218181f0",
+      "name": "Tycho AI",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/tycho-ai",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science"
+      ],
+      "directory_year": "2023",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-c67d19761eff9b50",
+      "name": "Ground Truth Ag",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ground-truth-ag",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Agriculture & Food"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-5f0304c5b0c77a35",
+      "name": "Portal Insulin, LLC",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/portal-insulin-llc",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Drug Delivery",
+        "Therapeutics"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-2e4ae21052405a6a",
+      "name": "Shift Tools For Sustainability",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/shift-tools-sustainability",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Communication Systems"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-b4724bcf8ed9035f",
+      "name": "Suono Bio",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/suono-bio",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Drug Delivery"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-3385c29158c29bdd",
+      "name": "Sync Computing",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sync-computing",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Artificial Intelligence (AI) and Machine Learning (ML)",
+        "Computer Science"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-f86071279e8f06e5",
+      "name": "TI Solutions",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/ti-solutions-0",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-a36b632056a222bf",
+      "name": "Tome Biosciences",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/tome-biosciences",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-2160fef35e4dec01",
+      "name": "VasoRX",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/vasorx",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Therapeutics"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-5877916023b12b8a",
+      "name": "VitaKey",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/vitakey",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Agriculture & Food"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+      "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-1772dc583990a0f0",
+      "name": "Window Therapeutics",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Biotechnology",
+        "Diagnostics",
+        "Therapeutics"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=3",
+      "source_sha256": "8b5cf4c3b00d412c6ff91de7018863e7f1fad60a00ca9d47ae88c6df9f00ae6d",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    },
+    {
+      "candidate_id": "mit-tlo-a1694e009f6a9ed5",
+      "name": "Xibus Systems",
+      "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/xibus-systems",
+      "link_kind": "institutional-profile",
+      "technology_areas": [
+        "Agriculture & Food",
+        "Chemicals & Materials"
+      ],
+      "directory_year": "2022",
+      "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=3",
+      "source_sha256": "8b5cf4c3b00d412c6ff91de7018863e7f1fad60a00ca9d47ae88c6df9f00ae6d",
+      "checked_on": "2026-10-31",
+      "status": "candidate",
+      "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+    }
+  ]
+}
