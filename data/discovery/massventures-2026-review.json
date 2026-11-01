@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Bloomer Tech",
+    "company_id": "bloomer-tech",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Boston"
+  },
+  {
+    "name": "Emvolon",
+    "website": "https://emvolon.com/",
+    "status": "existing",
+    "reason": "Already present; no duplicate record added"
+  },
+  {
+    "name": "PhagePro, P.B.C.",
+    "company_id": "phagepro",
+    "status": "reviewed",
+    "city_scope": "agency-reported August 2026; current office unverified"
+  },
+  {
+    "name": "AutonomUS Medical Technologies",
+    "website": "https://www.autonomus.ai/",
+    "status": "held",
+    "reason": "Official homepage lacks enough industry detail to corroborate the agency description"
+  },
+  {
+    "name": "Enigma Aerospace",
+    "company_id": "enigma-aerospace",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Burlington"
+  },
+  {
+    "name": "Highland Instruments",
+    "company_id": "highland-instruments",
+    "status": "reviewed",
+    "city_scope": "agency-reported August 2026; current office unverified"
+  },
+  {
+    "name": "Nanopath",
+    "company_id": "nanopath",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Cambridge"
+  },
+  {
+    "name": "Optigon",
+    "company_id": "optigon",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Somerville"
+  },
+  {
+    "name": "Qunett",
+    "company_id": "qunett",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Boston"
+  },
+  {
+    "name": "Sangtera",
+    "company_id": "sangtera",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Lowell"
+  },
+  {
+    "name": "AiRANACULUS",
+    "company_id": "airanaculus",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Lowell"
+  },
+  {
+    "name": "BioDevek",
+    "website": "https://www.biodevek.com/",
+    "status": "held",
+    "reason": "Policy document host robots unavailable; deeper collection held"
+  },
+  {
+    "name": "CranioSense",
+    "company_id": "craniosense",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Bedford"
+  },
+  {
+    "name": "EvoDenovo",
+    "company_id": "evodenovo",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Andover"
+  },
+  {
+    "name": "GelSight",
+    "company_id": "gelsight",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Waltham"
+  },
+  {
+    "name": "InnoTech Precision Medicine",
+    "company_id": "innotech-precision-medicine",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Natick/Cambridge"
+  },
+  {
+    "name": "Koi Biotherapeutics",
+    "company_id": "koi-biotherapeutics",
+    "status": "reviewed",
+    "city_scope": "agency-reported August 2026; current office unverified"
+  },
+  {
+    "name": "Limax Biosciences",
+    "company_id": "limax-biosciences",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Boston"
+  },
+  {
+    "name": "Matrisome Bio",
+    "website": "https://matrisomebio.com/",
+    "status": "existing",
+    "reason": "Already present; no duplicate record added"
+  },
+  {
+    "name": "Myrias Optics, Inc.",
+    "website": "https://myriasoptics.com/",
+    "status": "held",
+    "reason": "Outside Boston-region focus of this batch"
+  },
+  {
+    "name": "Optical Waters",
+    "website": "https://opticalwaters.com/",
+    "status": "held",
+    "reason": "Outside Boston-region focus of this batch"
+  },
+  {
+    "name": "RISE Robotics",
+    "website": "https://www.riserobotics.com/",
+    "status": "existing",
+    "reason": "Already present; no duplicate record added"
+  },
+  {
+    "name": "rStream",
+    "company_id": "rstream",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Somerville"
+  },
+  {
+    "name": "SpaceRake",
+    "company_id": "spacerake",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Watertown"
+  },
+  {
+    "name": "Valis Insights",
+    "website": "https://valisinsights.com/",
+    "status": "held",
+    "reason": "Outside Boston-region focus of this batch"
+  },
+  {
+    "name": "Venova Technologies",
+    "company_id": "venova-technologies",
+    "status": "reviewed",
+    "city_scope": "company-stated; agency reports Cambridge"
+  }
+]

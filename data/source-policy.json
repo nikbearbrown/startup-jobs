@@ -138,5 +138,19 @@
     "url": "https://www.picklerobot.com/termsofuse",
     "checked_on": "2026-11-01",
     "decision": "Website terms prohibit automated access and unapproved equivalent manual collection. No company record accepted; collection stopped."
+  },
+  {
+    "source": "MassVentures START 2026 factual review",
+    "status": "partial",
+    "url": "https://www.mass-ventures.com/privacy-policy",
+    "checked_on": "2026-10-31",
+    "decision": "Reviewed privacy/public-records policy; no extraction prohibition identified. 26 awardees enumerated, 18 company-publisher corroborated, three existing, two held, three outside Boston-region focus. Minimal factual fields only; award does not establish staffing, current occupancy or vacancies."
+  },
+  {
+    "source": "BioDevek",
+    "status": "held",
+    "url": "https://www.biodevek.com/",
+    "checked_on": "2026-10-31",
+    "decision": "Observed policy PDF host robots response unavailable/403. Further collection held and no company record accepted; do not retry denied extraction. Homepage reference remains candidate evidence only."
   }
 ]

@@ -35,7 +35,7 @@ class BuildTests(unittest.TestCase):
    with self.assertRaises(ValueError): b.build(root)
  def test_hiring_routes_do_not_claim_live_vacancies(self):
   rows=json.loads((b.ROOT/'data/companies.json').read_text())
-  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),76)
+  self.assertEqual(sum(bool(r.get('hiring_routes')) for r in rows),87)
   for r in rows:
    for q in r.get('hiring_routes',[]):
     self.assertEqual(q['scope'],'company');self.assertEqual(q['vacancy_status'],'not-verified');b.domain(q['source_url']);b.date(q['checked_on'])

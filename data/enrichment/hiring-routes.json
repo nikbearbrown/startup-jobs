@@ -76,6 +76,26 @@
     ]
   },
   {
+    "company_id": "airanaculus",
+    "routes": [
+      {
+        "url": "https://airanaculus.com/careers/",
+        "scope": "company",
+        "label": "AiRANACULUS careers",
+        "source_url": "https://airanaculus.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "6ecbd156d5f232e6475090c55e55725f2b98303000c54ebd1aae80a1f13ded59",
+        "target_status": "fetched",
+        "target_sha256": "a2e5ef6adaf91c66a8040bb7452bf69115f32e399ec9edf745da5cf443ee0c18",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "algorized",
     "routes": [
       {
@@ -382,6 +402,26 @@
     ]
   },
   {
+    "company_id": "craniosense",
+    "routes": [
+      {
+        "url": "https://www.craniosense.com/careers",
+        "scope": "company",
+        "label": "CranioSense careers",
+        "source_url": "https://www.craniosense.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "fe9f7f548a74a220e8d407981794c855435953c4eb39833e029436ff31a57d45",
+        "target_status": "fetched",
+        "target_sha256": "ab0569f46e6fb67ace4e75e878ffbd6f592ff6e9d0e9b11d5d014060ac336aa2",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "dephy",
     "routes": [
       {
@@ -436,6 +476,26 @@
         "via_entity_id": null,
         "vacancy_status": "not-verified",
         "review_note": "Official company navigation points to LinkedIn. Destination was not fetched under collection policy; no current listings verified."
+      }
+    ]
+  },
+  {
+    "company_id": "enigma-aerospace",
+    "routes": [
+      {
+        "url": "https://enigma.aero/enigma",
+        "scope": "company",
+        "label": "Enigma Aerospace careers",
+        "source_url": "https://enigma.aero/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "f8454cd3c88b4914524adba71f96457bbc0532231d6f698a68a26278e41e81f2",
+        "target_status": "fetched",
+        "target_sha256": "91c855e41d60500ed29a5a4746a39501536412f831841bf338ce26f9dcab6bc8",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company page contains an Open Roles section; current vacancies and work location are not independently verified."
       }
     ]
   },
@@ -582,6 +642,26 @@
     ]
   },
   {
+    "company_id": "gelsight",
+    "routes": [
+      {
+        "url": "https://www.gelsight.com/about/careers/",
+        "scope": "company",
+        "label": "GelSight careers",
+        "source_url": "https://www.gelsight.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "00fd7431ee1956ce6a5cf21eb47377f13550d8b592a4963c8d7e5eec0858507d",
+        "target_status": "fetched",
+        "target_sha256": "0b7d69503c6140d00740bb2bbe4ab6720aa462ba7ccc19fd7e95b2da549a1577",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "glidance",
     "routes": [
       {
@@ -673,6 +753,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "innotech-precision-medicine",
+    "routes": [
+      {
+        "url": "https://innotechprecisionmed.com/careers/",
+        "scope": "company",
+        "label": "InnoTech Precision Medicine careers",
+        "source_url": "https://innotechprecisionmed.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "8f34cac439d57107935cae0dba90c53e32a79a94458a41b5d3b3727ef60927a4",
+        "target_status": "fetched",
+        "target_sha256": "86d3dd92e3d235fe16a57f1917a5b72f186f4d0f1d303bf3a74bfafc5942194a",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "General recruiting form; not evidence of a specific open position."
       }
     ]
   },
@@ -811,6 +911,26 @@
     ]
   },
   {
+    "company_id": "limax-biosciences",
+    "routes": [
+      {
+        "url": "https://www.limaxbiosciences.com/career",
+        "scope": "company",
+        "label": "Limax Biosciences careers",
+        "source_url": "https://www.limaxbiosciences.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "49dc638d984bd2866312a791bf0eced09c5a85cbc8e22fe8540445c70412510a",
+        "target_status": "fetched",
+        "target_sha256": "a61017e1fa6e79935e284f2e5c11983ab02bab711069b0b69ef8d1fdcabe373b",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "luminous",
     "routes": [
       {
@@ -908,6 +1028,26 @@
     ]
   },
   {
+    "company_id": "nanopath",
+    "routes": [
+      {
+        "url": "https://nanopath.com/careers",
+        "scope": "company",
+        "label": "Nanopath careers",
+        "source_url": "https://nanopath.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "a937163cc0a5a160516fe685d7dd008dfe1fac30d284cb8acdcf36dd55302e60",
+        "target_status": "fetched",
+        "target_sha256": "ed0426316aec4f993e5cab3db93c73aa0286c16b4ca927fb9d84273ea14b14e4",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
+      }
+    ]
+  },
+  {
     "company_id": "onyx",
     "routes": [
       {
@@ -923,6 +1063,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "optigon",
+    "routes": [
+      {
+        "url": "https://www.optigon.us/careers",
+        "scope": "company",
+        "label": "Optigon careers",
+        "source_url": "https://www.optigon.us/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "12015b90cd74c7e7f9f88327f7f86b24c5e51d0b0a394683960cae2478f6bbdf",
+        "target_status": "fetched",
+        "target_sha256": "052ba526f3be6d722cca81fc184809df90b2ae7815d00435f372e1484055a308",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "General-interest recruiting inquiry is listed; no specific vacancy is confirmed."
       }
     ]
   },
@@ -1042,6 +1202,26 @@
     ]
   },
   {
+    "company_id": "qunett",
+    "routes": [
+      {
+        "url": "https://www.qunett.com/careers",
+        "scope": "company",
+        "label": "Qunett careers",
+        "source_url": "https://www.qunett.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "44eb94adcccdda198e8b9e42bce85e50e6403a3ce0b0a40c5d7b3458aa291858",
+        "target_status": "fetched",
+        "target_sha256": "12236be81b8a6f37695d10568237ca966958e865047c591b1afa989bca9ada0f",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official careers page links an external board and lists research skill areas; no current vacancy count is asserted."
+      }
+    ]
+  },
+  {
     "company_id": "ras-labs",
     "routes": [
       {
@@ -1156,6 +1336,26 @@
     ]
   },
   {
+    "company_id": "sangtera",
+    "routes": [
+      {
+        "url": "https://www.sangtera.com/careers",
+        "scope": "company",
+        "label": "Sangtera careers",
+        "source_url": "https://www.sangtera.com/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "59e09b7023a2deab84824703a1d17bac9039bd2b78e7b4a919097c1eb54d59b9",
+        "target_status": "fetched",
+        "target_sha256": "43f3d59450a7f6f31d807ba3539002ea09690698be00b8e7f9169468e19f6035",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Page mixes recruiting entries with positions marked filled. Role-level availability and vacancy totals are not verified."
+      }
+    ]
+  },
+  {
     "company_id": "scalable-robotics",
     "routes": [
       {
@@ -1228,6 +1428,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "spacerake",
+    "routes": [
+      {
+        "url": "https://ats.rippling.com/spacerake/jobs",
+        "scope": "company",
+        "label": "SpaceRake careers",
+        "source_url": "https://spacerake.net/",
+        "checked_on": "2026-10-31",
+        "source_sha256": "b6f120f62056933f2abca7af9acb0d1e9b57687ed0cb53eb5e99d5a724abcf74",
+        "target_status": "fetched",
+        "target_sha256": "55e75d049d9ca2a26d5eb40e69fb68bac299c114b5a20f5f50f1ad9a53ae4893",
+        "target_note": null,
+        "method": "Observed official navigation and manually reviewed recruiting scope",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; page retrieval does not verify role-level availability or local vacancies."
       }
     ]
   },

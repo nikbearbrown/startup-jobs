@@ -1,0 +1,1170 @@
+{
+  "id": "massventures-2026-reviewed",
+  "checked_on": "2026-10-31",
+  "companies": [
+    {
+      "id": "bloomer-tech",
+      "name": "Bloomer Tech",
+      "website": "https://www.bloomertech.com/",
+      "careers_url": null,
+      "industries": [
+        "Medical wearables"
+      ],
+      "summary": "Develops wearable cardiac monitoring technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Boston",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Investigational device status is stated on the official site; no clinical approval assertion. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.bloomertech.com/",
+          "publisher": "Bloomer Tech",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "7eea859f53657650bb1c89776ff839f0ad4569dd5b19ebf14cad9120e8caf217",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Boston. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.bloomertech.com/",
+          "publisher": "Bloomer Tech",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "7eea859f53657650bb1c89776ff839f0ad4569dd5b19ebf14cad9120e8caf217",
+          "note": "Official company contact geography reviewed. Investigational device status is stated on the official site; no clinical approval assertion."
+        }
+      ]
+    },
+    {
+      "id": "phagepro",
+      "name": "PhagePro, P.B.C.",
+      "website": "https://www.phageproinc.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops bacteriophage-based approaches to bacterial disease.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Mansfield",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "agency-reported August 2026; current office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "City is agency-reported only; current official contact page does not supply a physical address. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.phageproinc.com/",
+          "publisher": "PhagePro, P.B.C.",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "767711c530b25f89bcc9eb8fe6bae3399a43632ed04c31753e5d28f8fcf3f358",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Mansfield. Award is not current staffing, vacancy or occupancy evidence."
+        }
+      ]
+    },
+    {
+      "id": "enigma-aerospace",
+      "name": "Enigma Aerospace",
+      "website": "https://enigma.aero/",
+      "careers_url": "https://enigma.aero/enigma",
+      "industries": [
+        "Autonomous aircraft"
+      ],
+      "summary": "Develops autonomous aircraft and fleet-control software.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Burlington",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Official site gives Boston; August award announcement gives Burlington. Regional discrepancy retained; no precise office assigned. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.enigma.aero/",
+          "publisher": "Enigma Aerospace",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f8454cd3c88b4914524adba71f96457bbc0532231d6f698a68a26278e41e81f2",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Burlington. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.enigma.aero/",
+          "publisher": "Enigma Aerospace",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f8454cd3c88b4914524adba71f96457bbc0532231d6f698a68a26278e41e81f2",
+          "note": "Official company contact geography reviewed. Official site gives Boston; August award announcement gives Burlington. Regional discrepancy retained; no precise office assigned."
+        }
+      ]
+    },
+    {
+      "id": "highland-instruments",
+      "name": "Highland Instruments",
+      "website": "https://www.highlandinstruments.us/",
+      "careers_url": null,
+      "industries": [
+        "Medical devices"
+      ],
+      "summary": "Develops noninvasive brain-stimulation technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "agency-reported August 2026; current office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "City is agency-reported only. Official site describes investigational devices; no clinical approval assertion. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.highlandinstruments.us/",
+          "publisher": "Highland Instruments",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "7257a45b84b5499965ed5d245d92f5ebdcfcb01eb7417809a4894a8a24989e81",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Cambridge. Award is not current staffing, vacancy or occupancy evidence."
+        }
+      ]
+    },
+    {
+      "id": "nanopath",
+      "name": "Nanopath",
+      "website": "https://nanopath.com/",
+      "careers_url": "https://nanopath.com/careers",
+      "industries": [
+        "Molecular diagnostics"
+      ],
+      "summary": "Develops molecular diagnostic systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Cambridge",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://nanopath.com/",
+          "publisher": "Nanopath",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "a937163cc0a5a160516fe685d7dd008dfe1fac30d284cb8acdcf36dd55302e60",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Cambridge. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://nanopath.com/contact",
+          "publisher": "Nanopath",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "a57a853c117b393deaa0d71ec49483439747039c0d49ba59580f13c110daff27",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "optigon",
+      "name": "Optigon",
+      "website": "https://www.optigon.us/",
+      "careers_url": "https://www.optigon.us/careers",
+      "industries": [
+        "Scientific instruments"
+      ],
+      "summary": "Develops automated optical material-measurement systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Somerville",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.optigon.us/",
+          "publisher": "Optigon",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "12015b90cd74c7e7f9f88327f7f86b24c5e51d0b0a394683960cae2478f6bbdf",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Somerville. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.optigon.us/contact-us",
+          "publisher": "Optigon",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "8acadb87322abbea2885e2de82e9196911dcbe0eae2c5441eb33b12bd118c536",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "qunett",
+      "name": "Qunett",
+      "website": "https://www.qunett.com/",
+      "careers_url": "https://www.qunett.com/careers",
+      "industries": [
+        "Quantum networking"
+      ],
+      "summary": "Develops hardware for quantum communication networks.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Boston",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.qunett.com/",
+          "publisher": "Qunett",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "44eb94adcccdda198e8b9e42bce85e50e6403a3ce0b0a40c5d7b3458aa291858",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Boston. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.qunett.com/contact",
+          "publisher": "Qunett",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "3878d11a9254c7827d606cbce35f8bae1404c30d50af98078b9fe3ae4f7ac04a",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "sangtera",
+      "name": "Sangtera",
+      "website": "https://www.sangtera.com/",
+      "careers_url": "https://www.sangtera.com/careers",
+      "industries": [
+        "Robotic actuators"
+      ],
+      "summary": "Develops microhydraulic actuation technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Lowell",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Lowell",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.sangtera.com/",
+          "publisher": "Sangtera",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "59e09b7023a2deab84824703a1d17bac9039bd2b78e7b4a919097c1eb54d59b9",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Lowell. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.sangtera.com/",
+          "publisher": "Sangtera",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "59e09b7023a2deab84824703a1d17bac9039bd2b78e7b4a919097c1eb54d59b9",
+          "note": "Official company contact geography reviewed. Company-stated address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "airanaculus",
+      "name": "AiRANACULUS",
+      "website": "https://airanaculus.com/",
+      "careers_url": "https://airanaculus.com/careers/",
+      "industries": [
+        "Wireless communications"
+      ],
+      "summary": "Develops radio-frequency and networking technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Lowell",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Lowell",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Site identifies A10 Systems doing business as AiRANACULUS. Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://airanaculus.com/",
+          "publisher": "AiRANACULUS",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "6ecbd156d5f232e6475090c55e55725f2b98303000c54ebd1aae80a1f13ded59",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Lowell. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://airanaculus.com/contact/",
+          "publisher": "AiRANACULUS",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "15d35ff64bc23d48b2f19c8afa1727518c581fbaf4a009b1a5ecf8268d70bf94",
+          "note": "Official company contact geography reviewed. Site identifies A10 Systems doing business as AiRANACULUS. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "craniosense",
+      "name": "CranioSense",
+      "website": "https://www.craniosense.com/",
+      "careers_url": "https://www.craniosense.com/careers",
+      "industries": [
+        "Medical devices"
+      ],
+      "summary": "Develops noninvasive intracranial-pressure assessment systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Bedford",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Bedford",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Bedford company contact is distinct from a separately listed Pittsburgh regional location. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.craniosense.com/",
+          "publisher": "CranioSense",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fe9f7f548a74a220e8d407981794c855435953c4eb39833e029436ff31a57d45",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Bedford. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.craniosense.com/contact",
+          "publisher": "CranioSense",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "18708b82d0bc83f5610ecc522e8648c75fb2222db4b2998ea2b447ceedfdcd41",
+          "note": "Official company contact geography reviewed. Bedford company contact is distinct from a separately listed Pittsburgh regional location."
+        }
+      ]
+    },
+    {
+      "id": "evodenovo",
+      "name": "EvoDenovo",
+      "website": "https://evodenovo.us/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops experimental biologics for depression.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Andover",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Official current address is Woburn; August agency city is Andover. Discrepancy retained, not independently resolved as a relocation. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://evodenovo.us/",
+          "publisher": "EvoDenovo",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "0d30bc0e7f4b46579f635ce007d8e91b014bf26c0c880b41620e99add479981e",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Andover. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://evodenovo.us/",
+          "publisher": "EvoDenovo",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "0d30bc0e7f4b46579f635ce007d8e91b014bf26c0c880b41620e99add479981e",
+          "note": "Official company contact geography reviewed. Official current address is Woburn; August agency city is Andover. Discrepancy retained, not independently resolved as a relocation."
+        }
+      ]
+    },
+    {
+      "id": "gelsight",
+      "name": "GelSight",
+      "website": "https://www.gelsight.com/",
+      "careers_url": "https://www.gelsight.com/about/careers/",
+      "industries": [
+        "Tactile sensing"
+      ],
+      "summary": "Develops tactile measurement and sensing technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Waltham",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.gelsight.com/",
+          "publisher": "GelSight",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "00fd7431ee1956ce6a5cf21eb47377f13550d8b592a4963c8d7e5eec0858507d",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Waltham. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.gelsight.com/contact/",
+          "publisher": "GelSight",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "80a188e173f662b098c8b017a58d854912f186a246f891a0a352541727a6e6de",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "innotech-precision-medicine",
+      "name": "InnoTech Precision Medicine",
+      "website": "https://innotechprecisionmed.com/",
+      "careers_url": "https://innotechprecisionmed.com/careers/",
+      "industries": [
+        "Molecular diagnostics"
+      ],
+      "summary": "Develops liquid-biopsy diagnostic technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Natick",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Natick/Cambridge",
+          "address": null,
+          "coordinates": null
+        },
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "second company-stated contact city; not a headquarters assertion",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Official site lists Natick and Cambridge contact addresses; first exported location is Natick, not a headquarters assertion. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://innotechprecisionmed.com/",
+          "publisher": "InnoTech Precision Medicine",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "8f34cac439d57107935cae0dba90c53e32a79a94458a41b5d3b3727ef60927a4",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Natick/Cambridge. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://innotechprecisionmed.com/contact/",
+          "publisher": "InnoTech Precision Medicine",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "0fbb6901d931c2fbe25eeebc15985671cd74b77afdaf1ce41883357763e4c3f5",
+          "note": "Official company contact geography reviewed. Official site lists Natick and Cambridge contact addresses; first exported location is Natick, not a headquarters assertion."
+        }
+      ]
+    },
+    {
+      "id": "koi-biotherapeutics",
+      "name": "Koi Biotherapeutics",
+      "website": "https://www.koibiotherapeutics.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops technology intended to improve engineered cell therapies.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "agency-reported August 2026; current office unverified",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "City is agency-reported only; official site describes stealth mode and warns about fraudulent recruitment. No hiring route inferred from that warning. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.koibiotherapeutics.com/",
+          "publisher": "Koi Biotherapeutics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "ffddcc5182cf0039c99966ee688f23a026f94606de8465cda40597d2c67398df",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Boston. Award is not current staffing, vacancy or occupancy evidence."
+        }
+      ]
+    },
+    {
+      "id": "limax-biosciences",
+      "name": "Limax Biosciences",
+      "website": "https://www.limaxbiosciences.com/",
+      "careers_url": "https://www.limaxbiosciences.com/career",
+      "industries": [
+        "Biomaterials"
+      ],
+      "summary": "Develops hydrogel tissue-adhesion technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Boston",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company site states Boston without a street address; no precise location inferred. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.limaxbiosciences.com/",
+          "publisher": "Limax Biosciences",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "49dc638d984bd2866312a791bf0eced09c5a85cbc8e22fe8540445c70412510a",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Boston. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.limaxbiosciences.com/contact",
+          "publisher": "Limax Biosciences",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "445ebbf571ddfefc48f64ac8cef5f369b4e6af9ca48f00dd30b6ecdb58dbd4ba",
+          "note": "Official company contact geography reviewed. Company site states Boston without a street address; no precise location inferred."
+        }
+      ]
+    },
+    {
+      "id": "rstream",
+      "name": "rStream",
+      "website": "https://www.rstreamrecycling.com/",
+      "careers_url": null,
+      "industries": [
+        "Waste-sorting robotics"
+      ],
+      "summary": "Develops automated sorting systems for recyclable waste.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Somerville",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.rstreamrecycling.com/",
+          "publisher": "rStream",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "45a2b970a138a6ada34ed60037e7f60d14817c0085253cf1e5f1002ed3e00b59",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Somerville. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.rstreamrecycling.com/contact",
+          "publisher": "rStream",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "d58cf95142b6e489d5ea2b2bf459822a063aba6c51ff83f501d40f609c3dfae9",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "spacerake",
+      "name": "SpaceRake",
+      "website": "https://spacerake.net/",
+      "careers_url": "https://ats.rippling.com/spacerake/jobs",
+      "industries": [
+        "Optical communications"
+      ],
+      "summary": "Develops laser communication systems.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Watertown",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Watertown",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company-stated contact address; no independent occupancy survey. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://spacerake.net/",
+          "publisher": "SpaceRake",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b6f120f62056933f2abca7af9acb0d1e9b57687ed0cb53eb5e99d5a724abcf74",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Watertown. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://spacerake.net/",
+          "publisher": "SpaceRake",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b6f120f62056933f2abca7af9acb0d1e9b57687ed0cb53eb5e99d5a724abcf74",
+          "note": "Official company contact geography reviewed. Company-stated contact address; no independent occupancy survey."
+        }
+      ]
+    },
+    {
+      "id": "venova-technologies",
+      "name": "Venova Technologies",
+      "website": "https://www.venovatechnologies.com/",
+      "careers_url": null,
+      "industries": [
+        "Medical devices"
+      ],
+      "summary": "Develops nonhormonal contraceptive devices.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "company-stated; agency reports Cambridge",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-10-31",
+      "notes": "Company contact page names The Engine at 750 Main Street; a shared address does not establish a complete laboratory footprint. Identity/domain/industry corroborated across company and agency publishers; agency descriptions may be company-supplied. Age, ownership, workforce and live vacancies remain unverified.",
+      "evidence": [
+        {
+          "url": "https://www.venovatechnologies.com/",
+          "publisher": "Venova Technologies",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "db7ff6157b7234c971e73f1cfc5f6ff0236d0de24541363ca43233dad355b294",
+          "note": "Official company identity and technology category reviewed; short factual summary only."
+        },
+        {
+          "url": "https://www.mass-ventures.com/news-releases/massventures-announces-2026-start-grant-awardees",
+          "publisher": "MassVentures",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries",
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4d8df6e6bdbe592c245376ff740b9990fd2b6116ef64776e9cd94dc2f57431b1",
+          "note": "August 13, 2026 state-affiliated agency announcement links the company domain, describes its technology and reports Cambridge. Award is not current staffing, vacancy or occupancy evidence."
+        },
+        {
+          "url": "https://www.venovatechnologies.com/contact",
+          "publisher": "Venova Technologies",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b41040d81c8e543993feae0d60f699c3e3a5a0abc7c9d5fdef678209228ea5d9",
+          "note": "Official company contact geography reviewed. Company contact page names The Engine at 750 Main Street; a shared address does not establish a complete laboratory footprint."
+        }
+      ]
+    }
+  ]
+}
