@@ -253,5 +253,12 @@
     "url": "https://sesamesustainability.com/website-terms-of-use/",
     "checked_on": "2026-11-01",
     "decision": "Linked website terms URL serves homepage content, without operative terms. No accepted company record; deeper collection held for clarification."
+  },
+  {
+    "source": "MIT TLO phase14 company review",
+    "status": "partial",
+    "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+    "checked_on": "2026-11-01",
+    "decision": "16 explicit company-plus-TLO identity/domain/sector reviews accepted with company-stated Boston-region place; ten official careers routes and six separately reviewed approximate contact-address positions. Four existing identities confirmed, including Kano Therapeutics as Kano; no duplicate. All 170 discovery groups have status accounting but 150 remain unresolved. Company pages and observed privacy/terms navigation reviewed; only short factual fields/links retained, no page prose or product assets republished. Skyline embedded website terms reviewed; no extraction prohibition observed. Current place is self-reported, not an independent occupancy audit. Source restrictions and failed-page holds remain enforced."
   }
 ]

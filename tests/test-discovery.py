@@ -37,6 +37,7 @@ class DiscoveryTests(unittest.TestCase):
  def test_real_collision_and_policy_holds_remain_in_queue(self):
   data=json.loads((ROOT/'data/discovery/company-review-queue.json').read_text())
   self.assertEqual(len(data['candidates']),170);self.assertEqual(data['summary']['automatically_accepted'],0)
+  kano=next(r for r in data['candidates'] if 'Kano Therapeutics' in r['names']);self.assertIn('kano',kano['existing_company_suggestions'])
   rstream=[r for r in data['candidates'] if r['name_collision']];self.assertEqual(len(rstream),2);self.assertEqual(len({r['uei'] for r in rstream}),2)
   for r in data['candidates']:
    self.assertEqual(r['identity_status'],'candidate-only')

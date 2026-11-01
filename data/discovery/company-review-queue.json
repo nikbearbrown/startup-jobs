@@ -29,21 +29,288 @@
     "exact_name_cross_source_suggestions": 5,
     "candidate_groups": 170,
     "with_website_candidate": 54,
-    "with_existing_record_suggestion": 11,
+    "with_existing_record_suggestion": 28,
     "name_collision_groups": 2,
     "shared_domain_groups": 0,
     "review_queue": {
-      "compare-existing-record": 11,
+      "compare-existing-record": 28,
       "find-independent-explicit-company-domain": 106,
       "held-source-policy": 7,
       "resolve-name/domain-collision": 2,
-      "review-official-site-policy-identity-sector-city-careers": 44
+      "review-official-site-policy-identity-sector-city-careers": 27
     },
     "policy_held_groups": 7,
     "automatically_accepted": 0,
     "limitations": "Discovery groups are not verified companies or a startup census. Exact name/domain matches are review suggestions only. NSF orgUrl is not a company website; grant cities and MIT affiliation do not establish current offices. No private contact data or PitchBook data retained."
   },
   "candidates": [
+    {
+      "candidate_id": "mit-tlo-1ab8c016974a0945",
+      "uei": null,
+      "names": [
+        "Active Surfaces"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.activesurfaces.xyz/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-1ab8c016974a0945",
+          "name": "Active Surfaces",
+          "linked_url": "https://www.activesurfaces.xyz/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Chemicals & Materials",
+            "Electronics & Photonics",
+            "Energy & Distribution",
+            "Environmental Engineering"
+          ],
+          "directory_year": "2025",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "active-surfaces"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-e289b6a372a11924",
+      "uei": null,
+      "names": [
+        "AeroShield"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.aeroshield.tech/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
+          "source_sha256": "239b1708ea338942f3142b05478e47cd6857563a9bd54c639b1a0d20a0dfe368",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-e289b6a372a11924",
+          "name": "AeroShield",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Chemicals & Materials",
+            "Energy & Distribution"
+          ],
+          "directory_year": "2023",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "aeroshield"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-03338472fe688d33",
+      "uei": null,
+      "names": [
+        "Cambridge Terahertz"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.thzcorp.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-03338472fe688d33",
+          "name": "Cambridge Terahertz",
+          "linked_url": "https://www.thzcorp.com/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Artificial Intelligence (AI) and Machine Learning (ML)",
+            "Computer Science",
+            "Electronics & Photonics",
+            "Sensing & Imaging"
+          ],
+          "directory_year": "2026",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "cambridge-terahertz"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-LE2UZ9EC2KQ4",
+      "uei": "LE2UZ9EC2KQ4",
+      "names": [
+        "CARTESIAN SYSTEMS, INC.",
+        "Cartesian Systems"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.cartesian.systems/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
+          "source_sha256": "a948a69f40c29b7ca858fb6a234dca350e7164bad4ae9f233760be70dd18db67",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-19c67219f6ad235e",
+          "name": "Cartesian Systems",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Communication Systems",
+            "Computer Science",
+            "Sensing & Imaging"
+          ],
+          "directory_year": "2024",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [
+        {
+          "id": "2232748",
+          "title": "SBIR Phase I:  A Handheld Fine-Grained Radio Frequency IDentification (RFID) Localization System for Retail Automation",
+          "awardeeName": "CARTESIAN SYSTEMS, INC.",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "LE2UZ9EC2KQ4",
+          "date": "03/31/2023",
+          "startDate": "04/01/2023",
+          "expDate": "05/31/2024",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
+          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        },
+        {
+          "id": "2409627",
+          "title": "SBIR Phase II:  A Handheld Fine-Grained Radio Frequency IDentification (RFID) Localization System for Retail Automation",
+          "awardeeName": "CARTESIAN SYSTEMS, INC.",
+          "awardeeCity": "CAMBRIDGE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "LE2UZ9EC2KQ4",
+          "date": "08/05/2024",
+          "startDate": "08/15/2024",
+          "expDate": "01/31/2029",
+          "activeAwd": "true",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
+          "source_sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "cartesian-systems"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-09450f78ace5d8ee",
+      "uei": null,
+      "names": [
+        "Cellarray"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.cellarraytech.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-09450f78ace5d8ee",
+          "name": "Cellarray",
+          "linked_url": "https://www.cellarraytech.com/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Biomaterials & Bioelectronics",
+            "Biotechnology",
+            "Drug Discovery and Research Tools"
+          ],
+          "directory_year": "2025",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "cellarray"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
     {
       "candidate_id": "mit-tlo-d511f3cad0421473",
       "uei": null,
@@ -89,6 +356,96 @@
       "next_review": "compare-existing-record"
     },
     {
+      "candidate_id": "mit-tlo-b5d216294501d5fd",
+      "uei": null,
+      "names": [
+        "Electrified Thermal Solutions"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://electrifiedthermal.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
+          "source_sha256": "9160ac6d19f2d167a8c4072521c7a1f2cb67b334c061cce9c20359b92a9285ba",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-b5d216294501d5fd",
+          "name": "Electrified Thermal Solutions",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Chemicals & Materials",
+            "Energy & Distribution",
+            "Industrial Engineering & Automation"
+          ],
+          "directory_year": "2025",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "electrified-thermal-solutions"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-0d9585d83daf578a",
+      "uei": null,
+      "names": [
+        "Elementium Materials"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://elementium.io/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
+          "source_sha256": "0b98fc8093fa1241bbddf774edf16ae0ced10af59b40cf7354c58fafadd0bce3",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-0d9585d83daf578a",
+          "name": "Elementium Materials",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Energy & Distribution"
+          ],
+          "directory_year": "2024",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "elementium-materials"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
       "candidate_id": "mit-tlo-9faf206ce09d655f",
       "uei": null,
       "names": [
@@ -124,6 +481,50 @@
       "award_observations": [],
       "existing_company_suggestions": [
         "emvolon"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-f9fdd827931afd2f",
+      "uei": null,
+      "names": [
+        "G5 Labs"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.g5labs.ai/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-f9fdd827931afd2f",
+          "name": "G5 Labs",
+          "linked_url": "https://www.g5labs.ai/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Artificial Intelligence (AI) and Machine Learning (ML)"
+          ],
+          "directory_year": "2026",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "g5-labs"
       ],
       "identity_status": "candidate-only",
       "name_collision": false,
@@ -189,6 +590,98 @@
       "next_review": "compare-existing-record"
     },
     {
+      "candidate_id": "mit-tlo-601ab28942c3b2c1",
+      "uei": null,
+      "names": [
+        "IDX20"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://idx20.us/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
+          "source_sha256": "1f20b96ba65e2284aaaf612b6110394402f30cd54781011c41283afd2e504f69",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-601ab28942c3b2c1",
+          "name": "IDX20",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biotechnology",
+            "Communication Systems",
+            "Drug Discovery and Research Tools"
+          ],
+          "directory_year": "2025",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "idx20"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-eb575c04ed42440b",
+      "uei": null,
+      "names": [
+        "InnDura Therapeutics"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.inndura.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
+          "source_sha256": "55f82390e42bc6a20092a320141549f6ec68609bbee88f1cf3abf7809fcf956e",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-eb575c04ed42440b",
+          "name": "InnDura Therapeutics",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biotechnology",
+            "Drug Delivery",
+            "Therapeutics"
+          ],
+          "directory_year": "2023",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "inndura-therapeutics"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
       "candidate_id": "nsf-uei-E4LRXHW2EKS5",
       "uei": "E4LRXHW2EKS5",
       "names": [
@@ -227,6 +720,51 @@
       "next_review": "compare-existing-record"
     },
     {
+      "candidate_id": "mit-tlo-1c84caa7a1756e29",
+      "uei": null,
+      "names": [
+        "Kano Therapeutics"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://kanotherapeutics.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
+          "source_sha256": "e3c10c94cc5d9e0e33e86d4c9f4a35958aa89352fb09b26a713e1b666e155a69",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-1c84caa7a1756e29",
+          "name": "Kano Therapeutics",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biotechnology",
+            "Drug Discovery and Research Tools"
+          ],
+          "directory_year": "2024",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "kano"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
       "candidate_id": "nsf-uei-QFMAHRKBJMH2",
       "uei": "QFMAHRKBJMH2",
       "names": [
@@ -260,6 +798,52 @@
       "name_collision": false,
       "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
       "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-5b2ee31371b284ff",
+      "uei": null,
+      "names": [
+        "Magnendo"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.magnendo.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-5b2ee31371b284ff",
+          "name": "Magnendo",
+          "linked_url": "https://www.magnendo.com/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Artificial Intelligence (AI) and Machine Learning (ML)",
+            "Biotechnology",
+            "Drug Discovery and Research Tools"
+          ],
+          "directory_year": "2026",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "magnendo"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "compare-existing-record"
@@ -347,6 +931,88 @@
       "next_review": "compare-existing-record"
     },
     {
+      "candidate_id": "nsf-uei-UUKGN9CKYMY3",
+      "uei": "UUKGN9CKYMY3",
+      "names": [
+        "NEUROBIONICS INC",
+        "Neurobionics"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://neurobionics.io/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-020083a59d315550",
+          "name": "Neurobionics",
+          "linked_url": "https://neurobionics.io/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Biomaterials & Bioelectronics",
+            "Biotechnology",
+            "Chemicals & Materials"
+          ],
+          "directory_year": "2025",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [
+        {
+          "id": "2537752",
+          "title": "SBIR Phase II: NeuroBionics IO Fiber: A Multifunctional Neural Probe for Advancing Neuroscience Research",
+          "awardeeName": "NEUROBIONICS INC",
+          "awardeeCity": "SOMERVILLE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "UUKGN9CKYMY3",
+          "date": "07/16/2026",
+          "startDate": "08/01/2026",
+          "expDate": "07/31/2028",
+          "activeAwd": "true",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        },
+        {
+          "id": "2423454",
+          "title": "SBIR Phase I:   NeuroBionics OmniFiber: A Multifunctional Neural Probe for Advancing Neuroscience Research",
+          "awardeeName": "NEUROBIONICS INC",
+          "awardeeCity": "SOMERVILLE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "UUKGN9CKYMY3",
+          "date": "08/13/2024",
+          "startDate": "08/15/2024",
+          "expDate": "05/31/2025",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
+          "source_sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "neurobionics"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
       "candidate_id": "nsf-uei-JVVCQDLHFWK1",
       "uei": "JVVCQDLHFWK1",
       "names": [
@@ -380,6 +1046,52 @@
       "name_collision": false,
       "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
       "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-97023a62c768ea93",
+      "uei": null,
+      "names": [
+        "SanaHeal"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://sanaheal.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
+          "source_sha256": "731bf1e82784dc6acc3836a5a9559bd8015b74f2e4f61baff017d0021e45cfb3",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-97023a62c768ea93",
+          "name": "SanaHeal",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biomaterials & Bioelectronics",
+            "Biotechnology",
+            "Chemicals & Materials"
+          ],
+          "directory_year": "2023",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "sanaheal"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "compare-existing-record"
@@ -435,6 +1147,51 @@
       "name_collision": false,
       "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
       "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "mit-tlo-e52e645f21f66338",
+      "uei": null,
+      "names": [
+        "Skyline Therapeutics"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.skytx.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
+          "source_sha256": "47cc42617ac309202f79e78a8b8e92619be9c891f03089c62072be1a1e6cef7c",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-e52e645f21f66338",
+          "name": "Skyline Therapeutics",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biotechnology",
+            "Therapeutics"
+          ],
+          "directory_year": "2023",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
+          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [],
+      "existing_company_suggestions": [
+        "skyline-therapeutics"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "MIT affiliation only; Boston-region presence requires review",
+      "size_status": "unknown",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "compare-existing-record"
@@ -523,6 +1280,135 @@
       ],
       "existing_company_suggestions": [
         "tatum-robotics"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-YSNVNNJFXEB8",
+      "uei": "YSNVNNJFXEB8",
+      "names": [
+        "VECTORWAVE CORPORATION",
+        "VectorWave"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://www.vectorwave.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "method": "Explicit external link in named MIT TLO card; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-15ea4fb00888d44d",
+          "name": "VectorWave",
+          "linked_url": "https://www.vectorwave.com/",
+          "link_kind": "external-company-candidate",
+          "technology_areas": [
+            "Artificial Intelligence (AI) and Machine Learning (ML)",
+            "Communication Systems"
+          ],
+          "directory_year": "2026",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [
+        {
+          "id": "2528405",
+          "title": "SBIR Phase I: Spectrum Coexistence Digital Twin",
+          "awardeeName": "VECTORWAVE CORPORATION",
+          "awardeeCity": "AUBURNDALE",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "YSNVNNJFXEB8",
+          "date": "09/04/2025",
+          "startDate": "10/01/2025",
+          "expDate": "09/30/2026",
+          "activeAwd": "false",
+          "fundProgramName": "SBIR Phase I",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
+          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "vectorwave"
+      ],
+      "identity_status": "candidate-only",
+      "name_collision": false,
+      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
+      "size_status": "unknown; award value is not workforce",
+      "shared_domain_candidates": [],
+      "policy_holds": [],
+      "next_review": "compare-existing-record"
+    },
+    {
+      "candidate_id": "nsf-uei-JFLXDJ3ZY975",
+      "uei": "JFLXDJ3ZY975",
+      "names": [
+        "WINDOW THERAPEUTICS, INC.",
+        "Window Therapeutics"
+      ],
+      "website_candidates": [
+        {
+          "url": "https://windowtx.com/",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
+          "source_sha256": "75845b6594bfe92e0f700a3d8d51f157d34a4584da397e2517ee0aa053f62693",
+          "checked_on": "2026-10-31",
+          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
+        }
+      ],
+      "directory_observations": [
+        {
+          "candidate_id": "mit-tlo-1772dc583990a0f0",
+          "name": "Window Therapeutics",
+          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
+          "link_kind": "institutional-profile",
+          "technology_areas": [
+            "Biotechnology",
+            "Diagnostics",
+            "Therapeutics"
+          ],
+          "directory_year": "2022",
+          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=3",
+          "source_sha256": "8b5cf4c3b00d412c6ff91de7018863e7f1fad60a00ca9d47ae88c6df9f00ae6d",
+          "checked_on": "2026-10-31",
+          "status": "candidate",
+          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
+        }
+      ],
+      "award_observations": [
+        {
+          "id": "2423415",
+          "title": "SBIR Phase II:  Antibody-Drug Conjugates (ADCs) with High Drug-Antibody Ratios (DAR) and Molecularly Targeted Payloads",
+          "awardeeName": "WINDOW THERAPEUTICS, INC.",
+          "awardeeCity": "BOSTON",
+          "awardeeStateCode": "MA",
+          "ueiNumber": "JFLXDJ3ZY975",
+          "date": "07/09/2025",
+          "startDate": "07/15/2025",
+          "expDate": "06/30/2027",
+          "activeAwd": "true",
+          "fundProgramName": "SBIR Phase II",
+          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
+          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
+          "checked_on": "2026-11-01",
+          "query": "SBIR"
+        }
+      ],
+      "existing_company_suggestions": [
+        "window-therapeutics"
       ],
       "identity_status": "candidate-only",
       "name_collision": false,
@@ -5048,94 +5934,6 @@
       "next_review": "resolve-name/domain-collision"
     },
     {
-      "candidate_id": "mit-tlo-1ab8c016974a0945",
-      "uei": null,
-      "names": [
-        "Active Surfaces"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.activesurfaces.xyz/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-1ab8c016974a0945",
-          "name": "Active Surfaces",
-          "linked_url": "https://www.activesurfaces.xyz/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Chemicals & Materials",
-            "Electronics & Photonics",
-            "Energy & Distribution",
-            "Environmental Engineering"
-          ],
-          "directory_year": "2025",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-e289b6a372a11924",
-      "uei": null,
-      "names": [
-        "AeroShield"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.aeroshield.tech/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
-          "source_sha256": "239b1708ea338942f3142b05478e47cd6857563a9bd54c639b1a0d20a0dfe368",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-e289b6a372a11924",
-          "name": "AeroShield",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Chemicals & Materials",
-            "Energy & Distribution"
-          ],
-          "directory_year": "2023",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
       "candidate_id": "mit-tlo-542829b97644978e",
       "uei": null,
       "names": [
@@ -5482,175 +6280,6 @@
       "next_review": "review-official-site-policy-identity-sector-city-careers"
     },
     {
-      "candidate_id": "mit-tlo-03338472fe688d33",
-      "uei": null,
-      "names": [
-        "Cambridge Terahertz"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.thzcorp.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-03338472fe688d33",
-          "name": "Cambridge Terahertz",
-          "linked_url": "https://www.thzcorp.com/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Artificial Intelligence (AI) and Machine Learning (ML)",
-            "Computer Science",
-            "Electronics & Photonics",
-            "Sensing & Imaging"
-          ],
-          "directory_year": "2026",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "nsf-uei-LE2UZ9EC2KQ4",
-      "uei": "LE2UZ9EC2KQ4",
-      "names": [
-        "CARTESIAN SYSTEMS, INC.",
-        "Cartesian Systems"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.cartesian.systems/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
-          "source_sha256": "a948a69f40c29b7ca858fb6a234dca350e7164bad4ae9f233760be70dd18db67",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-19c67219f6ad235e",
-          "name": "Cartesian Systems",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Communication Systems",
-            "Computer Science",
-            "Sensing & Imaging"
-          ],
-          "directory_year": "2024",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [
-        {
-          "id": "2232748",
-          "title": "SBIR Phase I:  A Handheld Fine-Grained Radio Frequency IDentification (RFID) Localization System for Retail Automation",
-          "awardeeName": "CARTESIAN SYSTEMS, INC.",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "LE2UZ9EC2KQ4",
-          "date": "03/31/2023",
-          "startDate": "04/01/2023",
-          "expDate": "05/31/2024",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=100",
-          "source_sha256": "7e77f0d0b98e0da8e8ca755f845d3323a9dce1942c72207e0e27dce236e6488c",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        },
-        {
-          "id": "2409627",
-          "title": "SBIR Phase II:  A Handheld Fine-Grained Radio Frequency IDentification (RFID) Localization System for Retail Automation",
-          "awardeeName": "CARTESIAN SYSTEMS, INC.",
-          "awardeeCity": "CAMBRIDGE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "LE2UZ9EC2KQ4",
-          "date": "08/05/2024",
-          "startDate": "08/15/2024",
-          "expDate": "01/31/2029",
-          "activeAwd": "true",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
-          "source_sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-09450f78ace5d8ee",
-      "uei": null,
-      "names": [
-        "Cellarray"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.cellarraytech.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-09450f78ace5d8ee",
-          "name": "Cellarray",
-          "linked_url": "https://www.cellarraytech.com/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Biomaterials & Bioelectronics",
-            "Biotechnology",
-            "Drug Discovery and Research Tools"
-          ],
-          "directory_year": "2025",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
       "candidate_id": "mit-tlo-0fca856232a56e71",
       "uei": null,
       "names": [
@@ -5721,92 +6350,6 @@
           "directory_year": "2026",
           "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
           "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-b5d216294501d5fd",
-      "uei": null,
-      "names": [
-        "Electrified Thermal Solutions"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://electrifiedthermal.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
-          "source_sha256": "9160ac6d19f2d167a8c4072521c7a1f2cb67b334c061cce9c20359b92a9285ba",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-b5d216294501d5fd",
-          "name": "Electrified Thermal Solutions",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Chemicals & Materials",
-            "Energy & Distribution",
-            "Industrial Engineering & Automation"
-          ],
-          "directory_year": "2025",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-0d9585d83daf578a",
-      "uei": null,
-      "names": [
-        "Elementium Materials"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://elementium.io/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
-          "source_sha256": "0b98fc8093fa1241bbddf774edf16ae0ced10af59b40cf7354c58fafadd0bce3",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-0d9585d83daf578a",
-          "name": "Elementium Materials",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Energy & Distribution"
-          ],
-          "directory_year": "2024",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
           "checked_on": "2026-10-31",
           "status": "candidate",
           "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
@@ -5909,92 +6452,6 @@
       "next_review": "review-official-site-policy-identity-sector-city-careers"
     },
     {
-      "candidate_id": "mit-tlo-f9fdd827931afd2f",
-      "uei": null,
-      "names": [
-        "G5 Labs"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.g5labs.ai/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-f9fdd827931afd2f",
-          "name": "G5 Labs",
-          "linked_url": "https://www.g5labs.ai/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Artificial Intelligence (AI) and Machine Learning (ML)"
-          ],
-          "directory_year": "2026",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-601ab28942c3b2c1",
-      "uei": null,
-      "names": [
-        "IDX20"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://idx20.us/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
-          "source_sha256": "1f20b96ba65e2284aaaf612b6110394402f30cd54781011c41283afd2e504f69",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-601ab28942c3b2c1",
-          "name": "IDX20",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biotechnology",
-            "Communication Systems",
-            "Drug Discovery and Research Tools"
-          ],
-          "directory_year": "2025",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
       "candidate_id": "mit-tlo-a602f3bf50f6bb62",
       "uei": null,
       "names": [
@@ -6033,217 +6490,6 @@
       "name_collision": false,
       "geography": "MIT affiliation only; Boston-region presence requires review",
       "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-eb575c04ed42440b",
-      "uei": null,
-      "names": [
-        "InnDura Therapeutics"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.inndura.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
-          "source_sha256": "55f82390e42bc6a20092a320141549f6ec68609bbee88f1cf3abf7809fcf956e",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-eb575c04ed42440b",
-          "name": "InnDura Therapeutics",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biotechnology",
-            "Drug Delivery",
-            "Therapeutics"
-          ],
-          "directory_year": "2023",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
-          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-1c84caa7a1756e29",
-      "uei": null,
-      "names": [
-        "Kano Therapeutics"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://kanotherapeutics.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
-          "source_sha256": "e3c10c94cc5d9e0e33e86d4c9f4a35958aa89352fb09b26a713e1b666e155a69",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-1c84caa7a1756e29",
-          "name": "Kano Therapeutics",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/kano-therapeutics",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biotechnology",
-            "Drug Discovery and Research Tools"
-          ],
-          "directory_year": "2024",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-5b2ee31371b284ff",
-      "uei": null,
-      "names": [
-        "Magnendo"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.magnendo.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-5b2ee31371b284ff",
-          "name": "Magnendo",
-          "linked_url": "https://www.magnendo.com/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Artificial Intelligence (AI) and Machine Learning (ML)",
-            "Biotechnology",
-            "Drug Discovery and Research Tools"
-          ],
-          "directory_year": "2026",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "nsf-uei-UUKGN9CKYMY3",
-      "uei": "UUKGN9CKYMY3",
-      "names": [
-        "NEUROBIONICS INC",
-        "Neurobionics"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://neurobionics.io/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-020083a59d315550",
-          "name": "Neurobionics",
-          "linked_url": "https://neurobionics.io/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Biomaterials & Bioelectronics",
-            "Biotechnology",
-            "Chemicals & Materials"
-          ],
-          "directory_year": "2025",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
-          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [
-        {
-          "id": "2537752",
-          "title": "SBIR Phase II: NeuroBionics IO Fiber: A Multifunctional Neural Probe for Advancing Neuroscience Research",
-          "awardeeName": "NEUROBIONICS INC",
-          "awardeeCity": "SOMERVILLE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "UUKGN9CKYMY3",
-          "date": "07/16/2026",
-          "startDate": "08/01/2026",
-          "expDate": "07/31/2028",
-          "activeAwd": "true",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
-          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        },
-        {
-          "id": "2423454",
-          "title": "SBIR Phase I:   NeuroBionics OmniFiber: A Multifunctional Neural Probe for Advancing Neuroscience Research",
-          "awardeeName": "NEUROBIONICS INC",
-          "awardeeCity": "SOMERVILLE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "UUKGN9CKYMY3",
-          "date": "08/13/2024",
-          "startDate": "08/15/2024",
-          "expDate": "05/31/2025",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=50",
-          "source_sha256": "7c8c2b530a5d106b06d90c30ddf741ac14538c1e01fab68a80b8f160b00efc04",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "review-official-site-policy-identity-sector-city-careers"
@@ -6463,50 +6709,6 @@
       "next_review": "review-official-site-policy-identity-sector-city-careers"
     },
     {
-      "candidate_id": "mit-tlo-97023a62c768ea93",
-      "uei": null,
-      "names": [
-        "SanaHeal"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://sanaheal.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
-          "source_sha256": "731bf1e82784dc6acc3836a5a9559bd8015b74f2e4f61baff017d0021e45cfb3",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-97023a62c768ea93",
-          "name": "SanaHeal",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biomaterials & Bioelectronics",
-            "Biotechnology",
-            "Chemicals & Materials"
-          ],
-          "directory_year": "2023",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
-          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
       "candidate_id": "mit-tlo-2e4ae21052405a6a",
       "uei": null,
       "names": [
@@ -6572,49 +6774,6 @@
           "technology_areas": [
             "Energy & Distribution",
             "Environmental Engineering"
-          ],
-          "directory_year": "2023",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
-          "source_sha256": "e511d3001312794c716fb23f0a8f24a1f3c4a2f7c05a1867e7032cac84919445",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "MIT affiliation only; Boston-region presence requires review",
-      "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "mit-tlo-e52e645f21f66338",
-      "uei": null,
-      "names": [
-        "Skyline Therapeutics"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.skytx.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
-          "source_sha256": "47cc42617ac309202f79e78a8b8e92619be9c891f03089c62072be1a1e6cef7c",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-e52e645f21f66338",
-          "name": "Skyline Therapeutics",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biotechnology",
-            "Therapeutics"
           ],
           "directory_year": "2023",
           "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=2",
@@ -6848,68 +7007,6 @@
       "next_review": "review-official-site-policy-identity-sector-city-careers"
     },
     {
-      "candidate_id": "nsf-uei-YSNVNNJFXEB8",
-      "uei": "YSNVNNJFXEB8",
-      "names": [
-        "VECTORWAVE CORPORATION",
-        "VectorWave"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://www.vectorwave.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "method": "Explicit external link in named MIT TLO card; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-15ea4fb00888d44d",
-          "name": "VectorWave",
-          "linked_url": "https://www.vectorwave.com/",
-          "link_kind": "external-company-candidate",
-          "technology_areas": [
-            "Artificial Intelligence (AI) and Machine Learning (ML)",
-            "Communication Systems"
-          ],
-          "directory_year": "2026",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
-          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [
-        {
-          "id": "2528405",
-          "title": "SBIR Phase I: Spectrum Coexistence Digital Twin",
-          "awardeeName": "VECTORWAVE CORPORATION",
-          "awardeeCity": "AUBURNDALE",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "YSNVNNJFXEB8",
-          "date": "09/04/2025",
-          "startDate": "10/01/2025",
-          "expDate": "09/30/2026",
-          "activeAwd": "false",
-          "fundProgramName": "SBIR Phase I",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=0",
-          "source_sha256": "6c8838435f1731878d001bb6287e507abfbf475418e260aaad5a9e14c492139e",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
       "candidate_id": "mit-tlo-5877916023b12b8a",
       "uei": null,
       "names": [
@@ -6947,69 +7044,6 @@
       "name_collision": false,
       "geography": "MIT affiliation only; Boston-region presence requires review",
       "size_status": "unknown",
-      "shared_domain_candidates": [],
-      "policy_holds": [],
-      "next_review": "review-official-site-policy-identity-sector-city-careers"
-    },
-    {
-      "candidate_id": "nsf-uei-JFLXDJ3ZY975",
-      "uei": "JFLXDJ3ZY975",
-      "names": [
-        "WINDOW THERAPEUTICS, INC.",
-        "Window Therapeutics"
-      ],
-      "website_candidates": [
-        {
-          "url": "https://windowtx.com/",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
-          "source_sha256": "75845b6594bfe92e0f700a3d8d51f157d34a4584da397e2517ee0aa053f62693",
-          "checked_on": "2026-10-31",
-          "method": "Single explicit Visit Website link in the named MIT TLO profile; not identity verification"
-        }
-      ],
-      "directory_observations": [
-        {
-          "candidate_id": "mit-tlo-1772dc583990a0f0",
-          "name": "Window Therapeutics",
-          "linked_url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
-          "link_kind": "institutional-profile",
-          "technology_areas": [
-            "Biotechnology",
-            "Diagnostics",
-            "Therapeutics"
-          ],
-          "directory_year": "2022",
-          "source_url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=3",
-          "source_sha256": "8b5cf4c3b00d412c6ff91de7018863e7f1fad60a00ca9d47ae88c6df9f00ae6d",
-          "checked_on": "2026-10-31",
-          "status": "candidate",
-          "limitations": "MIT licensing-showcase affiliation only. Directory year is not verified founding year. No current location, ownership, workforce or hiring inferred."
-        }
-      ],
-      "award_observations": [
-        {
-          "id": "2423415",
-          "title": "SBIR Phase II:  Antibody-Drug Conjugates (ADCs) with High Drug-Antibody Ratios (DAR) and Molecularly Targeted Payloads",
-          "awardeeName": "WINDOW THERAPEUTICS, INC.",
-          "awardeeCity": "BOSTON",
-          "awardeeStateCode": "MA",
-          "ueiNumber": "JFLXDJ3ZY975",
-          "date": "07/09/2025",
-          "startDate": "07/15/2025",
-          "expDate": "06/30/2027",
-          "activeAwd": "true",
-          "fundProgramName": "SBIR Phase II",
-          "source_url": "https://api.nsf.gov/services/v1/awards.json?keyword=SBIR&awardeeStateCode=MA&dateStart=01%2F01%2F2023&rpp=25&offset=25",
-          "source_sha256": "8842883c82e06bb68e70229ced9195b3f847dfb515fbff719a32f0cf2b41af3b",
-          "checked_on": "2026-11-01",
-          "query": "SBIR"
-        }
-      ],
-      "existing_company_suggestions": [],
-      "identity_status": "candidate-only",
-      "name_collision": false,
-      "geography": "Massachusetts awardee city only; current Boston-region presence requires review",
-      "size_status": "unknown; award value is not workforce",
       "shared_domain_candidates": [],
       "policy_holds": [],
       "next_review": "review-official-site-policy-identity-sector-city-careers"

@@ -38,6 +38,26 @@
     ]
   },
   {
+    "company_id": "active-surfaces",
+    "routes": [
+      {
+        "url": "https://www.activesurfaces.xyz/careers",
+        "scope": "company",
+        "label": "Active Surfaces \u2014 Careers",
+        "source_url": "https://www.activesurfaces.xyz/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "987c14c67a3dccf690825d3c78132f68ad46b94f0dc089d85ac6d48fd8a3a2ae",
+        "target_status": "fetched",
+        "target_sha256": "9c08a18e672106233245bbb0597e65e05fbadf5c9357d4071c48468253ea14d1",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company recruiting navigation; availability and vacancy count are not independently verified."
+      }
+    ]
+  },
+  {
     "company_id": "acumino",
     "routes": [
       {
@@ -72,6 +92,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "aeroshield",
+    "routes": [
+      {
+        "url": "https://careers.jobscore.com/careers/aeroshieldmaterialsinc",
+        "scope": "company",
+        "label": "AeroShield \u2014 Careers",
+        "source_url": "https://aeroshield.tech/about-us/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "d3fa39f7988041d0adebee8e63d974000dc32dba895d403c5fc2cf5fa570cef2",
+        "target_status": "fetched",
+        "target_sha256": "6044a7fcd17310d759a6037134818eabfb3dffed3e2c8dfc2568fe0753619d95",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Official company link leads to its named recruiting board; listings may change."
       }
     ]
   },
@@ -268,6 +308,46 @@
     ]
   },
   {
+    "company_id": "cambridge-terahertz",
+    "routes": [
+      {
+        "url": "https://www.thzcorp.com/careers/",
+        "scope": "company",
+        "label": "Cambridge Terahertz \u2014 Careers",
+        "source_url": "https://www.thzcorp.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "4111dc222c4ba49629d0b164cea304751c430ae0d66e8f3e08d0c255bbbae24b",
+        "target_status": "fetched",
+        "target_sha256": "bcd43b24f08fdb349b062624f2431f742a9acf7ddec12ad5bae7e567de9d594f",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "The careers page asks visitors to check back for future opportunities; no current vacancy asserted."
+      }
+    ]
+  },
+  {
+    "company_id": "cartesian-systems",
+    "routes": [
+      {
+        "url": "https://www.cartesian.systems/careers",
+        "scope": "company",
+        "label": "Cartesian Systems \u2014 Careers",
+        "source_url": "https://www.cartesian.systems/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "501364597237d5a41f2859dd8ba68001761967915d76eda31b5ca8288d859211",
+        "target_status": "fetched",
+        "target_sha256": "f92d440153da03aee20ef3a8df5dace266a72e2f4e1190102193ca3aae55f279",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company describes an in-person team in Kendall Square; role availability is not independently verified."
+      }
+    ]
+  },
+  {
     "company_id": "cellino",
     "routes": [
       {
@@ -460,6 +540,26 @@
     ]
   },
   {
+    "company_id": "electrified-thermal-solutions",
+    "routes": [
+      {
+        "url": "https://jobs.lever.co/ElectrifiedThermalSolutions",
+        "scope": "company",
+        "label": "Electrified Thermal Solutions \u2014 Careers",
+        "source_url": "https://electrifiedthermal.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "1d556d3ae544efc9b62f1b274ea484f81ad668797318092baaaf8996cd12ca76",
+        "target_status": "fetched",
+        "target_sha256": "5e9d852b6721d3fd578baa50521e37b2130b46cd6f87db3406989fe4126c1374",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company-linked board includes Charlestown and European roles; this is not a Boston-only vacancy count."
+      }
+    ]
+  },
+  {
     "company_id": "emvolon",
     "routes": [
       {
@@ -638,6 +738,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "g5-labs",
+    "routes": [
+      {
+        "url": "https://g5labs.ai/#careers",
+        "scope": "company",
+        "label": "G5 Labs \u2014 Careers",
+        "source_url": "https://g5labs.ai/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "9bd7c2364c204c4d13c826c02eb48341aeacdee57cf7d5163ebcff89215fd647",
+        "target_status": "not-checked",
+        "target_sha256": null,
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Homepage careers section lists Boston / Silicon Valley / Hybrid roles; no exact office or local workforce asserted."
       }
     ]
   },
@@ -967,6 +1087,26 @@
         "vacancy_status": "not-verified",
         "source_evidence_file": "phase8-maglev-browser-review.json",
         "review_note": "Company recruiting navigation observed; role-level availability not verified."
+      }
+    ]
+  },
+  {
+    "company_id": "magnendo",
+    "routes": [
+      {
+        "url": "https://www.magnendo.com/careers",
+        "scope": "company",
+        "label": "Magnendo \u2014 Careers",
+        "source_url": "https://www.magnendo.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "f1564962da709a9f5e758f0829d616a5e9144f64dc880275f32b14404adc703d",
+        "target_status": "fetched",
+        "target_sha256": "494bf2f5ed5ddc99c51ea91b0149e08e365c43d72ecb82fe39f20b7a151fcd1c",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company careers page describes on-site Newton roles. Current office address and vacancy counts are unverified."
       }
     ]
   },
@@ -1356,6 +1496,26 @@
     ]
   },
   {
+    "company_id": "sanaheal",
+    "routes": [
+      {
+        "url": "https://sanaheal.com/careers",
+        "scope": "company",
+        "label": "SanaHeal \u2014 Careers",
+        "source_url": "https://sanaheal.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "997b33093629bbf3b159f7d6c3d97bac8b1fb88a3a3fcf7a05df06f3b5272e52",
+        "target_status": "fetched",
+        "target_sha256": "9e0e4e5ba9f554882a909e10166e90030048cae7f77afe4c4fef1b05e3bc25f3",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "The careers page contains template job entries alongside recruiting text; no listed job is treated as a verified vacancy."
+      }
+    ]
+  },
+  {
     "company_id": "sangtera",
     "routes": [
       {
@@ -1429,6 +1589,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "skyline-therapeutics",
+    "routes": [
+      {
+        "url": "https://www.skytx.com/join.html",
+        "scope": "company",
+        "label": "Skyline Therapeutics \u2014 Careers",
+        "source_url": "https://www.skytx.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "3617f45e669df2f712b49300549563e00fa81d610f4405478d00869334a03e7b",
+        "target_status": "fetched",
+        "target_sha256": "22772e980bb0dc8794e8819eb6c30c51864e57b0016812efd4ddf67866d24cdb",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company-wide recruiting route may include China and US opportunities. The site labels its Cambridge contact location Boston; municipality is retained as Cambridge."
       }
     ]
   },
@@ -1602,6 +1782,26 @@
         "method": "official-navigation-review",
         "via_entity_id": null,
         "vacancy_status": "not-verified"
+      }
+    ]
+  },
+  {
+    "company_id": "vectorwave",
+    "routes": [
+      {
+        "url": "https://www.vectorwave.com/careers",
+        "scope": "company",
+        "label": "VectorWave \u2014 Careers",
+        "source_url": "https://www.vectorwave.com/",
+        "checked_on": "2026-11-01",
+        "source_sha256": "fb6ab32e46e0eddd23eebc6efda06b72110aaa6327f6e5c7c32e9dfb2363a28d",
+        "target_status": "fetched",
+        "target_sha256": "f21fa933d17c21d1f85530e66a74bbfea422aeeadbb0b5164621a9e6417e88b8",
+        "target_note": null,
+        "method": "explicit company navigation and target review",
+        "via_entity_id": null,
+        "vacancy_status": "not-verified",
+        "review_note": "Company states Greater Boston on-site hiring; exact municipality, office and vacancy count remain unresolved."
       }
     ]
   },

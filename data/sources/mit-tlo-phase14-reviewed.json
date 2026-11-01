@@ -1,0 +1,1172 @@
+{
+  "id": "mit-tlo-phase14-reviewed",
+  "checked_on": "2026-11-01",
+  "companies": [
+    {
+      "id": "active-surfaces",
+      "name": "Active Surfaces",
+      "website": "https://www.activesurfaces.xyz/",
+      "careers_url": "https://www.activesurfaces.xyz/careers",
+      "industries": [
+        "Energy technology"
+      ],
+      "summary": "Develops lightweight solar modules.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://www.activesurfaces.xyz/",
+          "publisher": "Active Surfaces",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "987c14c67a3dccf690825d3c78132f68ad46b94f0dc089d85ac6d48fd8a3a2ae",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Chemicals & Materials, Electronics & Photonics, Energy & Distribution, Environmental Engineering. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.activesurfaces.xyz/contact",
+          "publisher": "Active Surfaces",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "45f895ba917e88e0ae26cb87bf78704c7726b2227ef457e80b2877aa3fc592c0",
+          "note": "Company contact or on-site team/careers statement supports Woburn at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.activesurfaces.xyz/careers",
+          "publisher": "Active Surfaces",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9c08a18e672106233245bbb0597e65e05fbadf5c9357d4071c48468253ea14d1",
+          "note": "Official company recruiting navigation; availability and vacancy count are not independently verified."
+        }
+      ]
+    },
+    {
+      "id": "aeroshield",
+      "name": "AeroShield",
+      "website": "https://aeroshield.tech/",
+      "careers_url": "https://careers.jobscore.com/careers/aeroshieldmaterialsinc",
+      "industries": [
+        "Advanced materials"
+      ],
+      "summary": "Develops transparent aerogel insulation for windows.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Waltham",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Official company link leads to its named recruiting board; listings may change.",
+      "evidence": [
+        {
+          "url": "https://aeroshield.tech/",
+          "publisher": "AeroShield",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "89d8fef26c2b4935f8829c04f042073f5e466bf8e1e3662fbd0faea5fb34a1d7",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/aeroshield",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "239b1708ea338942f3142b05478e47cd6857563a9bd54c639b1a0d20a0dfe368",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Chemicals & Materials, Energy & Distribution. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://aeroshield.tech/about-us/",
+          "publisher": "AeroShield",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "d3fa39f7988041d0adebee8e63d974000dc32dba895d403c5fc2cf5fa570cef2",
+          "note": "Company contact or on-site team/careers statement supports Waltham at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://careers.jobscore.com/careers/aeroshieldmaterialsinc",
+          "publisher": "AeroShield",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "6044a7fcd17310d759a6037134818eabfb3dffed3e2c8dfc2568fe0753619d95",
+          "note": "Official company link leads to its named recruiting board; listings may change."
+        }
+      ]
+    },
+    {
+      "id": "cambridge-terahertz",
+      "name": "Cambridge Terahertz",
+      "website": "https://www.thzcorp.com/",
+      "careers_url": "https://www.thzcorp.com/careers/",
+      "industries": [
+        "Sensing technology"
+      ],
+      "summary": "Develops sensor systems for concealed-weapon detection.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. The careers page asks visitors to check back for future opportunities; no current vacancy asserted.",
+      "evidence": [
+        {
+          "url": "https://www.thzcorp.com/",
+          "publisher": "Cambridge Terahertz",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "4111dc222c4ba49629d0b164cea304751c430ae0d66e8f3e08d0c255bbbae24b",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Artificial Intelligence (AI) and Machine Learning (ML), Computer Science, Electronics & Photonics, Sensing & Imaging. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.thzcorp.com/contact/",
+          "publisher": "Cambridge Terahertz",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "c787d8baba56585a69ce61236e56fa2b8fd39efd1d2f28453f24479611b6661f",
+          "note": "Company contact or on-site team/careers statement supports Cambridge at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.thzcorp.com/careers/",
+          "publisher": "Cambridge Terahertz",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "bcd43b24f08fdb349b062624f2431f742a9acf7ddec12ad5bae7e567de9d594f",
+          "note": "The careers page asks visitors to check back for future opportunities; no current vacancy asserted."
+        }
+      ]
+    },
+    {
+      "id": "cartesian-systems",
+      "name": "Cartesian Systems",
+      "website": "https://www.cartesian.systems/",
+      "careers_url": "https://www.cartesian.systems/careers",
+      "industries": [
+        "Sensing technology"
+      ],
+      "summary": "Develops indoor location intelligence for retail operations.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Company describes an in-person team in Kendall Square; role availability is not independently verified.",
+      "evidence": [
+        {
+          "url": "https://www.cartesian.systems/",
+          "publisher": "Cartesian Systems",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "501364597237d5a41f2859dd8ba68001761967915d76eda31b5ca8288d859211",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/cartesian-systems",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "a948a69f40c29b7ca858fb6a234dca350e7164bad4ae9f233760be70dd18db67",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Communication Systems, Computer Science, Sensing & Imaging. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.cartesian.systems/careers",
+          "publisher": "Cartesian Systems",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f92d440153da03aee20ef3a8df5dace266a72e2f4e1190102193ca3aae55f279",
+          "note": "Company contact or on-site team/careers statement supports Cambridge at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.cartesian.systems/careers",
+          "publisher": "Cartesian Systems",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f92d440153da03aee20ef3a8df5dace266a72e2f4e1190102193ca3aae55f279",
+          "note": "Company describes an in-person team in Kendall Square; role availability is not independently verified."
+        }
+      ]
+    },
+    {
+      "id": "cellarray",
+      "name": "Cellarray",
+      "website": "https://www.cellarraytech.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Supplies CometChip research tools for DNA-damage assessment.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Lexington",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://www.cellarraytech.com/",
+          "publisher": "Cellarray",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "5bd6d2ac840e599f3b9a23f724716be0c0d4a780d1bd95ea536d311da113f414",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biomaterials & Bioelectronics, Biotechnology, Drug Discovery and Research Tools. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.cellarraytech.com/contact-us",
+          "publisher": "Cellarray",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "0fdcd711413ea0f6711e269a746d2d5ba6d4e7b7303937bd6e49e78f47952e0c",
+          "note": "Company contact or on-site team/careers statement supports Lexington at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    },
+    {
+      "id": "electrified-thermal-solutions",
+      "name": "Electrified Thermal Solutions",
+      "website": "https://electrifiedthermal.com/",
+      "careers_url": "https://jobs.lever.co/ElectrifiedThermalSolutions",
+      "industries": [
+        "Energy technology"
+      ],
+      "summary": "Develops thermal batteries for industrial heat.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Company says Charlestown, a Boston neighborhood; Amsterdam is a separate company location. Company-linked board includes Charlestown and European roles; this is not a Boston-only vacancy count.",
+      "evidence": [
+        {
+          "url": "https://electrifiedthermal.com/",
+          "publisher": "Electrified Thermal Solutions",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1d556d3ae544efc9b62f1b274ea484f81ad668797318092baaaf8996cd12ca76",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/electrified-thermal-solutions",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9160ac6d19f2d167a8c4072521c7a1f2cb67b334c061cce9c20359b92a9285ba",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Chemicals & Materials, Energy & Distribution, Industrial Engineering & Automation. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://electrifiedthermal.com/",
+          "publisher": "Electrified Thermal Solutions",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1d556d3ae544efc9b62f1b274ea484f81ad668797318092baaaf8996cd12ca76",
+          "note": "Company contact or on-site team/careers statement supports Boston at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://jobs.lever.co/ElectrifiedThermalSolutions",
+          "publisher": "Electrified Thermal Solutions",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "5e9d852b6721d3fd578baa50521e37b2130b46cd6f87db3406989fe4126c1374",
+          "note": "Company-linked board includes Charlestown and European roles; this is not a Boston-only vacancy count."
+        }
+      ]
+    },
+    {
+      "id": "elementium-materials",
+      "name": "Elementium Materials",
+      "website": "https://elementium.io/",
+      "careers_url": null,
+      "industries": [
+        "Energy technology"
+      ],
+      "summary": "Develops battery electrolytes and energy-storage technology.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Woburn",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://elementium.io/",
+          "publisher": "Elementium Materials",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "599f4775ae335d0d541c959de98578c6c141e3fe03623b7b25be362bca2d6a00",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/elementium-materials",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "0b98fc8093fa1241bbddf774edf16ae0ced10af59b40cf7354c58fafadd0bce3",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Energy & Distribution. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://elementium.io/",
+          "publisher": "Elementium Materials",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "599f4775ae335d0d541c959de98578c6c141e3fe03623b7b25be362bca2d6a00",
+          "note": "Company contact or on-site team/careers statement supports Woburn at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    },
+    {
+      "id": "g5-labs",
+      "name": "G5 Labs",
+      "website": "https://g5labs.ai/",
+      "careers_url": "https://g5labs.ai/#careers",
+      "industries": [
+        "Artificial intelligence"
+      ],
+      "summary": "Develops an AI-native software engineering platform.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Homepage careers section lists Boston / Silicon Valley / Hybrid roles; no exact office or local workforce asserted.",
+      "evidence": [
+        {
+          "url": "https://g5labs.ai/",
+          "publisher": "G5 Labs",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9bd7c2364c204c4d13c826c02eb48341aeacdee57cf7d5163ebcff89215fd647",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Artificial Intelligence (AI) and Machine Learning (ML). Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://g5labs.ai/",
+          "publisher": "G5 Labs",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9bd7c2364c204c4d13c826c02eb48341aeacdee57cf7d5163ebcff89215fd647",
+          "note": "Company contact or on-site team/careers statement supports Boston at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://g5labs.ai/",
+          "publisher": "G5 Labs",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9bd7c2364c204c4d13c826c02eb48341aeacdee57cf7d5163ebcff89215fd647",
+          "note": "Homepage careers section lists Boston / Silicon Valley / Hybrid roles; no exact office or local workforce asserted."
+        }
+      ]
+    },
+    {
+      "id": "idx20",
+      "name": "IDX20",
+      "website": "https://idx20.us/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops diagnostic assays and associated tracking tools.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Brookline",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://idx20.us/",
+          "publisher": "IDX20",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "05c1e06941e3e259b77156445e5ce1ec84c4708af7b129d39a5c56f874cea1ab",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/idx20",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1f20b96ba65e2284aaaf612b6110394402f30cd54781011c41283afd2e504f69",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biotechnology, Communication Systems, Drug Discovery and Research Tools. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://idx20.us/",
+          "publisher": "IDX20",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "05c1e06941e3e259b77156445e5ce1ec84c4708af7b129d39a5c56f874cea1ab",
+          "note": "Company contact or on-site team/careers statement supports Brookline at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    },
+    {
+      "id": "inndura-therapeutics",
+      "name": "InnDura Therapeutics",
+      "website": "https://www.inndura.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops engineered cell therapies for autoimmune disease and cancer.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://www.inndura.com/",
+          "publisher": "InnDura Therapeutics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "ae479504b1a8d782b5e5bd2b6ca95e6430187a1083b7de253ab60b4e6501a7d5",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/inndura-therapeutics",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "55f82390e42bc6a20092a320141549f6ec68609bbee88f1cf3abf7809fcf956e",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biotechnology, Drug Delivery, Therapeutics. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.inndura.com/contact",
+          "publisher": "InnDura Therapeutics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "2ff0dc44a0ad4c6676d5f802268b7bf633acc4917016a30e5b13dcba7bca89af",
+          "note": "Company contact or on-site team/careers statement supports Cambridge at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    },
+    {
+      "id": "magnendo",
+      "name": "Magnendo",
+      "website": "https://www.magnendo.com/",
+      "careers_url": "https://www.magnendo.com/careers",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops robotic navigation for neurovascular intervention.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Newton",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Company careers page describes on-site Newton roles. Current office address and vacancy counts are unverified.",
+      "evidence": [
+        {
+          "url": "https://www.magnendo.com/",
+          "publisher": "Magnendo",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f1564962da709a9f5e758f0829d616a5e9144f64dc880275f32b14404adc703d",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Artificial Intelligence (AI) and Machine Learning (ML), Biotechnology, Drug Discovery and Research Tools. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.magnendo.com/careers",
+          "publisher": "Magnendo",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "494bf2f5ed5ddc99c51ea91b0149e08e365c43d72ecb82fe39f20b7a151fcd1c",
+          "note": "Company contact or on-site team/careers statement supports Newton at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.magnendo.com/careers",
+          "publisher": "Magnendo",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "494bf2f5ed5ddc99c51ea91b0149e08e365c43d72ecb82fe39f20b7a151fcd1c",
+          "note": "Company careers page describes on-site Newton roles. Current office address and vacancy counts are unverified."
+        }
+      ]
+    },
+    {
+      "id": "neurobionics",
+      "name": "Neurobionics",
+      "website": "https://neurobionics.io/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops bioelectronic neural interfaces.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://neurobionics.io/",
+          "publisher": "Neurobionics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "23d7da9e70786106e0fbfd80186ec29c96d13831e26f802264145d01f963519e",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups?page=1",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f34864ae0a93e1da842e0f021691f49e62e9b36fad4c67ce6d49f606a94fb33f",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biomaterials & Bioelectronics, Biotechnology, Chemicals & Materials. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://neurobionics.io/contact/",
+          "publisher": "Neurobionics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "33aee618f9c3ddb5935601379cc5b7ba4bb7f73c89a2da62d9ed53f86ab9c8df",
+          "note": "Company contact or on-site team/careers statement supports Cambridge at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    },
+    {
+      "id": "sanaheal",
+      "name": "SanaHeal",
+      "website": "https://sanaheal.com/",
+      "careers_url": "https://sanaheal.com/careers",
+      "industries": [
+        "Biomaterials"
+      ],
+      "summary": "Develops bioadhesives for biological tissues.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Somerville",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. The careers page contains template job entries alongside recruiting text; no listed job is treated as a verified vacancy.",
+      "evidence": [
+        {
+          "url": "https://sanaheal.com/",
+          "publisher": "SanaHeal",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "997b33093629bbf3b159f7d6c3d97bac8b1fb88a3a3fcf7a05df06f3b5272e52",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/sanaheal",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "731bf1e82784dc6acc3836a5a9559bd8015b74f2e4f61baff017d0021e45cfb3",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biomaterials & Bioelectronics, Biotechnology, Chemicals & Materials. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://sanaheal.com/contact-us",
+          "publisher": "SanaHeal",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "e79e1735652bace6506ce10daaac41048085edbf78723c63852d41ef6c65fff7",
+          "note": "Company contact or on-site team/careers statement supports Somerville at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://sanaheal.com/careers",
+          "publisher": "SanaHeal",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "9e0e4e5ba9f554882a909e10166e90030048cae7f77afe4c4fef1b05e3bc25f3",
+          "note": "The careers page contains template job entries alongside recruiting text; no listed job is treated as a verified vacancy."
+        }
+      ]
+    },
+    {
+      "id": "skyline-therapeutics",
+      "name": "Skyline Therapeutics",
+      "website": "https://www.skytx.com/",
+      "careers_url": "https://www.skytx.com/join.html",
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops gene therapies.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Cambridge",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Company-wide recruiting route may include China and US opportunities. The site labels its Cambridge contact location Boston; municipality is retained as Cambridge.",
+      "evidence": [
+        {
+          "url": "https://www.skytx.com/",
+          "publisher": "Skyline Therapeutics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "3617f45e669df2f712b49300549563e00fa81d610f4405478d00869334a03e7b",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/skyline-therapeutics",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "47cc42617ac309202f79e78a8b8e92619be9c891f03089c62072be1a1e6cef7c",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biotechnology, Therapeutics. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.skytx.com/contact.html",
+          "publisher": "Skyline Therapeutics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "b7ececce92efdaf62953691c9ee2daea308735283d4f889b579cfe282a5fc7e4",
+          "note": "Company contact or on-site team/careers statement supports Cambridge at municipality scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.skytx.com/join.html",
+          "publisher": "Skyline Therapeutics",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "22772e980bb0dc8794e8819eb6c30c51864e57b0016812efd4ddf67866d24cdb",
+          "note": "Company-wide recruiting route may include China and US opportunities. The site labels its Cambridge contact location Boston; municipality is retained as Cambridge."
+        }
+      ]
+    },
+    {
+      "id": "vectorwave",
+      "name": "VectorWave",
+      "website": "https://www.vectorwave.com/",
+      "careers_url": "https://www.vectorwave.com/careers",
+      "industries": [
+        "Artificial intelligence"
+      ],
+      "summary": "Develops neuromorphic analog AI for radio signals.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Greater Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "metropolitan-area",
+          "verification": "company-stated metropolitan on-site hiring area; municipality unresolved",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence. Greater Boston is a metropolitan hiring area; no municipality or map point is asserted. Company states Greater Boston on-site hiring; exact municipality, office and vacancy count remain unresolved.",
+      "evidence": [
+        {
+          "url": "https://www.vectorwave.com/",
+          "publisher": "VectorWave",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fb6ab32e46e0eddd23eebc6efda06b72110aaa6327f6e5c7c32e9dfb2363a28d",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "fd6bb6fb2e8597d073c2114aec1fea9168089dfe8d515805f3ebcb6f71eb1e3a",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Artificial Intelligence (AI) and Machine Learning (ML), Communication Systems. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://www.vectorwave.com/careers",
+          "publisher": "VectorWave",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f21fa933d17c21d1f85530e66a74bbfea422aeeadbb0b5164621a9e6417e88b8",
+          "note": "Company contact or on-site team/careers statement supports Greater Boston at metropolitan-area scope; not an independent occupancy audit."
+        },
+        {
+          "url": "https://www.vectorwave.com/careers",
+          "publisher": "VectorWave",
+          "primary": true,
+          "fields": [
+            "careers_url"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "f21fa933d17c21d1f85530e66a74bbfea422aeeadbb0b5164621a9e6417e88b8",
+          "note": "Company states Greater Boston on-site hiring; exact municipality, office and vacancy count remain unresolved."
+        }
+      ]
+    },
+    {
+      "id": "window-therapeutics",
+      "name": "Window Therapeutics",
+      "website": "https://windowtx.com/",
+      "careers_url": null,
+      "industries": [
+        "Biotechnology"
+      ],
+      "summary": "Develops targeted cancer therapeutics.",
+      "founded_on": null,
+      "ownership": null,
+      "locations": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "place_scope": "municipality",
+          "verification": "company-stated contact or on-site team/careers city",
+          "address": null,
+          "coordinates": null
+        }
+      ],
+      "review_status": "reviewed",
+      "checked_on": "2026-11-01",
+      "notes": "Official company and MIT TLO sources corroborate identity, website and broad industry. Current location is company-stated, not independently surveyed. No founding date, ownership, workforce or live-vacancy count inferred. MIT directory year is retained only in discovery evidence.",
+      "evidence": [
+        {
+          "url": "https://windowtx.com/",
+          "publisher": "Window Therapeutics",
+          "primary": true,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1b37647f05169fc337fa5d21a3dbdcedf06ed43c8affe3c4edf886c7af34a50e",
+          "note": "Official company identity and technology reviewed; short factual fields only."
+        },
+        {
+          "url": "https://tlo.mit.edu/industry-entrepreneurs/startups/window-therapeutics",
+          "publisher": "MIT Technology Licensing Office",
+          "primary": false,
+          "fields": [
+            "name",
+            "website",
+            "industries"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "75845b6594bfe92e0f700a3d8d51f157d34a4584da397e2517ee0aa053f62693",
+          "note": "Named MIT startup card/profile explicitly links the company domain; technology taxonomy: Biotechnology, Diagnostics, Therapeutics. Directory year is not founding year and MIT affiliation is not an office address."
+        },
+        {
+          "url": "https://windowtx.com/contact/",
+          "publisher": "Window Therapeutics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "e1061de33eb3cf539ab7c36e419008fdc3aa775d5357a804f08454d42e994d1d",
+          "note": "Company contact or on-site team/careers statement supports Boston at municipality scope; not an independent occupancy audit."
+        }
+      ]
+    }
+  ]
+}

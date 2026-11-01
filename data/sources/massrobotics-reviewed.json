@@ -1,6 +1,6 @@
 {
   "id": "massrobotics-reviewed",
-  "checked_on": "2026-10-31",
+  "checked_on": "2026-11-01",
   "companies": [
     {
       "id": "able-innovations",
@@ -1323,18 +1323,18 @@
       "ownership": null,
       "locations": [
         {
-          "city": "Boston",
+          "city": "Medford",
           "region": "MA",
           "country": "US",
           "precision": "city",
-          "verification": "directory-reported resident affiliation; physical office unverified",
+          "verification": "company-stated contact and on-site recruiting city; prior Boston directory affiliation retained in location_history",
           "address": null,
           "coordinates": null
         }
       ],
       "review_status": "reviewed",
-      "checked_on": "2026-10-31",
-      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned.",
+      "checked_on": "2026-11-01",
+      "notes": "Identity, website and sector cross-checked against official site and MassRobotics listing. Founding, ownership, payroll and current hiring remain unverified. Boston denotes the directory-reported MassRobotics resident affiliation, not independently confirmed headquarters or a current physical office. Other offices may be outside Massachusetts; no precise marker assigned. Official company contact footer and careers page identify Medford; this supersedes the Boston resident-affiliation place for the current city field, without erasing that original observation. No exact office point is inferred.",
       "evidence": [
         {
           "url": "https://www.massrobotics.org/startups/massrobotics-resident-startups/",
@@ -1361,6 +1361,28 @@
             "careers_url"
           ],
           "note": "Official website corroborates identity and technical activity. Career link, when present, is navigation evidence, not a verified current vacancy."
+        },
+        {
+          "url": "https://www.crabi-robotics.com/careers",
+          "publisher": "CRABI Robotics",
+          "primary": true,
+          "fields": [
+            "city"
+          ],
+          "checked_on": "2026-10-31",
+          "source_sha256": "1037c0bdd51917044ee8c036c5fab5895c2f06b18d37efe238cdf76d4b5c6c5d",
+          "note": "Company careers page explicitly states Medford, Massachusetts; only city retained, not the low-precision geographic label as an office coordinate."
+        }
+      ],
+      "location_history": [
+        {
+          "city": "Boston",
+          "region": "MA",
+          "country": "US",
+          "precision": "city",
+          "verification": "directory-reported resident affiliation; physical office unverified",
+          "address": null,
+          "coordinates": null
         }
       ]
     },

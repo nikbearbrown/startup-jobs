@@ -24,8 +24,9 @@ def build(root=ROOT):
  names=collections.defaultdict(set)
  for u,rs in groups.items():
   for a in rs:names[name_key(a['awardeeName'])].add(u)
- existing_names=collections.defaultdict(list)
- for r in existing:existing_names[name_key(r['name'])].append(r['id'])
+ existing_names=collections.defaultdict(list);existing_domains=collections.defaultdict(list)
+ for r in existing:
+  existing_names[name_key(r['name'])].append(r['id']);existing_domains[domain(r['website'])].append(r['id'])
  resolved=json.loads((D/'mit-tlo-resolved-links.json').read_text()) if (D/'mit-tlo-resolved-links.json').exists() else []
  websites={r['candidate_id']:r for r in resolved};candidates={};matches=[]
  for u,rs in sorted(groups.items()):
@@ -45,6 +46,7 @@ def build(root=ROOT):
  domains=collections.defaultdict(set)
  for r in candidates.values():
   r['website_candidates']=list({x['url']:x for x in r['website_candidates']}.values())
+  r['existing_company_suggestions']=sorted(set(r['existing_company_suggestions'])|{eid for w in r['website_candidates'] for eid in existing_domains.get(domain(w['url']),[])})
   for w in r['website_candidates']:domains[domain(w['url'])].add(r['candidate_id'])
  for r in candidates.values():
   r['shared_domain_candidates']=sorted({cid for w in r['website_candidates'] for cid in domains[domain(w['url'])] if cid!=r['candidate_id']})

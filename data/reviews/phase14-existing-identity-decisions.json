@@ -1,0 +1,22 @@
+[
+  {
+    "tlo_candidate_id": "mit-tlo-1c84caa7a1756e29",
+    "company_id": "kano",
+    "name": "Kano Therapeutics",
+    "website": "https://kanotherapeutics.com/",
+    "homepage_requested": "https://kanotherapeutics.com/",
+    "industry": "Biotechnology",
+    "summary": "Develops circular single-stranded DNA for genetic medicine.",
+    "city": "Cambridge",
+    "city_scope": "municipality",
+    "city_source": "https://kanotherapeutics.com/contact/",
+    "city_text": "238 Main Street, Cambridge",
+    "home_text": "genetic medicine",
+    "careers_url": "https://kanotherapeutics.com/careers/",
+    "careers_source": "https://kanotherapeutics.com/",
+    "careers_note": "Careers page offers an open application; it is not proof of a specific available vacancy.",
+    "decision": "existing-identity",
+    "reviewed_on": "2026-11-01",
+    "review_note": "Explicit official domain matches existing Kano record; retain stable ID and existing evidence. Not a new company."
+  }
+]
